@@ -4,10 +4,21 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from static_transform import remove_markup, transform_page
+from static_transform import remove_markup, replace_deprecated_domain, transform_page
 
 
 class StaticTransformTests(unittest.TestCase):
+    def test_replace_deprecated_domain_preserves_valid_urls_and_json(self):
+        import json
+        data = br'{"a":"http:\/\/theagilewriter.com\/page", "b":"http:theagilewriter.com", "c":"https://theagilewriter.com/path", "d":"other-theagilewriter.com"}'
+        result, count = replace_deprecated_domain(data)
+        parsed = json.loads(result)
+        self.assertEqual(count, 3)
+        self.assertEqual(parsed['a'], 'https://agilewriters.com/page')
+        self.assertEqual(parsed['b'], 'https://agilewriters.com')
+        self.assertEqual(parsed['c'], 'https://agilewriters.com/path')
+        self.assertEqual(parsed['d'], 'other-theagilewriter.com')
+
     def test_removes_search_comments_but_not_author_or_article(self):
         text = '<main><p>Article search and comment words stay.</p><div class="bizberg_user_comment_wrapper"><a>Author</a><div class="bizberg_detail_comment_count">0</div></div><li class="search_wrapper"><div><a>Search</a></div></li><section class="widget_search"><form role="search"><input></form></section><form id="contact"><input></form></main>'
         out, _ = remove_markup(text)

@@ -12,7 +12,7 @@ import shutil
 from urllib.parse import quote, unquote, urlsplit
 
 from audit_capture import SITE_HOSTS, audit, classify_file, local_candidates
-from static_transform import categories, transform_page
+from static_transform import categories, rewrite_published_domains, transform_page
 
 
 SCRIPT_SRC = re.compile(rb'(<script\b[^>]*?\bsrc\s*=\s*)(["\'])([^"\']+)(\2)', re.I)
@@ -73,7 +73,7 @@ def localize_verified_images(output):
         if dest_dir.exists():
             raise FileExistsError(f'Build already contains third-party assets: {dest_dir}')
         dest_dir.mkdir(parents=True)
-        shutil.copy2(third_party / 'manifest.json', dest_dir / 'manifest.json')
+        # The source manifest contains provenance URLs and remains outside the site.
         for entry in downloaded['images']:
             source = (third_party / entry['path']).resolve()
             if not source.is_relative_to(third_party.resolve()) or hashlib.sha256(source.read_bytes()).hexdigest() != entry['sha256']:
@@ -255,6 +255,7 @@ def build(capture, output, report, supplement=None):
         unavailable.update(missing)
     image_changes = localize_verified_images(output)
     changed, aliases = fix_script_mime(output)
+    domain_changes = rewrite_published_domains(output)
     removed_feeds = []
     for feed in sorted(p for p in output.rglob('*.html') if p.is_file() and classify_file(p) == 'feed'):
         removed_feeds.append(str(feed.relative_to(output)))
@@ -271,6 +272,7 @@ def build(capture, output, report, supplement=None):
         "- Removed unused missing Aclonica and Slick font declarations and replaced 13 unavailable theme image URLs with CSS `none`.",
         f"- Applied targeted static-only HTML transformations to {len(transformed)} files; unavailable archive/category choices are disabled and listed below.",
         f"- Localized verified image matches and authorized downloaded third-party images in {len(image_changes)} HTML files; final third-party permissions must be confirmed before deployment.",
+        f"- Updated old-domain references in {len(domain_changes)} generated HTML/snapshot files; asset provenance remains outside the public site.",
         f"- Removed {len(removed_feeds)} RSS/Atom snapshots from this build and their HTML discovery links; retained capture files unchanged.",
         "- Existing wget link conversions and other assets were retained.",
         "", "## Unresolved items", "",
@@ -301,6 +303,8 @@ def build(capture, output, report, supplement=None):
     lines.extend(f"- `{path}`: {counts}" for path, counts in transformed)
     lines += ["", "## Localized image src references", ""]
     lines.extend(f"- `{path}`: {count} references" for path, count in image_changes)
+    lines += ["", "## Updated old-domain references", ""]
+    lines.extend(f"- `{path}`: {count} references" for path, count in domain_changes)
     lines += ["", "## Unavailable category and archive choices", ""]
     lines.extend(f"- {item}" for item in sorted(unavailable))
     if not unavailable:

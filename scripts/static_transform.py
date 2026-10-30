@@ -11,6 +11,38 @@ from urllib.parse import quote, urlsplit
 
 VOID = {'area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'param', 'source', 'track', 'wbr'}
 REMOVE_CLASSES = {'search_wrapper', 'widget_search', 'full-screen-search', 'bizberg_detail_comment_count', 'comments-area', 'comment-respond'}
+OLD_DOMAIN = re.compile(rb'(?<![a-z0-9.-])(?:https?:(?:\\/\\/|//)?|//)?theagilewriter\.com(?![a-z0-9.-])', re.I)
+
+
+def replace_deprecated_domain(data):
+    """Update site text and JSON URL references without modifying provenance."""
+    def replace(match):
+        text = match.group(0)
+        if b'\\/' in text:
+            return b'https:\\/\\/agilewriters.com'
+        if b':' in text or text.startswith(b'//'):
+            return b'https://agilewriters.com'
+        return b'agilewriters.com'
+    return OLD_DOMAIN.subn(replace, data)
+
+
+def rewrite_published_domains(root):
+    """Update generated HTML and public WordPress snapshot records only."""
+    changed = []
+    for path in sorted(root.rglob('*')):
+        if not path.is_file():
+            continue
+        relative = path.relative_to(root)
+        if not (path.name.endswith('.html') or relative.parts[0] == 'wp-json'):
+            continue
+        original = path.read_bytes()
+        updated, count = replace_deprecated_domain(original)
+        if count:
+            if relative.parts[0] == 'wp-json':
+                json.loads(updated)
+            path.write_bytes(updated)
+            changed.append((str(relative), count))
+    return changed
 
 
 class Removals(HTMLParser):
