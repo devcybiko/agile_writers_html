@@ -1,0 +1,3747 @@
+{
+  "root": "/Users/greg/git/agile_writers_html/builds/site-plan2-assets-20261029",
+  "files_total": 1298,
+  "file_types": {
+    "css": 11,
+    "fonts": 66,
+    "html": 450,
+    "images": 264,
+    "javascript": 38,
+    "other": 469
+  },
+  "references_examined": 52808,
+  "missing_local": [],
+  "uncertain_references": [],
+  "external_hosts": {
+    "greg-smith.com": 432,
+    "reelheroes.net": 428,
+    "agilefrontiers.com": 424,
+    "localradio.today": 424,
+    "gmpg.org": 420,
+    "fonts.googleapis.com": 420,
+    "fonts.gstatic.com": 420,
+    "blog.richmond.edu": 420,
+    "facebook.com": 420,
+    "twitter.com": 420,
+    "youtube.com": 420,
+    "wordpress.org": 420,
+    "bizbergthemes.com": 420,
+    "agilewriter.files.wordpress.com": 244,
+    "www.amazon.com": 104,
+    "www.eventbrite.com": 40,
+    "www.publishersweekly.com": 36,
+    "en.wikipedia.org": 22,
+    "www.imdb.com": 18,
+    "mitchell-productions.com": 12,
+    "theagilewriter.com": 12,
+    "publishtothrive.com": 10,
+    "www.crimelibrary.com": 8,
+    "meet.meetup.com": 6,
+    "agilenovel.com": 6,
+    "www.authorsweekly.com": 4,
+    "buttsaboutwriting.blogspot.com": 4,
+    "www.nypl.org": 4,
+    "www.ala.org": 4,
+    "rogerpacker.com": 4,
+    "www.lifein10minutes.com": 4,
+    "thewritelife.com": 4,
+    "teanstrumpets.files.wordpress.com": 4,
+    "www.fbi.gov": 4,
+    "www.psychologytoday.com": 4,
+    "youtu.be": 4,
+    "www.helpingwritersbecomeauthors.com": 4,
+    "www.livewritethrive.com": 2,
+    "writersrelief.com": 2,
+    "www.huffingtonpost.com": 2,
+    "www.newyorker.com": 2,
+    "juliacameronlive.com": 2,
+    "www.stevenpressfield.com": 2,
+    "www.higherperspectives.com": 2,
+    "whitneyrobertshilldotcom.wordpress.com": 2,
+    "agilewriter.wordpress.com": 2,
+    "writersinthestormblog.com": 2,
+    "theconversation.com": 2,
+    "www.theguardian.com": 2,
+    ": http:": 2,
+    "www.sfwa.org": 2,
+    "blog.smashwords.com": 2,
+    "www.writerslife.org": 2,
+    "www.cnn.com": 2,
+    "www.createspace.com": 2,
+    "pronoun.com": 2,
+    "jetreidliterary.blogspot.com": 2,
+    "www.walmart.com": 2,
+    "www.boomermagazine.com": 2,
+    "bookriot.com": 2,
+    "www.therippyeffect.com": 2,
+    "www.lostintheredhillsofmars.com": 2,
+    "amazon.com": 2,
+    "wtvr.com": 2,
+    "www.mamamia.com.au": 2,
+    "inkwellbookcompany.com": 2,
+    "www.penneycomputer.com": 2,
+    "www.upwork.com": 2,
+    "www.guru.com": 2,
+    "www.freelancer.com": 2,
+    "www.textbroker.com": 2,
+    "www.greatcontent.com": 2,
+    "www.hirewriters.com": 2,
+    "indeed.com": 2,
+    "www.careerbuilder.com": 2,
+    "iampowerwoman.com": 2,
+    "wordstylistrva.com": 2,
+    "rottentomatoes.com": 2,
+    "www.herosupportguy.com": 2,
+    "www.drendall.com": 2,
+    "wgme.com": 2,
+    "www.facebook.com": 2,
+    "www.loudandcleargraphics.co.uk": 2,
+    "www.youtube.com": 2,
+    "wp3.commonsupport.com": 1
+  },
+  "external_resource_hosts": {
+    "gmpg.org": 420,
+    "fonts.googleapis.com": 420,
+    "fonts.gstatic.com": 420,
+    "agilewriter.files.wordpress.com": 156,
+    "theagilewriter.com": 12,
+    "publishtothrive.com": 4,
+    "greg-smith.com": 2,
+    "rogerpacker.com": 2,
+    "www.publishersweekly.com": 2,
+    "inkwellbookcompany.com": 2,
+    "mitchell-productions.com": 2,
+    "teanstrumpets.files.wordpress.com": 2,
+    "wp3.commonsupport.com": 1
+  },
+  "production_without_local_candidate": [
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.eot",
+      "occurrences": 2,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/main.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.eot",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/component.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.eot?",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/component.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.svg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/component.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.ttf",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/component.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.woff",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/component.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.svg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/main.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.ttf",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/main.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.woff",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/main.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.woff2",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/main.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/animated-number/bg.jpg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/bread-bg.jpg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/cta2/cta2-bg.jpg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/skill-bg.jpg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/01.jpg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/02.jpg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/03.jpg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/04.jpg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/testimonial/bg.jpg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/touch.jpg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/img/blackboard.jpg",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/img/line.png",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    },
+    {
+      "reference": "css: https://agilewriters.com/wp-content/themes/bizberg/assets/img/stamp.png",
+      "occurrences": 1,
+      "sources": [
+        "wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css"
+      ]
+    }
+  ],
+  "production_urls": {
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.eot": 2,
+    "https://agilewriters.com/author/admin/feed/": 1,
+    "https://agilewriters.com/author/guest-blogger/feed/": 1,
+    "https://agilewriters.com/category/adventure/feed/": 1,
+    "https://agilewriters.com/category/agile-writer-news/feed/": 1,
+    "https://agilewriters.com/category/articles/feed/": 1,
+    "https://agilewriters.com/category/audio-books/feed/": 1,
+    "https://agilewriters.com/category/authors/feed/": 1,
+    "https://agilewriters.com/category/blogging/feed/": 1,
+    "https://agilewriters.com/category/bookstores/feed/": 1,
+    "https://agilewriters.com/category/character/feed/": 1,
+    "https://agilewriters.com/category/critique/feed/": 1,
+    "https://agilewriters.com/category/ebooks/feed/": 1,
+    "https://agilewriters.com/category/editing/feed/": 1,
+    "https://agilewriters.com/category/heroes/feed/": 1,
+    "https://agilewriters.com/category/marketing/feed/": 1,
+    "https://agilewriters.com/category/movies/feed/": 1,
+    "https://agilewriters.com/category/plot/feed/": 1,
+    "https://agilewriters.com/category/publishing/feed/": 1,
+    "https://agilewriters.com/category/review/feed/": 1,
+    "https://agilewriters.com/category/structure/feed/": 1,
+    "https://agilewriters.com/category/writing/feed/": 1,
+    "https://agilewriters.com/feed/": 1,
+    "https://agilewriters.com/tag/blogging/feed/": 1,
+    "https://agilewriters.com/tag/critique/feed/": 1,
+    "https://agilewriters.com/tag/free/feed/": 1,
+    "https://agilewriters.com/tag/hosting/feed/": 1,
+    "https://agilewriters.com/tag/novel/feed/": 1,
+    "https://agilewriters.com/tag/wordpress/feed/": 1,
+    "https://agilewriters.com/tag/writing/feed/": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.eot": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.eot?": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.woff": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.ttf": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.svg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.woff2": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.woff": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.ttf": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.svg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/images/cta2/cta2-bg.jpg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/images/testimonial/bg.jpg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/images/animated-number/bg.jpg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/images/touch.jpg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/images/bread-bg.jpg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/images/skill-bg.jpg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/01.jpg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/02.jpg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/04.jpg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/03.jpg": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/img/stamp.png": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/img/line.png": 1,
+    "https://agilewriters.com/wp-content/themes/bizberg/assets/img/blackboard.jpg": 1
+  },
+  "wordpress_endpoints": {
+    "../../../../wp-json/index.html": 169,
+    "../../../../xmlrpc.php%3Frsd": 169,
+    "../wp-json/index.html": 63,
+    "../xmlrpc.php%3Frsd": 63,
+    "../../wp-json/index.html": 41,
+    "../../xmlrpc.php%3Frsd": 41,
+    "../../../../wp-json/wp/v2/users/2": 11,
+    "../../../../wp-json/wp/v2/categories/2": 4,
+    "../../../../wp-json/wp/v2/categories/43": 4,
+    "../../../../wp-json/wp/v2/categories/22": 4,
+    "../../../../wp-json/wp/v2/users/4": 2,
+    "../../../../wp-json/wp/v2/categories/18": 2,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fgreen-lantern-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fgreen-lantern-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1101": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fsuper-8-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fsuper-8-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1100": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fthe-art-of-getting-by-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fthe-art-of-getting-by-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1099": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F25%252Fbad-teacher-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F25%252Fbad-teacher-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1098": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F01%252Ftransformers-dark-of-the-moon-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F01%252Ftransformers-dark-of-the-moon-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1097": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F02%252Flarry-crowne-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F02%252Flarry-crowne-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1096": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F03%252Fmidnight-in-paris-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F03%252Fmidnight-in-paris-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1095": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F09%252Fhorrible-bosses-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F09%252Fhorrible-bosses-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1094": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F16%252Fharry-potter-and-the-deathly-hallows-part-2-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F16%252Fharry-potter-and-the-deathly-hallows-part-2-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1093": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F29%252Fcaptain-america-the-first-avenger-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F29%252Fcaptain-america-the-first-avenger-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1092": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F30%252Fcowboys-aliens-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F30%252Fcowboys-aliens-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1091": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F12%252Fcrazy-stupid-love-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F12%252Fcrazy-stupid-love-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1089": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F12%252Frise-of-the-planet-of-the-apes-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F12%252Frise-of-the-planet-of-the-apes-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1090": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F19%252Fthe-help-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F19%252Fthe-help-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1088": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F03%252Fthe-debt-i-2010%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F03%252Fthe-debt-i-2010%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1087": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F10%252Fwarrior-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F10%252Fwarrior-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1086": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F16%252Fdrive-i-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F16%252Fdrive-i-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1085": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F24%252Fmoneyball-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F24%252Fmoneyball-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1084": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F08%252Freal-steel-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F08%252Freal-steel-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1083": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F10%252F50-50-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F10%252F50-50-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1082": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F29%252Fin-time-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F29%252Fin-time-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1081": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F11%252F06%252Ftower-heist-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F11%252F06%252Ftower-heist-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1080": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F11%252F18%252Fimmortals-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F11%252F18%252Fimmortals-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1079": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F02%252Fhugo-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F02%252Fhugo-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1078": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F04%252Fj-edgar-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F04%252Fj-edgar-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1076": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F04%252Fthe-muppets-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F04%252Fthe-muppets-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1077": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F17%252Fmission-impossible-ghost-protocol-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F17%252Fmission-impossible-ghost-protocol-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1075": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F25%252Fthe-adventures-of-tintin-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F25%252Fthe-adventures-of-tintin-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1074": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F01%252F03%252Fwar-horse-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F01%252F03%252Fwar-horse-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1073": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F01%252F09%252Fthe-girl-with-the-dragon-tattoo-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F01%252F09%252Fthe-girl-with-the-dragon-tattoo-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1072": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F01%252F22%252Fred-tails-2012%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F01%252F22%252Fred-tails-2012%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1071": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F02%252F01%252Funderworld-awakening-2012%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F02%252F01%252Funderworld-awakening-2012%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1070": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F02%252F12%252Fstar-wars-episode-i-the-phantom-menace-1999%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F02%252F12%252Fstar-wars-episode-i-the-phantom-menace-1999%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1069": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F02%252F18%252Fghost-rider-spirit-of-vengeance-2011%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F02%252F18%252Fghost-rider-spirit-of-vengeance-2011%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1068": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F02%252F20%252Fsafe-house-2012%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F02%252F20%252Fsafe-house-2012%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1067": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F04%252F08%252Famerican-reunion-2012%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F04%252F08%252Famerican-reunion-2012%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1066": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F04%252F15%252Fthe-three-stooges-2012%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F04%252F15%252Fthe-three-stooges-2012%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1065": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F05%252F04%252Fthe-avengers-2012%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F05%252F04%252Fthe-avengers-2012%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1064": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F06%252F03%252Fsnow-white-and-the-huntsman-2012%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F06%252F03%252Fsnow-white-and-the-huntsman-2012%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1063": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F08%252F03%252Faccountability-and-motivation%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F08%252F03%252Faccountability-and-motivation%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/15": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F08%252F06%252Fgreat-articles-this-week%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F08%252F06%252Fgreat-articles-this-week%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/47": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F08%252F10%252Fwhat-is-a-novel%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F08%252F10%252Fwhat-is-a-novel%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/52": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F08%252F18%252Fthe-heros-journey%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F08%252F18%252Fthe-heros-journey%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/59": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F11%252F03%252Fthe-heros-journey-in-a-song%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F11%252F03%252Fthe-heros-journey-in-a-song%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/65": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F12%252F20%252Fstoryboard-night-at-the-museum-3%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2014%252F12%252F20%252Fstoryboard-night-at-the-museum-3%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/75": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F01%252F10%252F5-reasons-wordpress-com-is-for-authors%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F01%252F10%252F5-reasons-wordpress-com-is-for-authors%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/78": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F04%252F16%252Fturning-the-dial-learning-to-quiet-the-chatter-of-our-minds-through-the-accountability-of-a-writing-community%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F04%252F16%252Fturning-the-dial-learning-to-quiet-the-chatter-of-our-minds-through-the-accountability-of-a-writing-community%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/89": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F04%252F30%252Fwhats-in-a-pen-name%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F04%252F30%252Fwhats-in-a-pen-name%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/92": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F05%252F06%252Fa-dragon-named-publishing%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F05%252F06%252Fa-dragon-named-publishing%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/96": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F05%252F19%252Ftaking-notes-on-life%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F05%252F19%252Ftaking-notes-on-life%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/94": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F05%252F27%252Fgenre-fiction-vs-literary-fiction-do-i-have-to-choose%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F05%252F27%252Fgenre-fiction-vs-literary-fiction-do-i-have-to-choose%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/105": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F06%252F03%252Fdrafting-1-2-3%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F06%252F03%252Fdrafting-1-2-3%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/103": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F06%252F10%252Fdeveloping-secondary-characters%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F06%252F10%252Fdeveloping-secondary-characters%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/122": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F06%252F15%252Fwriters-block%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F06%252F15%252Fwriters-block%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/132": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F06%252F24%252Fwriting-to-discover-what-we-know%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F06%252F24%252Fwriting-to-discover-what-we-know%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/134": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F07%252F01%252Fan-audience-of-one%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F07%252F01%252Fan-audience-of-one%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/141": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F07%252F24%252Ftracking-changes%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F07%252F24%252Ftracking-changes%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/145": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F07%252F31%252Fwhen%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F07%252F31%252Fwhen%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/151": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F08%252F12%252Fand-where%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F08%252F12%252Fand-where%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/153": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F08%252F19%252Flearning-to-read-like-a-writer%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F08%252F19%252Flearning-to-read-like-a-writer%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/159": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F09%252F07%252Fwhat-does-it-mean-to-be-a-storyteller%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F09%252F07%252Fwhat-does-it-mean-to-be-a-storyteller%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/167": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F09%252F23%252Fholding-the-whole-thing%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F09%252F23%252Fholding-the-whole-thing%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/172": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F10%252F12%252Ftip-simply-publish-it%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F10%252F12%252Ftip-simply-publish-it%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/176": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F10%252F13%252Fyou-bring-the-passion%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F10%252F13%252Fyou-bring-the-passion%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/178": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F10%252F21%252Fwe-are-not-the-best-judge-of-our-own-work%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F10%252F21%252Fwe-are-not-the-best-judge-of-our-own-work%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/182": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F12%252F02%252Fauthorpreneur%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F12%252F02%252Fauthorpreneur%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/180": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F12%252F18%252Fthe-night-before-agile-writers%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F12%252F18%252Fthe-night-before-agile-writers%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/200": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F12%252F23%252Fthe-peril-of-the-pause%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2015%252F12%252F23%252Fthe-peril-of-the-pause%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/198": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F01%252F25%252Fthe-split-climax%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F01%252F25%252Fthe-split-climax%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/204": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F02%252F10%252Fleaving-space-for-the-reader%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F02%252F10%252Fleaving-space-for-the-reader%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/207": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F03%252F03%252Fplumbing-the-depths-of-your-own-life%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F03%252F03%252Fplumbing-the-depths-of-your-own-life%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/187": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F03%252F16%252Ftime-to-write%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F03%252F16%252Ftime-to-write%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/215": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F04%252F08%252Fannouncing-the-launch-of-agile-rewriters%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F04%252F08%252Fannouncing-the-launch-of-agile-rewriters%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/220": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F08%252F05%252Fnot-just-hump-day%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F08%252F05%252Fnot-just-hump-day%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/229": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F09%252F14%252Fagile-writers-spotlight%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F09%252F14%252Fagile-writers-spotlight%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/245": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F10%252F05%252Ffirst-draft-finishers%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F10%252F05%252Ffirst-draft-finishers%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/261": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F10%252F20%252Fquery-tips-from-an-agent%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2016%252F10%252F20%252Fquery-tips-from-an-agent%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/274": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F03%252F26%252Favatars-know-your-audience%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F03%252F26%252Favatars-know-your-audience%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/315": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F04%252F12%252Fconflict%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F04%252F12%252Fconflict%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/360": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F04%252F22%252Fnon-standard-plots-a-dogs-purpose%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F04%252F22%252Fnon-standard-plots-a-dogs-purpose%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/383": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F05%252F20%252Fthe-problem-with-star-wars%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F05%252F20%252Fthe-problem-with-star-wars%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/389": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F05%252F29%252Fthe-idiot-in-the-room%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F05%252F29%252Fthe-idiot-in-the-room%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/442": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F06%252F24%252Ffail-fast%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F06%252F24%252Ffail-fast%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/465": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F06%252F26%252Fthe-art-of-incubation%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F06%252F26%252Fthe-art-of-incubation%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/470": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F07%252F02%252Fagile-writer-keith-van-allen-releases-new-novel%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F07%252F02%252Fagile-writer-keith-van-allen-releases-new-novel%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/474": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F07%252F10%252Fagile-writer-featured-on-local-show%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F07%252F10%252Fagile-writer-featured-on-local-show%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/479": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F08%252F25%252Fthe-bar-is-set-low-very-low%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F08%252F25%252Fthe-bar-is-set-low-very-low%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/486": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F08%252F26%252Fgreg-smith-featured-on-the-heros-forge-podcast%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2017%252F08%252F26%252Fgreg-smith-featured-on-the-heros-forge-podcast%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/498": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F12%252F504%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F12%252F504%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/504": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F12%252Fapple-unveils-new-book-app%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F12%252Fapple-unveils-new-book-app%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/501": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F13%252Fpublishing%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F13%252Fpublishing%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/506": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F21%252Faudiobooks-up-23%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F21%252Faudiobooks-up-23%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/515": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F21%252Fbn-losing-in-2018q2%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F21%252Fbn-losing-in-2018q2%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/511": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F22%252Fthe-time-arthur-conan-doyle-helped-solve-a-real-murder-case%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F22%252Fthe-time-arthur-conan-doyle-helped-solve-a-real-murder-case%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/517": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F28%252Fauthor-earnings-sliding-fast-in-u-k%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F28%252Fauthor-earnings-sliding-fast-in-u-k%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/519": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F30%252F529%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F30%252F529%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/529": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F30%252Fthe-science-of-the-plot-twist%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F06%252F30%252Fthe-science-of-the-plot-twist%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/531": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F01%252F534%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F01%252F534%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/534": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F08%252Fhollywood-comes-calling-for-self-published-authors%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F08%252Fhollywood-comes-calling-for-self-published-authors%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/543": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F09%252Fevoking-emotion-in-fiction-7-pragmatic-ways-to-make-readers-give-a-damn%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F09%252Fevoking-emotion-in-fiction-7-pragmatic-ways-to-make-readers-give-a-damn%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/545": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F13%252Flife-in-10-introduces-hybrid-publishing-service-in-rva%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F13%252Flife-in-10-introduces-hybrid-publishing-service-in-rva%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/551": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F17%252Fbookstore-sales-rose-741m%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F17%252Fbookstore-sales-rose-741m%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/565": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F17%252Findie-audiobooks-on-the-rise%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F17%252Findie-audiobooks-on-the-rise%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/563": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F17%252Fpractical-writing-tips%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F17%252Fpractical-writing-tips%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/567": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F19%252Fnorth-american-comics-market-declined-6-5-in-2017%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F19%252Fnorth-american-comics-market-declined-6-5-in-2017%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/569": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F26%252Finvestment-group-acquires-5-7-stake-in-bn%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F26%252Finvestment-group-acquires-5-7-stake-in-bn%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/571": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F27%252Fa-12-year-old-boy-who-cant-speak-wrote-a-book-with-his-eyes%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F07%252F27%252Fa-12-year-old-boy-who-cant-speak-wrote-a-book-with-his-eyes%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/573": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F08%252F10%252Fthe-price-of-editing%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F08%252F10%252Fthe-price-of-editing%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/578": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F08%252F18%252F50-shades-of-submission%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F08%252F18%252F50-shades-of-submission%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/587": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F08%252F18%252Ftor-scifi-publisher-embargos-libraries%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F08%252F18%252Ftor-scifi-publisher-embargos-libraries%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/585": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F08%252F25%252Fwalmart-fights-kindle-with-kobo%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F08%252F25%252Fwalmart-fights-kindle-with-kobo%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/589": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F09%252F05%252Fagile-writer-starts-alopecia-blog-vlog%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F09%252F05%252Fagile-writer-starts-alopecia-blog-vlog%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/595": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F09%252F10%252Fagile-writer-jackie-hunter-in-boomer-magazine%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F09%252F10%252Fagile-writer-jackie-hunter-in-boomer-magazine%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/597": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F09%252F16%252Fused-bookstores-are-swimming-in-these%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F09%252F16%252Fused-bookstores-are-swimming-in-these%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/603": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F10%252F09%252Four-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F10%252F09%252Four-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/607": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F12%252F22%252Fthe-problem-with-notting-hill%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2018%252F12%252F22%252Fthe-problem-with-notting-hill%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/610": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-avoid-writers-block-with-the-candy-crunched-method%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-avoid-writers-block-with-the-candy-crunched-method%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/612": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-build-your-email-list-with-4-specific-facebook-ad-strategies%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-build-your-email-list-with-4-specific-facebook-ad-strategies%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/640": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-how-to-start-a-writing-career-with-no-experience%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-how-to-start-a-writing-career-with-no-experience%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/618": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-the-importance-of-colors-to-your-brand%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-the-importance-of-colors-to-your-brand%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/637": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-understanding-psychopathy%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-understanding-psychopathy%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/624": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-your-content-needs-a-solid-foundation%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F17%252Fguest-post-your-content-needs-a-solid-foundation%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/629": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F26%252Fon-awards-shows%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F01%252F26%252Fon-awards-shows%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/649": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F03%252F15%252Fspeaking-at-awesomize-your-life%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F03%252F15%252Fspeaking-at-awesomize-your-life%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/657": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F04%252F08%252Fagile-writer-ken-hubona-publishes-first-novel-brewing-justice%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F04%252F08%252Fagile-writer-ken-hubona-publishes-first-novel-brewing-justice%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/659": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F06%252F25%252Fis-agile-writers-a-good-value%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F06%252F25%252Fis-agile-writers-a-good-value%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/662": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F07%252F08%252Fgood-vs-bad-book-dont-judge%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F07%252F08%252Fgood-vs-bad-book-dont-judge%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/683": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F09%252F08%252Fpublic-library-shuns-writer%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F09%252F08%252Fpublic-library-shuns-writer%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/689": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F11%252F26%252Fagile-writer-ken-hubona-does-it-again-shades-released%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2019%252F11%252F26%252Fagile-writer-ken-hubona-does-it-again-shades-released%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/697": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F04%252F15%252Fexperimenter-2015%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F04%252F15%252Fexperimenter-2015%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/704": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F09%252F13%252Fagile-writer-adenike-lucas-publishes-birthright%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F09%252F13%252Fagile-writer-adenike-lucas-publishes-birthright%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/716": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F09%252F18%252Fstar-trek-first-frontier-review%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F09%252F18%252Fstar-trek-first-frontier-review%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/719": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F09%252F20%252Fstar-trektos-my-worst-to-best-episodes%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F09%252F20%252Fstar-trektos-my-worst-to-best-episodes%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/727": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F11%252F01%252Fthe-queens-gambit-ep-1-openings%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F11%252F01%252Fthe-queens-gambit-ep-1-openings%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/745": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F11%252F23%252Fthe-kings-english-in-america%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2020%252F11%252F23%252Fthe-kings-english-in-america%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/769": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2021%252F02%252F03%252Fshadow-in-the-cloud%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2021%252F02%252F03%252Fshadow-in-the-cloud%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/804": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2021%252F02%252F03%252Fthe-problem-with-the-mandalorian%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2021%252F02%252F03%252Fthe-problem-with-the-mandalorian%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/806": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2022%252F05%252F15%252Fthe-problem-with-firestarter-2022%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2022%252F05%252F15%252Fthe-problem-with-firestarter-2022%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1109": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2022%252F07%252F09%252Fthe-problem-with-the-multiverse%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2022%252F07%252F09%252Fthe-problem-with-the-multiverse%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1117": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2023%252F04%252F18%252Fthe-problem-with-daisy-jones-the-six%252F": 1,
+    "../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2023%252F04%252F18%252Fthe-problem-with-daisy-jones-the-six%252F&format=xml": 1,
+    "../../../../wp-json/wp/v2/posts/1135": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Fabout%252F": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Fabout%252F&format=xml": 1,
+    "../wp-json/wp/v2/pages/14": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Fagile-writer-method-book%252F": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Fagile-writer-method-book%252F&format=xml": 1,
+    "../wp-json/wp/v2/pages/17": 1,
+    "../../wp-json/wp/v2/users/2": 1,
+    "../../wp-json/wp/v2/users/4": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Fauthors%252F": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Fauthors%252F&format=xml": 1,
+    "../wp-json/wp/v2/pages/1016": 1,
+    "../../wp-json/wp/v2/categories/34": 1,
+    "../../wp-json/wp/v2/categories/40": 1,
+    "../../../../wp-json/wp/v2/categories/40": 1,
+    "../../wp-json/wp/v2/categories/2": 1,
+    "../../wp-json/wp/v2/categories/48": 1,
+    "../../wp-json/wp/v2/categories/3": 1,
+    "../../wp-json/wp/v2/categories/4": 1,
+    "../../wp-json/wp/v2/categories/5": 1,
+    "../../wp-json/wp/v2/categories/6": 1,
+    "../../../../wp-json/wp/v2/categories/6": 1,
+    "../../wp-json/wp/v2/categories/8": 1,
+    "../../wp-json/wp/v2/categories/47": 1,
+    "../../wp-json/wp/v2/categories/9": 1,
+    "../../wp-json/wp/v2/categories/11": 1,
+    "../../wp-json/wp/v2/categories/14": 1,
+    "../../wp-json/wp/v2/categories/15": 1,
+    "../../wp-json/wp/v2/categories/17": 1,
+    "../../wp-json/wp/v2/categories/18": 1,
+    "../../wp-json/wp/v2/categories/43": 1,
+    "../../wp-json/wp/v2/categories/21": 1,
+    "../../wp-json/wp/v2/categories/22": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Fhome-page%252F": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Fhome-page%252F&format=xml": 1,
+    "../wp-json/wp/v2/pages/783": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Fprivacy-policy%252F": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Fprivacy-policy%252F&format=xml": 1,
+    "../wp-json/wp/v2/pages/3": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Frelated-sites%252F": 1,
+    "../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252Frelated-sites%252F&format=xml": 1,
+    "../wp-json/wp/v2/pages/31": 1,
+    "../../wp-json/wp/v2/tags/24": 1,
+    "../../wp-json/wp/v2/tags/26": 1,
+    "../../wp-json/wp/v2/tags/27": 1,
+    "../../wp-json/wp/v2/tags/28": 1,
+    "../../wp-json/wp/v2/tags/29": 1,
+    "../../wp-json/wp/v2/tags/30": 1,
+    "../../wp-json/wp/v2/tags/31": 1
+  },
+  "features": [
+    {
+      "reference": "possible search/comment markup: form: search-form search-form",
+      "occurrences": 840,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "possible search/comment markup: input: s search-field s",
+      "occurrences": 840,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "possible search/comment markup: input: searchsubmit search-submit",
+      "occurrences": 840,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "search input: s",
+      "occurrences": 840,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "form: ../../../../index.html",
+      "occurrences": 507,
+      "sources": [
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html",
+        "2011/07/16/harry-potter-and-the-deathly-hallows-part-2-2011/index.html",
+        "2011/07/29/captain-america-the-first-avenger-2011/index.html"
+      ]
+    },
+    {
+      "reference": "form: index.html",
+      "occurrences": 441,
+      "sources": [
+        "index.html",
+        "index.html?p=1016.html",
+        "index.html?p=103.html",
+        "index.html?p=105.html",
+        "index.html?p=1063.html",
+        "index.html?p=1064.html",
+        "index.html?p=1065.html",
+        "index.html?p=1066.html",
+        "index.html?p=1067.html",
+        "index.html?p=1068.html"
+      ]
+    },
+    {
+      "reference": "possible search/comment markup: a: search-icon",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "possible search/comment markup: div: full-screen-search",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "possible search/comment markup: div: header-search",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "possible search/comment markup: div: search-box-wrap",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "possible search/comment markup: i: fa fa-search",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "possible search/comment markup: li: menu-item search_wrapper",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "possible search/comment markup: section: search-2 widget widget_search",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "possible search/comment markup: div: bizberg_detail_comment_count",
+      "occurrences": 280,
+      "sources": [
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html",
+        "2011/07/16/harry-potter-and-the-deathly-hallows-part-2-2011/index.html",
+        "2011/07/29/captain-america-the-first-avenger-2011/index.html"
+      ]
+    },
+    {
+      "reference": "possible search/comment markup: div: bizberg_user_comment_wrapper",
+      "occurrences": 280,
+      "sources": [
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html",
+        "2011/07/16/harry-potter-and-the-deathly-hallows-part-2-2011/index.html",
+        "2011/07/29/captain-america-the-first-avenger-2011/index.html"
+      ]
+    },
+    {
+      "reference": "form: ../index.html",
+      "occurrences": 189,
+      "sources": [
+        "2011/06.html",
+        "2011/07.html",
+        "2011/08.html",
+        "2011/09.html",
+        "2011/10.html",
+        "2011/11.html",
+        "2011/12.html",
+        "2012/01.html",
+        "2012/02.html",
+        "2012/04.html"
+      ]
+    },
+    {
+      "reference": "form: ../../index.html",
+      "occurrences": 123,
+      "sources": [
+        "author/admin/index.html",
+        "author/guest-blogger/index.html",
+        "category/adventure/index.html",
+        "category/agile-writer-news/index.html",
+        "category/articles/index.html",
+        "category/audio-books/index.html",
+        "category/authors/index.html",
+        "category/blogging/index.html",
+        "category/bookstores/index.html",
+        "category/character/index.html"
+      ]
+    }
+  ],
+  "parse_errors": [],
+  "classified_external_references": [
+    {
+      "reference": "navigation: http://localradio.today",
+      "occurrences": 424,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://agilefrontiers.com",
+      "occurrences": 422,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://greg-smith.com",
+      "occurrences": 422,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://reelheroes.net",
+      "occurrences": 422,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "metadata: http://gmpg.org/xfn/11",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "metadata: https://fonts.googleapis.com/",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "metadata: https://fonts.gstatic.com",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://facebook.com/agilewriters",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://twitter.com/agilewriters",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://youtube.com/agilewriters",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://bizbergthemes.com/",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://blog.richmond.edu/heroes",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://wordpress.org/",
+      "occurrences": 420,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.eventbrite.com/e/agile-writer-conference-2019-tickets-53626697897",
+      "occurrences": 38,
+      "sources": [
+        "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+        "2019/01/17/guest-post-build-your-email-list-with-4-specific-facebook-ad-strategies/index.html",
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html",
+        "index.html?p=612.html",
+        "index.html?p=618.html",
+        "index.html?p=624.html",
+        "index.html?p=629.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Brewing-Justice-Ken-Hubona-ebook/dp/B07KSNGWTQ",
+      "occurrences": 8,
+      "sources": [
+        "2019/04/08/agile-writer-ken-hubona-publishes-first-novel-brewing-justice/index.html",
+        "authors/index.html",
+        "index.html?p=1016.html",
+        "index.html?p=659.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://ReelHeroes.net",
+      "occurrences": 6,
+      "sources": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=31.html",
+        "index.html?p=649.html",
+        "related-sites/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://agilenovel.com",
+      "occurrences": 6,
+      "sources": [
+        "agile-writer-method-book/index.html",
+        "index.html?p=17.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://Greg-Smith.com",
+      "occurrences": 4,
+      "sources": [
+        "about/index.html",
+        "index.html?p=14.html",
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://buttsaboutwriting.blogspot.com/2014/01/what-you-need-to-know-about-book.html",
+      "occurrences": 4,
+      "sources": [
+        "2014/08/06/great-articles-this-week/index.html",
+        "index.html?p=47.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://publishtothrive.com",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-build-your-email-list-with-4-specific-facebook-ad-strategies/index.html",
+        "index.html?p=640.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.crimelibrary.com/criminal_mind/psychology/robert_hare/5.html",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/july-2012/the-language-of-psychopaths",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/The_Tenth_Level",
+      "occurrences": 4,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://mitchell-productions.com",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/ANTICHRIST-COMES-STONEd-COUNTY-ebook/dp/B07BDP7BJM/ref=sr_1_1?s=books&ie=UTF8&qid=1528754298&sr=1-1&keywords=antichrist+comes+to+stoned+county",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Blueprint-Going-Green-Environmental-Conservation-ebook/dp/B0CLKZST6Y",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Chasing-One-Christine-Gauthier/dp/B0D786C6T4",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Date-Fairy-Drag-Queen/dp/B0DZZ6Q8QX",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Eye-Bleach-Paul-Creasy-ebook/dp/B07BZYNQYQ",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Ezekiel-Saw-Wheel-Keith-Allen-ebook/dp/B073DKBS1D/ref=sr_1_sc_2?s=digital-text&ie=UTF8&qid=1528754074&sr=1-2-spell&keywords=ezekial+saw+a+wheel",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Gospel-Pilate-Paul-Creasy-ebook/dp/B01LXWQCF7/ref=sr_1_1?s=books&ie=UTF8&qid=1528754251&sr=1-1&keywords=the+gospel+of+pilate",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Grief-Masters-Diana-Farrar-Caron-ebook/dp/B0791YRKD9/ref=sr_1_2?s=books&ie=UTF8&qid=1528754548&sr=1-2&keywords=the+grief+master",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Inhale-Cyndy-Kelly/dp/0985744030/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1528754711&sr=1-1-fkmr0&keywords=inhale+cyndy+kelley",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Inhuman-Nature-Mystery-Thriller-Novel/dp/1959911007",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Land-Three-Houses-Thomas-Brown-ebook/dp/B07BSQJXQL/ref=sr_1_1?ie=UTF8&qid=1528753948&sr=8-1&keywords=the+land+of+three+houses",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Life-Glass-Cage-Forgiveness-Fulfillment-ebook/dp/B01M7O6V8Z/ref=sr_1_1?s=books&ie=UTF8&qid=1528754457&sr=1-1&keywords=life+in+the+glass+cage",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Lost-Hills-Mars-Jackie-Hunter-ebook/dp/B0775R3MYH/ref=sr_1_1?s=books&ie=UTF8&qid=1528754388&sr=1-1&keywords=the+red+hills+of+mars",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Martian-Girl-Futuristic-Mars-Adventures-ebook/dp/B0CJT6VHHP",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Minuet-Serenade-Suzan-McKenzie/dp/0985744049/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1528754673&sr=1-1-spell&keywords=MINUET+AND+SARANADE",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Mrs-Jones-Midas-Train-Dieselpunk-ebook/dp/B07538DTQB",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Never-Alone-Christine-Phillips-2012-07-01/dp/B01F9GW4J4/ref=sr_1_1?s=books&ie=UTF8&qid=1528754788&sr=1-1&keywords=never+alone+christine+phillips",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Poison-Cup-M-G-Davis-ebook/dp/B01N9HYQ6E/ref=sr_1_2?s=books&ie=UTF8&qid=1528754503&sr=1-2&keywords=the+poison+cup",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Shades-Ken-Hubona/dp/1097996263",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/When-Are-Leaving-Melissa-Powell-ebook/dp/B01B1W56GI/ref=sr_1_1?s=books&ie=UTF8&qid=1528754598&sr=1-1&keywords=when+are+you+leaving",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/dp/0989522334/ref=cm_sw_r_cp_apa_i_SjOxFb7K4G49Z",
+      "occurrences": 4,
+      "sources": [
+        "2020/09/13/agile-writer-adenike-lucas-publishes-birthright/index.html",
+        "authors/index.html",
+        "index.html?p=1016.html",
+        "index.html?p=716.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0765597/?ref_=tt_cl_t4",
+      "occurrences": 4,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "resource: http://theagilewriter.com/wp-content/uploads/2014/08/greg-circle-300x300-1-150x150.png",
+      "occurrences": 4,
+      "sources": [
+        "about/index.html",
+        "index.html?p=14.html",
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-7.54.02-pm.png?w=300",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+        "index.html?p=612.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-8.03.46-pm.png?w=300",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-8.18.32-pm.png?w=300",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-8.28.56-pm.png?w=300",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html",
+        "index.html?p=629.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-8.37.10-pm.png?w=300",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-8.43.56-pm.png?w=296",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-build-your-email-list-with-4-specific-facebook-ad-strategies/index.html",
+        "index.html?p=640.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://: http://www.writersdigest.com/writing-articles/by-writing-goal/improve-my-writing/writing-tips-for-evoking-emotion-in-fiction",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/09/evoking-emotion-in-fiction-7-pragmatic-ways-to-make-readers-give-a-damn/index.html",
+        "index.html?p=545.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://RottenTomatoes.com",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://agilefrontiers.com/",
+      "occurrences": 2,
+      "sources": [
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://amazon.com/",
+      "occurrences": 2,
+      "sources": [
+        "2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html",
+        "index.html?p=607.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://blog.smashwords.com/",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/17/indie-audiobooks-on-the-rise/index.html",
+        "index.html?p=563.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://en.wikipedia.org/wiki/Ted_Bundy",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://greg-smith.com/wp-content/uploads/2014/12/Night_at_the_Museum_Secret_of_the_Tomb_poster.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2014/12/20/storyboard-night-at-the-museum-3/index.html",
+        "index.html?p=75.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://iampowerwoman.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://jetreidliterary.blogspot.com/2018/08/60-is-new-50.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/18/50-shades-of-submission/index.html",
+        "index.html?p=587.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://juliacameronlive.com/",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://mitchell-productions.com/about-me/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://mitchell-productions.com/schedule/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://mitchell-productions.com/services/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://pronoun.com/build-your-team/with-the-right/copy-editor/",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/10/the-price-of-editing/index.html",
+        "index.html?p=578.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://publishtothrive.com/avoid-writers-block-workshop",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+        "index.html?p=612.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://rogerpacker.com/hollywood-comes-calling-for-self-published-authors/",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/08/hollywood-comes-calling-for-self-published-authors/index.html",
+        "index.html?p=543.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://writersinthestormblog.com/2018/05/when-action-isnt-a-good-thing-in-your-novel/",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/30/529/index.html",
+        "index.html?p=529.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://writersrelief.com/blog/2009/06/genre-fiction-rules-find-out-if-your-novel-meets-publishers-and-literary-agents-criteria-for-publication/",
+      "occurrences": 2,
+      "sources": [
+        "2014/08/06/great-articles-this-week/index.html",
+        "index.html?p=47.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.ala.org/alsc/awardsgrants/bookmedia/wildermedal/wilderabout",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/01/534/index.html",
+        "index.html?p=534.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.ala.org/alsc/sites/ala.org.alsc/files/content/awardsgrants/bookmedia/wildermedal/DOC%2025%20Award%20Program%20Review%20Task%20Force%20Wilder%20Award%20Recommendation.pdf",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/01/534/index.html",
+        "index.html?p=534.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.amazon.com/Agile-Writer-Method-Write-Months-ebook/dp/B00M9WD5YK/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1419039789",
+      "occurrences": 2,
+      "sources": [
+        "2014/12/20/storyboard-night-at-the-museum-3/index.html",
+        "index.html?p=75.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.authorsweekly.com/blog/Authors/Should_Auhtors_pay_to_advertise",
+      "occurrences": 2,
+      "sources": [
+        "2014/08/06/great-articles-this-week/index.html",
+        "index.html?p=47.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.authorsweekly.com/blog/Authors/attract_thousands_readers_in_weeks",
+      "occurrences": 2,
+      "sources": [
+        "2014/08/06/great-articles-this-week/index.html",
+        "index.html?p=47.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.careerbuilder.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.createspace.com/Services/Copyediting.jsp",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/10/the-price-of-editing/index.html",
+        "index.html?p=578.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.crimelibrary.com/criminal_mind/psychology/robert_hare/6.html",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.crimelibrary.com/criminal_mind/psychology/robert_hare/index.html",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.drendall.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.helpingwritersbecomeauthors.com",
+      "occurrences": 2,
+      "sources": [
+        "2019/07/08/good-vs-bad-book-dont-judge/index.html",
+        "index.html?p=683.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.herosupportguy.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.higherperspectives.com/overthinking-worriers-1429984438.html",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.huffingtonpost.com/steven-petite/literary-fiction-vs-genre-fiction_b_4859609.html",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html",
+        "index.html?p=105.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.lifein10minutes.com",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/13/life-in-10-introduces-hybrid-publishing-service-in-rva/index.html",
+        "index.html?p=551.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.lifein10minutes.com/about-l10-press-hybrid-pres-book-publishing/",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/13/life-in-10-introduces-hybrid-publishing-service-in-rva/index.html",
+        "index.html?p=551.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.livewritethrive.com/2014/07/16/how-to-add-meaningful-subplots-to-your-novel/",
+      "occurrences": 2,
+      "sources": [
+        "2014/08/06/great-articles-this-week/index.html",
+        "index.html?p=47.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.lostintheredhillsofmars.com/",
+      "occurrences": 2,
+      "sources": [
+        "2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html",
+        "index.html?p=607.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.newyorker.com/books/joshua-rothman/better-way-think-genre-debate",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html",
+        "index.html?p=105.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.nypl.org/blog/2015/11/03/podcast-library-lions",
+      "occurrences": 2,
+      "sources": [
+        "2016/03/03/plumbing-the-depths-of-your-own-life/index.html",
+        "index.html?p=187.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.nypl.org/blog/2016/01/19/podcast-junot-diaz",
+      "occurrences": 2,
+      "sources": [
+        "2016/02/10/leaving-space-for-the-reader/index.html",
+        "index.html?p=207.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.psychologytoday.com/basics/environmental-psychology",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.psychologytoday.com/blog/mindmelding/201301/what-is-psychopath-0",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.sfwa.org/other-resources/for-authors/writer-beware/cases/",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/13/life-in-10-introduces-hybrid-publishing-service-in-rva/index.html",
+        "index.html?p=551.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.stevenpressfield.com/",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.therippyeffect.com/",
+      "occurrences": 2,
+      "sources": [
+        "2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html",
+        "index.html?p=607.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.writerslife.org/writing-tips-toolkit",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/17/practical-writing-tips/index.html",
+        "index.html?p=567.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2014/11/barrymanilow.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2014/11/03/the-heros-journey-in-a-song/index.html",
+        "index.html?p=65.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/01/ddp_logo.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/06/a-dragon-named-publishing/index.html",
+        "index.html?p=96.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/04/5174.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/19/taking-notes-on-life/index.html",
+        "index.html?p=94.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/04/pen-name-tag.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/04/30/whats-in-a-pen-name/index.html",
+        "index.html?p=92.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/05/literary-vs-genre1.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html",
+        "index.html?p=105.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/06/audience.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/07/01/an-audience-of-one/index.html",
+        "index.html?p=141.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/06/awdesk.gif",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/03/drafting-1-2-3/index.html",
+        "index.html?p=103.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/06/group-people-silhouette.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/10/developing-secondary-characters/index.html",
+        "index.html?p=122.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/06/magnifier-keyboard-25318648.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/24/writing-to-discover-what-we-know/index.html",
+        "index.html?p=134.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/06/writers-block-01.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/15/writers-block/index.html",
+        "index.html?p=132.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/07/imageedit_2_8335958346.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/07/24/tracking-changes/index.html",
+        "index.html?p=145.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/07/unknown.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/07/31/when/index.html",
+        "index.html?p=151.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/07/where_large.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/08/12/and-where/index.html",
+        "index.html?p=153.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/08/brand-storyteller.png",
+      "occurrences": 2,
+      "sources": [
+        "2015/09/07/what-does-it-mean-to-be-a-storyteller/index.html",
+        "index.html?p=167.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/08/large_read_like_a_writer.png",
+      "occurrences": 2,
+      "sources": [
+        "2015/08/19/learning-to-read-like-a-writer/index.html",
+        "index.html?p=159.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/09/freegreatpicture-com-26108-holding-blank-card.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/09/23/holding-the-whole-thing/index.html",
+        "index.html?p=172.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/10/free-clipart-gavel-judge-gavel-pictures-clipart-best-pictures.gif",
+      "occurrences": 2,
+      "sources": [
+        "2015/10/21/we-are-not-the-best-judge-of-our-own-work/index.html",
+        "index.html?p=182.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/10/images.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/02/authorpreneur/index.html",
+        "index.html?p=180.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/11/dt9x9e89c.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/03/03/plumbing-the-depths-of-your-own-life/index.html",
+        "index.html?p=187.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/12/pause.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/01/merging-lanes-ahead.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/01/25/the-split-climax/index.html",
+        "index.html?p=204.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/02/06-the-white-room-6.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/02/10/leaving-space-for-the-reader/index.html",
+        "index.html?p=207.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/03/timetowrite1.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/03/16/time-to-write/index.html",
+        "index.html?p=215.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/08/untitled-design.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/08/05/not-just-hump-day/index.html",
+        "index.html?p=229.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/09/spotlight.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/09/14/agile-writers-spotlight/index.html",
+        "index.html?p=245.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/10/christine.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/05/first-draft-finishers/index.html",
+        "index.html?p=261.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/10/drama-clipart.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/20/query-tips-from-an-agent/index.html",
+        "index.html?p=274.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/10/jim.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/05/first-draft-finishers/index.html",
+        "index.html?p=261.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/10/research-clip-art.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/20/query-tips-from-an-agent/index.html",
+        "index.html?p=274.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/10/sell-clip-art.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/20/query-tips-from-an-agent/index.html",
+        "index.html?p=274.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/04/a_dogs_purpose_film.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2017/04/22/non-standard-plots-a-dogs-purpose/index.html",
+        "index.html?p=383.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/06/fail-fast-and-carry-on.png",
+      "occurrences": 2,
+      "sources": [
+        "2017/06/24/fail-fast/index.html",
+        "index.html?p=465.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/07/61sulmtgnl.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2017/07/02/agile-writer-keith-van-allen-releases-new-novel/index.html",
+        "index.html?p=474.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/07/img_0001.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2017/07/10/agile-writer-featured-on-local-show/index.html",
+        "index.html?p=479.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/08/1500571188789.jpeg",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/26/greg-smith-featured-on-the-heros-forge-podcast/index.html",
+        "index.html?p=498.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/08/225x225bb.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/25/the-bar-is-set-low-very-low/index.html",
+        "index.html?p=486.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/08/images-2.jpeg",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/25/the-bar-is-set-low-very-low/index.html",
+        "index.html?p=486.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/08/images-3.jpeg",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/25/the-bar-is-set-low-very-low/index.html",
+        "index.html?p=486.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2018/06/34908807_10156002254400379_1342226981361549312_o.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/13/publishing/index.html",
+        "index.html?p=506.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2018/06/55230-1.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/21/bn-losing-in-2018q2/index.html",
+        "index.html?p=511.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2019/01/11432430_s.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html",
+        "index.html?p=629.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2019/04/picture1.png",
+      "occurrences": 2,
+      "sources": [
+        "2019/04/08/agile-writer-ken-hubona-publishes-first-novel-brewing-justice/index.html",
+        "index.html?p=659.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2019/11/image.png",
+      "occurrences": 2,
+      "sources": [
+        "2019/11/26/agile-writer-ken-hubona-does-it-again-shades-released/index.html",
+        "index.html?p=697.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2020/11/pawel-furman-jo21h-4lyfu-unsplash.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2020/11/23/the-kings-english-in-america/index.html",
+        "index.html?p=769.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.wordpress.com/2015/06/24/writing-to-discover-what-we-know/",
+      "occurrences": 2,
+      "sources": [
+        "2016/03/03/plumbing-the-depths-of-your-own-life/index.html",
+        "index.html?p=187.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://bookriot.com/2018/09/14/the-books-were-drowning-in-a-booksellers-lament/",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/16/used-bookstores-are-swimming-in-these/index.html",
+        "index.html?p=603.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Academy_Awards",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Butterfly_effect",
+      "occurrences": 2,
+      "sources": [
+        "2022/07/09/the-problem-with-the-multiverse/index.html",
+        "index.html?p=1117.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Chekhov%27s_gun",
+      "occurrences": 2,
+      "sources": [
+        "2020/11/01/the-queens-gambit-ep-1-openings/index.html",
+        "index.html?p=745.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Golden_Globe_Award",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Philip_Zimbardo",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Stanford_prison_experiment",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Unreliable_narrator",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Vanity_press",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/13/life-in-10-introduces-hybrid-publishing-service-in-rva/index.html",
+        "index.html?p=551.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://greg-smith.com",
+      "occurrences": 2,
+      "sources": [
+        "about/index.html",
+        "index.html?p=14.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://indeed.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://meet.meetup.com/wf/click?upn=1CL8KZerddx3RoN8GG8tCtyyzuqk2-2FULaOLK4lUMf4c7YVzVJVLLPlKgLd9KgQet_1SadHgt7HJWF0jsQDdY5-2F0mvz-2BMGkix3NhwGOB7reSQwRCPup-2FS3hrhKVghijVtiXUfnK-2BBTl8KHN0AfT-2Fmrh3H31N-2B54KOABk8z8mXFX4Kp-2BhO-2BXXP-2B-2BwnFPItojMaOubmPAQ0OLNf7uwnxZBgiwOv2BorXaO8eJnSJB5Yc-2Bdm92c2gJ-2FC73-2B68RfRb-2BT3LOmtZuSkpr1mhIBubxHmy6lR8ot4Nk-2BJOEdyWZsoUIHU-3D",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html",
+        "index.html?p=595.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://meet.meetup.com/wf/click?upn=1CL8KZerddx3RoN8GG8tCtyyzuqk2-2FULaOLK4lUMf4c7YVzVJVLLPlKgLd9KgQet_1SadHgt7HJWF0jsQDdY5-2F0mvz-2BMGkix3NhwGOB7reSQwRCPup-2FS3hrhKVghijVtitm2TUr-2B-2BBrh1gecAfam-2B7H-2BEssDt93X3KI3EjLOZ6xDeUujkVkUlOOyJ-2Bgdpn3zqBNuaerIe5nGuwaO1K11Wtjp1QC-2FpJVJ1C9qsb4MQ859CmeJ0cw5VwOq0cUvCr0mP7ovd7CXXVzCkIyC-2BhzwwF3I6Pm1-2Btr64cV3GdxnG84I-3D",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html",
+        "index.html?p=595.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://meet.meetup.com/wf/click?upn=pEEcc35imY7Cq0tG1vyTtxGQuRNzBhUp5L0moh8u5X-2BN2SdhrXISma5Mj93DNb0mmgZmjcbPUf7LZ3Zx3E42lA-3D-3D_1SadHgt7HJWF0jsQDdY5-2F0mvz-2BMGkix3NhwGOB7reSQwRCPup-2FS3hrhKVghijVtifMpHGPgU9EjXTyMALaHlSe2Mz5pJPxnSaUY1i568s5Gdi7BzV6AXrMFtiPJzXub-2Bcf7qDXP68Ajl3zBMDzlZylF9osFzZ-2Fgvd61RjYShsvvE4ziUoXuKV31i1P8zKHq7ncmBgxjz6uec8NNkXP71c6uEOdKKcG2G0LnOtaefp4g-3D",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html",
+        "index.html?p=595.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://teanstrumpets.files.wordpress.com/2014/03/brain1.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://theconversation.com/the-science-of-the-plot-twist-how-writers-exploit-our-brains-95748",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/30/the-science-of-the-plot-twist/index.html",
+        "index.html?p=531.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://thewritelife.com/author/blakeatwood/",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/10/the-price-of-editing/index.html",
+        "index.html?p=578.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://thewritelife.com/how-much-to-pay-for-a-book-editor/",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/10/the-price-of-editing/index.html",
+        "index.html?p=578.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://wgme.com/news/local/central-maine-man-recounts-stopping-augusta-shooting",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://whitneyrobertshilldotcom.wordpress.com/2015/12/01/the-myth-and-my-truth-about-mental-illness-and-creativity/",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://wordstylistrva.com/author/nakitars/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html",
+        "index.html?p=629.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://wtvr.com/2018/10/04/lost-in-the-red-hills-of-mars/",
+      "occurrences": 2,
+      "sources": [
+        "2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html",
+        "index.html?p=607.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Agile-Writer-Method-Write-Months/dp/1941526098/",
+      "occurrences": 2,
+      "sources": [
+        "about/index.html",
+        "index.html?p=14.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Ezekiel-Saw-Wheel-Keith-Allen-ebook/dp/B073DKBS1D/ref=sr_1_fkmr1_3?s=digital-text&ie=UTF8&qid=1499026906&sr=1-3-fkmr1&keywords=Ezekiel+found+a+wheel",
+      "occurrences": 2,
+      "sources": [
+        "2017/07/02/agile-writer-keith-van-allen-releases-new-novel/index.html",
+        "index.html?p=474.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Freak-Factor-Discovering-Uniqueness-Flaunting/dp/1599326698/ref=sr_1_1?s=books&ie=UTF8&qid=1444397782&sr=1-1",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Shades-Ken-Hubona-ebook/dp/B07ZN92RFN/ref=sr_1_3?keywords=hubona&qid=1572344608&sr=8-3",
+      "occurrences": 2,
+      "sources": [
+        "2019/11/26/agile-writer-ken-hubona-does-it-again-shades-released/index.html",
+        "index.html?p=697.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/gp/product/B010TB0FI6",
+      "occurrences": 2,
+      "sources": [
+        "about/index.html",
+        "index.html?p=14.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.boomermagazine.com/jackie-hunter/",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/10/agile-writer-jackie-hunter-in-boomer-magazine/index.html",
+        "index.html?p=597.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.cnn.com/2018/07/25/health/boy-cerebral-palsy-writes-book-eyes-trnd/index.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/27/a-12-year-old-boy-who-cant-speak-wrote-a-book-with-his-eyes/index.html",
+        "index.html?p=573.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.eventbrite.com/e/awesomize-your-life-with-shawn-furey-the-empowered-people-of-maine-tickets-54980615501",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.facebook.com/groups/258399710930494/?epa=SEARCH_BOX",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.freelancer.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.greatcontent.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.guru.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.helpingwritersbecomeauthors.com/why-do-so-many-bad-stories-sell-on-amazon",
+      "occurrences": 2,
+      "sources": [
+        "2019/07/08/good-vs-bad-book-dont-judge/index.html",
+        "index.html?p=683.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.hirewriters.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0000213/?ref_=tt_cl_t6",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0000381/?ref_=tt_ov_st_sm",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0021899/?ref_=tt_ov_dr",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0021899/?ref_=tt_ov_wr",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0300712/?ref_=tt_ov_st_sm",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm3746649/?ref_=tt_ov_st_sm",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/title/tt3726704/?ref_=fn_al_tt_1",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.loudandcleargraphics.co.uk/product/no-bad-dogs-just-bad-owners/",
+      "occurrences": 2,
+      "sources": [
+        "2019/07/08/good-vs-bad-book-dont-judge/index.html",
+        "index.html?p=683.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.mamamia.com.au/notting-hill-sends-a-bad-message/",
+      "occurrences": 2,
+      "sources": [
+        "2018/12/22/the-problem-with-notting-hill/index.html",
+        "index.html?p=610.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.penneycomputer.com/blog/communication/7-tips-to-improve-your-communication-skills/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/69454-the-indie-authors-guide-to-trends-in-erotica-and-erotic-romance.html",
+      "occurrences": 2,
+      "sources": [
+        "2019/09/08/public-library-shuns-writer/index.html",
+        "index.html?p=689.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/81097-author-julia-watts-disinvited-from-teen-lit-festival.html",
+      "occurrences": 2,
+      "sources": [
+        "2019/09/08/public-library-shuns-writer/index.html",
+        "index.html?p=689.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/digital/Apps/article/77224-stephen-king-library-debuts-for-smart-speakers.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/12/504/index.html",
+        "index.html?p=504.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/77810-walmart-rakuten-kobo-debut-e-book-retail-partnership.html?utm_source=Publishers+Weekly&utm_campaign=f5871a8cc8-EMAIL_CAMPAIGN_2018_08_22_02_40&utm_medium=email&utm_term=0_0bb2959cbb-f5871a8cc8-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/25/walmart-fights-kindle-with-kobo/index.html",
+        "index.html?p=589.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/digital/retailing/article/76097-kobo-s-michael-tamblyn-talks-walmart-and-e-books.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/25/walmart-fights-kindle-with-kobo/index.html",
+        "index.html?p=589.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/76375-smashwords-findaway-voices-team-to-offer-audiobook-production-distribution.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/17/indie-audiobooks-on-the-rise/index.html",
+        "index.html?p=563.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/77303-audiobook-revenue-jumped-22-7-in-2018.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/21/audiobooks-up-23/index.html",
+        "index.html?p=515.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/77518-may-bookstore-sales-up-4-million.html?utm_source=Publishers+Weekly&utm_campaign=d1a6006446-EMAIL_CAMPAIGN_2018_07_17_02_21&utm_medium=email&utm_term=0_0bb2959cbb-d1a6006446-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/17/bookstore-sales-rose-741m/index.html",
+        "index.html?p=565.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/77520-north-american-comics-market-declined-6-5-in-2017.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/19/north-american-comics-market-declined-6-5-in-2017/index.html",
+        "index.html?p=569.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/77305-b-n-posted-loss-of-125-million-on-6-sales-drop-in-fy-18.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/21/bn-losing-in-2018q2/index.html",
+        "index.html?p=511.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/77579-investment-group-acquires-5-7-stake-in-b-n.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/26/investment-group-acquires-5-7-stake-in-bn/index.html",
+        "index.html?p=571.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/77362-ala-2018-ala-strips-laura-ingalls-wilder-name-from-children-s-book-award.html?utm_source=Publishers+Weekly&utm_campaign=e99c3836de-EMAIL_CAMPAIGN_2018_06_29_02_33&utm_medium=email&utm_term=0_0bb2959cbb-e99c3836de-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/01/534/index.html",
+        "index.html?p=534.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/77362-ala-2018-ala-strips-laura-ingalls-wilder-name-from-children-s-book-award.html?utm_source=Publishers+Weekly&utm_campaign=e99c3836de-EMAIL_CAMPAIGN_2018_06_29_02_33&utm_medium=email&utm_term=0_0bb2959cbb-e99c3836de-304605521#http://www.ala.org/news/press-releases/2018/06/ala-alsc-respond-wilder-medal-name-change%20",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/01/534/index.html",
+        "index.html?p=534.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/77532-tor-scales-back-library-e-book-lending-as-part-of-test.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/18/tor-scifi-publisher-embargos-libraries/index.html",
+        "index.html?p=585.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/77775-a-dystopian-twist-for-library-e-books.html?utm_source=Publishers+Weekly&utm_campaign=e6f6005500-EMAIL_CAMPAIGN_2018_08_17_07_02&utm_medium=email&utm_term=0_0bb2959cbb-e6f6005500-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/18/tor-scifi-publisher-embargos-libraries/index.html",
+        "index.html?p=585.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/77306-the-time-arthur-conan-doyle-helped-solve-a-real-murder-case.html?utm_source=Publishers+Weekly&utm_campaign=52035a8341-EMAIL_CAMPAIGN_2018_06_22_03_52&utm_medium=email&utm_term=0_0bb2959cbb-52035a8341-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/22/the-time-arthur-conan-doyle-helped-solve-a-real-murder-case/index.html",
+        "index.html?p=517.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/77377-author-earnings-sliding-fast-in-u-k.html?utm_source=Publishers+Weekly&utm_campaign=548fbff85f-EMAIL_CAMPAIGN_2018_06_28_02_15&utm_medium=email&utm_term=0_0bb2959cbb-548fbff85f-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/28/author-earnings-sliding-fast-in-u-k/index.html",
+        "index.html?p=519.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.textbroker.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.theguardian.com/books/2017/may/15/self-published-authors-hollywood-andy-weir-the-martian-el-james",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/08/hollywood-comes-calling-for-self-published-authors/index.html",
+        "index.html?p=543.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.upwork.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.walmart.com/cp/5632020",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/25/walmart-fights-kindle-with-kobo/index.html",
+        "index.html?p=589.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.youtube.com/watch?v=rrFO702T7Sg",
+      "occurrences": 2,
+      "sources": [
+        "2019/07/08/good-vs-bad-book-dont-judge/index.html",
+        "index.html?p=683.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://youtu.be/SAlGf5Wfe4g",
+      "occurrences": 2,
+      "sources": [
+        "2020/09/18/star-trek-first-frontier-review/index.html",
+        "index.html?p=719.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://youtu.be/djX8wF8Uy-M",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "resource: http://agilewriter.files.wordpress.com/2014/08/buyonamazon.png?w=300",
+      "occurrences": 2,
+      "sources": [
+        "agile-writer-method-book/index.html",
+        "index.html?p=17.html"
+      ]
+    },
+    {
+      "reference": "resource: http://greg-smith.com/wp-content/uploads/2014/12/Night_at_the_Museum_Secret_of_the_Tomb_poster-202x300.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2014/12/20/storyboard-night-at-the-museum-3/index.html",
+        "index.html?p=75.html"
+      ]
+    },
+    {
+      "reference": "resource: http://inkwellbookcompany.com/wp-content/uploads/2017/08/Picture1.png",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "resource: http://mitchell-productions.com/wp-content/uploads/2016/03/XBM-ColorMeaningChart-big2.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "resource: http://publishtothrive.com/wp-content/uploads/2018/10/Avoid-Writers-Block-Crunchedyllw.png",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+        "index.html?p=612.html"
+      ]
+    },
+    {
+      "reference": "resource: http://publishtothrive.com/wp-content/uploads/2018/10/Writers-Block-Still-Got-You-Stuck.png",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+        "index.html?p=612.html"
+      ]
+    },
+    {
+      "reference": "resource: http://rogerpacker.com/wp-content/uploads/dawsonmark1-300x299.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/08/hollywood-comes-calling-for-self-published-authors/index.html",
+        "index.html?p=543.html"
+      ]
+    },
+    {
+      "reference": "resource: http://theagilewriter.com/wp-content/uploads/2014/08/h-logo-big-300x226.png",
+      "occurrences": 2,
+      "sources": [
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ]
+    },
+    {
+      "reference": "resource: http://theagilewriter.com/wp-content/uploads/2021/02/LogoBlueGold-150x150.png",
+      "occurrences": 2,
+      "sources": [
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ]
+    },
+    {
+      "reference": "resource: http://theagilewriter.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-08-at-2.34.47-AM.png",
+      "occurrences": 2,
+      "sources": [
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ]
+    },
+    {
+      "reference": "resource: http://theagilewriter.com/wp-content/uploads/2021/02/agilewritermethod-28-1.png",
+      "occurrences": 2,
+      "sources": [
+        "agile-writer-method-book/index.html",
+        "index.html?p=17.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2012/01/greg-circle-300x300.png",
+      "occurrences": 2,
+      "sources": [
+        "2016/09/14/agile-writers-spotlight/index.html",
+        "index.html?p=245.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2014/08/agilewritermethod.png?w=130",
+      "occurrences": 2,
+      "sources": [
+        "2015/10/13/you-bring-the-passion/index.html",
+        "index.html?p=178.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2014/11/barrymanilow.jpg?w=199",
+      "occurrences": 2,
+      "sources": [
+        "2014/11/03/the-heros-journey-in-a-song/index.html",
+        "index.html?p=65.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/01/ddp_logo.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/06/a-dragon-named-publishing/index.html",
+        "index.html?p=96.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/04/5174.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/19/taking-notes-on-life/index.html",
+        "index.html?p=94.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/04/index.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/04/16/turning-the-dial-learning-to-quiet-the-chatter-of-our-minds-through-the-accountability-of-a-writing-community/index.html",
+        "index.html?p=89.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/04/pen-name-tag.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2015/04/30/whats-in-a-pen-name/index.html",
+        "index.html?p=92.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/05/literary-vs-genre1.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html",
+        "index.html?p=105.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/06/audience.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2015/07/01/an-audience-of-one/index.html",
+        "index.html?p=141.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/06/awdesk.gif",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/03/drafting-1-2-3/index.html",
+        "index.html?p=103.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/06/group-people-silhouette.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/10/developing-secondary-characters/index.html",
+        "index.html?p=122.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/06/magnifier-keyboard-25318648.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/24/writing-to-discover-what-we-know/index.html",
+        "index.html?p=134.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/06/writers-block-01.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/15/writers-block/index.html",
+        "index.html?p=132.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/07/imageedit_2_8335958346.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/07/24/tracking-changes/index.html",
+        "index.html?p=145.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/07/unknown.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/07/31/when/index.html",
+        "index.html?p=151.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/07/where_large.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/08/12/and-where/index.html",
+        "index.html?p=153.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/08/brand-storyteller.png?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2015/09/07/what-does-it-mean-to-be-a-storyteller/index.html",
+        "index.html?p=167.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/08/large_read_like_a_writer.png?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2015/08/19/learning-to-read-like-a-writer/index.html",
+        "index.html?p=159.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/09/freegreatpicture-com-26108-holding-blank-card.jpg?w=183",
+      "occurrences": 2,
+      "sources": [
+        "2015/09/23/holding-the-whole-thing/index.html",
+        "index.html?p=172.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/10/free-clipart-gavel-judge-gavel-pictures-clipart-best-pictures.gif?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2015/10/21/we-are-not-the-best-judge-of-our-own-work/index.html",
+        "index.html?p=182.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/10/images.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/02/authorpreneur/index.html",
+        "index.html?p=180.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/11/dt9x9e89c.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2016/03/03/plumbing-the-depths-of-your-own-life/index.html",
+        "index.html?p=187.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2015/12/pause.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/01/merging-lanes-ahead.jpg?w=247",
+      "occurrences": 2,
+      "sources": [
+        "2016/01/25/the-split-climax/index.html",
+        "index.html?p=204.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/02/06-the-white-room-6.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2016/02/10/leaving-space-for-the-reader/index.html",
+        "index.html?p=207.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/03/timetowrite1.jpg?w=255",
+      "occurrences": 2,
+      "sources": [
+        "2016/03/16/time-to-write/index.html",
+        "index.html?p=215.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/04/aw-logo-bw.png",
+      "occurrences": 2,
+      "sources": [
+        "2016/04/08/announcing-the-launch-of-agile-rewriters/index.html",
+        "index.html?p=220.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/08/untitled-design11.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/08/05/not-just-hump-day/index.html",
+        "index.html?p=229.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/09/spotlight.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/09/14/agile-writers-spotlight/index.html",
+        "index.html?p=245.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/10/cat.jpg?w=279",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/05/first-draft-finishers/index.html",
+        "index.html?p=261.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/10/christine.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/05/first-draft-finishers/index.html",
+        "index.html?p=261.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/10/drama-clipart.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/20/query-tips-from-an-agent/index.html",
+        "index.html?p=274.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/10/jim.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/05/first-draft-finishers/index.html",
+        "index.html?p=261.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/10/research-clip-art.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/20/query-tips-from-an-agent/index.html",
+        "index.html?p=274.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2016/10/sell-clip-art.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/20/query-tips-from-an-agent/index.html",
+        "index.html?p=274.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/03/images.jpeg",
+      "occurrences": 2,
+      "sources": [
+        "2017/03/26/avatars-know-your-audience/index.html",
+        "index.html?p=315.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/04/a_dogs_purpose_film.jpg?w=190",
+      "occurrences": 2,
+      "sources": [
+        "2017/04/22/non-standard-plots-a-dogs-purpose/index.html",
+        "index.html?p=383.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/05/176451-004-0848859c.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2017/05/29/the-idiot-in-the-room/index.html",
+        "index.html?p=442.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/05/starwarsmovieposter1977.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2017/05/20/the-problem-with-star-wars/index.html",
+        "index.html?p=389.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/06/fail-fast-and-carry-on.png?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2017/06/24/fail-fast/index.html",
+        "index.html?p=465.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/06/images-e1499184964851.jpeg",
+      "occurrences": 2,
+      "sources": [
+        "2017/06/26/the-art-of-incubation/index.html",
+        "index.html?p=470.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/07/61sulmtgnl.jpg?w=200",
+      "occurrences": 2,
+      "sources": [
+        "2017/07/02/agile-writer-keith-van-allen-releases-new-novel/index.html",
+        "index.html?p=474.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/07/img_0001.jpg?w=200",
+      "occurrences": 2,
+      "sources": [
+        "2017/07/10/agile-writer-featured-on-local-show/index.html",
+        "index.html?p=479.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/08/1500571188789.jpeg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/26/greg-smith-featured-on-the-heros-forge-podcast/index.html",
+        "index.html?p=498.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/08/225x225bb.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/25/the-bar-is-set-low-very-low/index.html",
+        "index.html?p=486.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/08/images-2.jpeg?w=167",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/25/the-bar-is-set-low-very-low/index.html",
+        "index.html?p=486.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2017/08/images-3.jpeg?w=200",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/25/the-bar-is-set-low-very-low/index.html",
+        "index.html?p=486.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2018/06/34908807_10156002254400379_1342226981361549312_o.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/13/publishing/index.html",
+        "index.html?p=506.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2018/06/55230-1.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/21/bn-losing-in-2018q2/index.html",
+        "index.html?p=511.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2018/07/dghtgkwxkam1id1.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/27/a-12-year-old-boy-who-cant-speak-wrote-a-book-with-his-eyes/index.html",
+        "index.html?p=573.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2018/09/go-set-a-watchman_harper-lee-199x300.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/16/used-bookstores-are-swimming-in-these/index.html",
+        "index.html?p=603.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2018/09/hunters-1st.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/10/agile-writer-jackie-hunter-in-boomer-magazine/index.html",
+        "index.html?p=597.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2018/09/screen-shot-2018-09-05-at-7-26-56-pm.png",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html",
+        "index.html?p=595.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2018/10/screen-shot-2018-10-08-at-9-53-22-pm.png",
+      "occurrences": 2,
+      "sources": [
+        "2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html",
+        "index.html?p=607.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/01/11432430_s.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html",
+        "index.html?p=629.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/01/academy_award_trophy.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/01/certified-fresh.png",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/01/golden_globe_trophy.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/04/picture1.png",
+      "occurrences": 2,
+      "sources": [
+        "2019/04/08/agile-writer-ken-hubona-publishes-first-novel-brewing-justice/index.html",
+        "index.html?p=659.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/07/dg_0006-no-bad-dogs4.jpg?w=300",
+      "occurrences": 2,
+      "sources": [
+        "2019/07/08/good-vs-bad-book-dont-judge/index.html",
+        "index.html?p=683.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/09/65133-v1-245x.jpeg",
+      "occurrences": 2,
+      "sources": [
+        "2019/09/08/public-library-shuns-writer/index.html",
+        "index.html?p=689.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2019/11/image.png?w=200",
+      "occurrences": 2,
+      "sources": [
+        "2019/11/26/agile-writer-ken-hubona-does-it-again-shades-released/index.html",
+        "index.html?p=697.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2020/04/experimenter_poster.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2020/09/screen-shot-2020-09-20-at-10.33.35-am.png",
+      "occurrences": 2,
+      "sources": [
+        "2020/09/20/star-trektos-my-worst-to-best-episodes/index.html",
+        "index.html?p=727.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriter.files.wordpress.com/2020/11/pawel-furman-jo21h-4lyfu-unsplash.jpg?w=1024",
+      "occurrences": 2,
+      "sources": [
+        "2020/11/23/the-kings-english-in-america/index.html",
+        "index.html?p=769.html"
+      ]
+    },
+    {
+      "reference": "resource: https://teanstrumpets.files.wordpress.com/2014/03/brain1.jpg?w=300&h=285",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "resource: https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/056/56441-v2-197x.JPG",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/25/walmart-fights-kindle-with-kobo/index.html",
+        "index.html?p=589.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/author/admin/feed/",
+      "occurrences": 1,
+      "sources": [
+        "author/admin/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/author/guest-blogger/feed/",
+      "occurrences": 1,
+      "sources": [
+        "author/guest-blogger/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/adventure/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/adventure/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/agile-writer-news/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/agile-writer-news/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/articles/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/articles/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/audio-books/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/audio-books/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/authors/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/authors/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/blogging/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/blogging/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/bookstores/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/bookstores/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/character/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/character/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/critique/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/critique/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/ebooks/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/ebooks/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/editing/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/editing/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/heroes/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/heroes/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/marketing/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/marketing/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/movies/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/movies/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/plot/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/plot/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/publishing/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/publishing/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/review/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/review/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/structure/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/structure/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/category/writing/feed/",
+      "occurrences": 1,
+      "sources": [
+        "category/writing/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/feed/",
+      "occurrences": 1,
+      "sources": [
+        "feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/tag/blogging/feed/",
+      "occurrences": 1,
+      "sources": [
+        "tag/blogging/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/tag/critique/feed/",
+      "occurrences": 1,
+      "sources": [
+        "tag/critique/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/tag/free/feed/",
+      "occurrences": 1,
+      "sources": [
+        "tag/free/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/tag/hosting/feed/",
+      "occurrences": 1,
+      "sources": [
+        "tag/hosting/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/tag/novel/feed/",
+      "occurrences": 1,
+      "sources": [
+        "tag/novel/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/tag/wordpress/feed/",
+      "occurrences": 1,
+      "sources": [
+        "tag/wordpress/feed/index.html"
+      ]
+    },
+    {
+      "reference": "resource: https://agilewriters.com/tag/writing/feed/",
+      "occurrences": 1,
+      "sources": [
+        "tag/writing/feed/index.html"
+      ]
+    }
+  ],
+  "limitations": "Static HTML/CSS inspection only; JavaScript-generated requests, dynamic behavior, unusual srcset syntax, and CSS parsing edge cases need browser review. Local candidates for absolute URLs are heuristic, not proof of equivalence. External resource hosts may include metadata links. A missing reference may be unused or intentionally dynamic."
+}

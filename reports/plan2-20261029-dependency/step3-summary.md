@@ -1,0 +1,11 @@
+# Plan 2 step 3: static-only transformations
+
+- Generated build: `builds/site-plan2-step3-20261029/`; source capture and earlier builds remain intact.
+- `scripts/static_transform.py` removes targeted search controls, comment count and comment interfaces, WordPress API discovery/shortlink/edit metadata, WordPress generator metadata, the emoji loader and settings, and unused Contact Form 7 scripts. It retains author metadata and unrelated forms. Existing CSS selectors and static WordPress-named assets may remain.
+- Search and comment removal uses targeted markup classes/IDs; static audit found no search inputs or comment count wrappers. The `bizberg_user_comment_wrapper` remains because it contains the author, not only comments. No native visible emoji-range characters were found in a scan of captured HTML text; exhaustive visual emoji equivalence is not established.
+- Category dropdown now links captured categories locally; browser test selected Writing and reached `/category/writing/index.html`. Six uncaptured categories remain visibly disabled: Fantasy, Guest Post, Memoir, Mini-series, Science Fiction, and Speaking. Archive options with captured month pages route locally; missing options would be disabled and recorded. Capture completeness remains unresolved.
+- Unit tests: 3 passed. Local HTTP check: 964 discovered URLs, all successful. Static audit found zero HTML/CSS WordPress endpoint references; this does not cover all JavaScript or runtime states.
+- Browser test with external requests blocked: homepage carousel advanced in both directions, tested mobile layout and pages loaded, no JavaScript exceptions. The live WordPress emoji request was no longer observed. The third-party Mitchell Productions image remains an external dependency and is broken when blocked.
+- Category and archive interactions, other forms and dynamic behavior, other external references, and actual deployment host behavior need further coverage. API response files remain in the build as inert captured files; they do not provide a working WordPress API. This is not a final deployment or complete offline validation.
+
+Evidence: `step3-build-report.md`, `step3-audit.json`, `step3-http.md`, and `step3-browser.json`.

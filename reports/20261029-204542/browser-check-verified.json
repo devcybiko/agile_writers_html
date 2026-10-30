@@ -1,0 +1,31 @@
+{
+  "home": {
+    "title": "The Agile Writer – Greg Smith: Novelist and Coach",
+    "carousel": true,
+    "slides": 6,
+    "imagesBroken": [],
+    "before": "0",
+    "after": "1",
+    "articleLink": null
+  },
+  "article": {
+    "title": "Guest Post: The importance of colors to your BRAND – The Agile Writer",
+    "imagesBroken": []
+  },
+  "mobile": {
+    "width": 390,
+    "documentWidth": 390,
+    "menu": true,
+    "carousel": true
+  },
+  "failures": [],
+  "external": [
+    "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap",
+    "https://bizbergthemes.com/omg-blog-lite/wp-content/themes/bizberg/assets/images/breadcrum.jpg",
+    "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+    "https://agilewriters.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+    "http://mitchell-productions.com/wp-content/uploads/2016/03/XBM-ColorMeaningChart-big2.jpg",
+    "https://mitchell-productions.com/wp-content/uploads/2016/03/XBM-ColorMeaningChart-big2.jpg"
+  ],
+  "errors": []
+}

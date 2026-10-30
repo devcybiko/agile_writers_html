@@ -1,0 +1,1916 @@
+{
+  "root": "/Users/greg/git/agile_writers_html/builds/site-plan2-next-20261029",
+  "files_total": 1324,
+  "file_types": {
+    "css": 11,
+    "feed": 29,
+    "fonts": 66,
+    "html": 427,
+    "images": 285,
+    "javascript": 36,
+    "other": 470
+  },
+  "references_examined": 48446,
+  "missing_local": [],
+  "uncertain_references": [],
+  "external_hosts": {
+    "greg-smith.com": 438,
+    "reelheroes.net": 434,
+    "agilefrontiers.com": 430,
+    "localradio.today": 430,
+    "gmpg.org": 426,
+    "fonts.googleapis.com": 426,
+    "fonts.gstatic.com": 426,
+    "blog.richmond.edu": 426,
+    "facebook.com": 426,
+    "twitter.com": 426,
+    "youtube.com": 426,
+    "wordpress.org": 426,
+    "bizbergthemes.com": 426,
+    "www.amazon.com": 104,
+    "agilewriter.files.wordpress.com": 88,
+    "www.eventbrite.com": 40,
+    "www.publishersweekly.com": 34,
+    "en.wikipedia.org": 22,
+    "www.imdb.com": 18,
+    "mitchell-productions.com": 10,
+    "www.crimelibrary.com": 8,
+    "meet.meetup.com": 6,
+    "publishtothrive.com": 6,
+    "agilenovel.com": 6,
+    "www.authorsweekly.com": 4,
+    "buttsaboutwriting.blogspot.com": 4,
+    "www.nypl.org": 4,
+    "www.ala.org": 4,
+    "rogerpacker.com": 4,
+    "www.lifein10minutes.com": 4,
+    "thewritelife.com": 4,
+    "www.fbi.gov": 4,
+    "www.psychologytoday.com": 4,
+    "youtu.be": 4,
+    "www.helpingwritersbecomeauthors.com": 4,
+    "www.livewritethrive.com": 2,
+    "writersrelief.com": 2,
+    "www.huffingtonpost.com": 2,
+    "www.newyorker.com": 2,
+    "juliacameronlive.com": 2,
+    "www.stevenpressfield.com": 2,
+    "www.higherperspectives.com": 2,
+    "whitneyrobertshilldotcom.wordpress.com": 2,
+    "agilewriter.wordpress.com": 2,
+    "writersinthestormblog.com": 2,
+    "theconversation.com": 2,
+    "www.theguardian.com": 2,
+    ": http:": 2,
+    "www.sfwa.org": 2,
+    "blog.smashwords.com": 2,
+    "www.writerslife.org": 2,
+    "www.cnn.com": 2,
+    "www.createspace.com": 2,
+    "pronoun.com": 2,
+    "jetreidliterary.blogspot.com": 2,
+    "www.walmart.com": 2,
+    "www.boomermagazine.com": 2,
+    "bookriot.com": 2,
+    "www.therippyeffect.com": 2,
+    "www.lostintheredhillsofmars.com": 2,
+    "amazon.com": 2,
+    "wtvr.com": 2,
+    "www.mamamia.com.au": 2,
+    "www.penneycomputer.com": 2,
+    "www.upwork.com": 2,
+    "www.guru.com": 2,
+    "www.freelancer.com": 2,
+    "www.textbroker.com": 2,
+    "www.greatcontent.com": 2,
+    "www.hirewriters.com": 2,
+    "indeed.com": 2,
+    "www.careerbuilder.com": 2,
+    "iampowerwoman.com": 2,
+    "teanstrumpets.files.wordpress.com": 2,
+    "wordstylistrva.com": 2,
+    "rottentomatoes.com": 2,
+    "www.herosupportguy.com": 2,
+    "www.drendall.com": 2,
+    "wgme.com": 2,
+    "www.facebook.com": 2,
+    "www.loudandcleargraphics.co.uk": 2,
+    "www.youtube.com": 2
+  },
+  "external_resource_hosts": {
+    "gmpg.org": 426,
+    "fonts.googleapis.com": 426,
+    "fonts.gstatic.com": 426,
+    "greg-smith.com": 2,
+    "rogerpacker.com": 2
+  },
+  "production_without_local_candidate": [],
+  "production_urls": {},
+  "wordpress_endpoints": {},
+  "features": [
+    {
+      "reference": "possible search/comment markup: div: bizberg_user_comment_wrapper",
+      "occurrences": 280,
+      "sources": [
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html",
+        "2011/07/16/harry-potter-and-the-deathly-hallows-part-2-2011/index.html",
+        "2011/07/29/captain-america-the-first-avenger-2011/index.html"
+      ]
+    }
+  ],
+  "parse_errors": [],
+  "classified_external_references": [
+    {
+      "reference": "navigation: http://localradio.today",
+      "occurrences": 430,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://agilefrontiers.com",
+      "occurrences": 428,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://greg-smith.com",
+      "occurrences": 428,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://reelheroes.net",
+      "occurrences": 428,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "metadata: http://gmpg.org/xfn/11",
+      "occurrences": 426,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "metadata: https://fonts.googleapis.com/",
+      "occurrences": 426,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "metadata: https://fonts.gstatic.com",
+      "occurrences": 426,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://facebook.com/agilewriters",
+      "occurrences": 426,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://twitter.com/agilewriters",
+      "occurrences": 426,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://youtube.com/agilewriters",
+      "occurrences": 426,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://bizbergthemes.com/",
+      "occurrences": 426,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://blog.richmond.edu/heroes",
+      "occurrences": 426,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://wordpress.org/",
+      "occurrences": 426,
+      "sources": [
+        "2011/06.html",
+        "2011/06/22/green-lantern-2011/index.html",
+        "2011/06/22/super-8-2011/index.html",
+        "2011/06/22/the-art-of-getting-by-2011/index.html",
+        "2011/06/25/bad-teacher-2011/index.html",
+        "2011/07.html",
+        "2011/07/01/transformers-dark-of-the-moon-2011/index.html",
+        "2011/07/02/larry-crowne-2011/index.html",
+        "2011/07/03/midnight-in-paris-2011/index.html",
+        "2011/07/09/horrible-bosses-2011/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.eventbrite.com/e/agile-writer-conference-2019-tickets-53626697897",
+      "occurrences": 38,
+      "sources": [
+        "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+        "2019/01/17/guest-post-build-your-email-list-with-4-specific-facebook-ad-strategies/index.html",
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html",
+        "index.html?p=612.html",
+        "index.html?p=618.html",
+        "index.html?p=624.html",
+        "index.html?p=629.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Brewing-Justice-Ken-Hubona-ebook/dp/B07KSNGWTQ",
+      "occurrences": 8,
+      "sources": [
+        "2019/04/08/agile-writer-ken-hubona-publishes-first-novel-brewing-justice/index.html",
+        "authors/index.html",
+        "index.html?p=1016.html",
+        "index.html?p=659.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://ReelHeroes.net",
+      "occurrences": 6,
+      "sources": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=31.html",
+        "index.html?p=649.html",
+        "related-sites/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://agilenovel.com",
+      "occurrences": 6,
+      "sources": [
+        "agile-writer-method-book/index.html",
+        "index.html?p=17.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://Greg-Smith.com",
+      "occurrences": 4,
+      "sources": [
+        "about/index.html",
+        "index.html?p=14.html",
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://buttsaboutwriting.blogspot.com/2014/01/what-you-need-to-know-about-book.html",
+      "occurrences": 4,
+      "sources": [
+        "2014/08/06/great-articles-this-week/index.html",
+        "index.html?p=47.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://publishtothrive.com",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-build-your-email-list-with-4-specific-facebook-ad-strategies/index.html",
+        "index.html?p=640.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.crimelibrary.com/criminal_mind/psychology/robert_hare/5.html",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.fbi.gov/stats-services/publications/law-enforcement-bulletin/july-2012/the-language-of-psychopaths",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/The_Tenth_Level",
+      "occurrences": 4,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://mitchell-productions.com",
+      "occurrences": 4,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/ANTICHRIST-COMES-STONEd-COUNTY-ebook/dp/B07BDP7BJM/ref=sr_1_1?s=books&ie=UTF8&qid=1528754298&sr=1-1&keywords=antichrist+comes+to+stoned+county",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Blueprint-Going-Green-Environmental-Conservation-ebook/dp/B0CLKZST6Y",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Chasing-One-Christine-Gauthier/dp/B0D786C6T4",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Date-Fairy-Drag-Queen/dp/B0DZZ6Q8QX",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Eye-Bleach-Paul-Creasy-ebook/dp/B07BZYNQYQ",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Ezekiel-Saw-Wheel-Keith-Allen-ebook/dp/B073DKBS1D/ref=sr_1_sc_2?s=digital-text&ie=UTF8&qid=1528754074&sr=1-2-spell&keywords=ezekial+saw+a+wheel",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Gospel-Pilate-Paul-Creasy-ebook/dp/B01LXWQCF7/ref=sr_1_1?s=books&ie=UTF8&qid=1528754251&sr=1-1&keywords=the+gospel+of+pilate",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Grief-Masters-Diana-Farrar-Caron-ebook/dp/B0791YRKD9/ref=sr_1_2?s=books&ie=UTF8&qid=1528754548&sr=1-2&keywords=the+grief+master",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Inhale-Cyndy-Kelly/dp/0985744030/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1528754711&sr=1-1-fkmr0&keywords=inhale+cyndy+kelley",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Inhuman-Nature-Mystery-Thriller-Novel/dp/1959911007",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Land-Three-Houses-Thomas-Brown-ebook/dp/B07BSQJXQL/ref=sr_1_1?ie=UTF8&qid=1528753948&sr=8-1&keywords=the+land+of+three+houses",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Life-Glass-Cage-Forgiveness-Fulfillment-ebook/dp/B01M7O6V8Z/ref=sr_1_1?s=books&ie=UTF8&qid=1528754457&sr=1-1&keywords=life+in+the+glass+cage",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Lost-Hills-Mars-Jackie-Hunter-ebook/dp/B0775R3MYH/ref=sr_1_1?s=books&ie=UTF8&qid=1528754388&sr=1-1&keywords=the+red+hills+of+mars",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Martian-Girl-Futuristic-Mars-Adventures-ebook/dp/B0CJT6VHHP",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Minuet-Serenade-Suzan-McKenzie/dp/0985744049/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1528754673&sr=1-1-spell&keywords=MINUET+AND+SARANADE",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Mrs-Jones-Midas-Train-Dieselpunk-ebook/dp/B07538DTQB",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Never-Alone-Christine-Phillips-2012-07-01/dp/B01F9GW4J4/ref=sr_1_1?s=books&ie=UTF8&qid=1528754788&sr=1-1&keywords=never+alone+christine+phillips",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Poison-Cup-M-G-Davis-ebook/dp/B01N9HYQ6E/ref=sr_1_2?s=books&ie=UTF8&qid=1528754503&sr=1-2&keywords=the+poison+cup",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Shades-Ken-Hubona/dp/1097996263",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/When-Are-Leaving-Melissa-Powell-ebook/dp/B01B1W56GI/ref=sr_1_1?s=books&ie=UTF8&qid=1528754598&sr=1-1&keywords=when+are+you+leaving",
+      "occurrences": 4,
+      "sources": [
+        "authors/index.html",
+        "index.html?p=1016.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/dp/0989522334/ref=cm_sw_r_cp_apa_i_SjOxFb7K4G49Z",
+      "occurrences": 4,
+      "sources": [
+        "2020/09/13/agile-writer-adenike-lucas-publishes-birthright/index.html",
+        "authors/index.html",
+        "index.html?p=1016.html",
+        "index.html?p=716.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0765597/?ref_=tt_cl_t4",
+      "occurrences": 4,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://: http://www.writersdigest.com/writing-articles/by-writing-goal/improve-my-writing/writing-tips-for-evoking-emotion-in-fiction",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/09/evoking-emotion-in-fiction-7-pragmatic-ways-to-make-readers-give-a-damn/index.html",
+        "index.html?p=545.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://RottenTomatoes.com",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://agilefrontiers.com/",
+      "occurrences": 2,
+      "sources": [
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://amazon.com/",
+      "occurrences": 2,
+      "sources": [
+        "2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html",
+        "index.html?p=607.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://blog.smashwords.com/",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/17/indie-audiobooks-on-the-rise/index.html",
+        "index.html?p=563.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://en.wikipedia.org/wiki/Ted_Bundy",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://greg-smith.com/wp-content/uploads/2014/12/Night_at_the_Museum_Secret_of_the_Tomb_poster.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2014/12/20/storyboard-night-at-the-museum-3/index.html",
+        "index.html?p=75.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://iampowerwoman.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://jetreidliterary.blogspot.com/2018/08/60-is-new-50.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/18/50-shades-of-submission/index.html",
+        "index.html?p=587.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://juliacameronlive.com/",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://mitchell-productions.com/about-me/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://mitchell-productions.com/schedule/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://mitchell-productions.com/services/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://pronoun.com/build-your-team/with-the-right/copy-editor/",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/10/the-price-of-editing/index.html",
+        "index.html?p=578.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://publishtothrive.com/avoid-writers-block-workshop",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+        "index.html?p=612.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://rogerpacker.com/hollywood-comes-calling-for-self-published-authors/",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/08/hollywood-comes-calling-for-self-published-authors/index.html",
+        "index.html?p=543.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://writersinthestormblog.com/2018/05/when-action-isnt-a-good-thing-in-your-novel/",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/30/529/index.html",
+        "index.html?p=529.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://writersrelief.com/blog/2009/06/genre-fiction-rules-find-out-if-your-novel-meets-publishers-and-literary-agents-criteria-for-publication/",
+      "occurrences": 2,
+      "sources": [
+        "2014/08/06/great-articles-this-week/index.html",
+        "index.html?p=47.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.ala.org/alsc/awardsgrants/bookmedia/wildermedal/wilderabout",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/01/534/index.html",
+        "index.html?p=534.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.ala.org/alsc/sites/ala.org.alsc/files/content/awardsgrants/bookmedia/wildermedal/DOC%2025%20Award%20Program%20Review%20Task%20Force%20Wilder%20Award%20Recommendation.pdf",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/01/534/index.html",
+        "index.html?p=534.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.amazon.com/Agile-Writer-Method-Write-Months-ebook/dp/B00M9WD5YK/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1419039789",
+      "occurrences": 2,
+      "sources": [
+        "2014/12/20/storyboard-night-at-the-museum-3/index.html",
+        "index.html?p=75.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.authorsweekly.com/blog/Authors/Should_Auhtors_pay_to_advertise",
+      "occurrences": 2,
+      "sources": [
+        "2014/08/06/great-articles-this-week/index.html",
+        "index.html?p=47.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.authorsweekly.com/blog/Authors/attract_thousands_readers_in_weeks",
+      "occurrences": 2,
+      "sources": [
+        "2014/08/06/great-articles-this-week/index.html",
+        "index.html?p=47.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.careerbuilder.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.createspace.com/Services/Copyediting.jsp",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/10/the-price-of-editing/index.html",
+        "index.html?p=578.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.crimelibrary.com/criminal_mind/psychology/robert_hare/6.html",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.crimelibrary.com/criminal_mind/psychology/robert_hare/index.html",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.drendall.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.helpingwritersbecomeauthors.com",
+      "occurrences": 2,
+      "sources": [
+        "2019/07/08/good-vs-bad-book-dont-judge/index.html",
+        "index.html?p=683.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.herosupportguy.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.higherperspectives.com/overthinking-worriers-1429984438.html",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.huffingtonpost.com/steven-petite/literary-fiction-vs-genre-fiction_b_4859609.html",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html",
+        "index.html?p=105.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.lifein10minutes.com",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/13/life-in-10-introduces-hybrid-publishing-service-in-rva/index.html",
+        "index.html?p=551.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.lifein10minutes.com/about-l10-press-hybrid-pres-book-publishing/",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/13/life-in-10-introduces-hybrid-publishing-service-in-rva/index.html",
+        "index.html?p=551.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.livewritethrive.com/2014/07/16/how-to-add-meaningful-subplots-to-your-novel/",
+      "occurrences": 2,
+      "sources": [
+        "2014/08/06/great-articles-this-week/index.html",
+        "index.html?p=47.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.lostintheredhillsofmars.com/",
+      "occurrences": 2,
+      "sources": [
+        "2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html",
+        "index.html?p=607.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.newyorker.com/books/joshua-rothman/better-way-think-genre-debate",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html",
+        "index.html?p=105.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.nypl.org/blog/2015/11/03/podcast-library-lions",
+      "occurrences": 2,
+      "sources": [
+        "2016/03/03/plumbing-the-depths-of-your-own-life/index.html",
+        "index.html?p=187.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.nypl.org/blog/2016/01/19/podcast-junot-diaz",
+      "occurrences": 2,
+      "sources": [
+        "2016/02/10/leaving-space-for-the-reader/index.html",
+        "index.html?p=207.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.psychologytoday.com/basics/environmental-psychology",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.psychologytoday.com/blog/mindmelding/201301/what-is-psychopath-0",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.sfwa.org/other-resources/for-authors/writer-beware/cases/",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/13/life-in-10-introduces-hybrid-publishing-service-in-rva/index.html",
+        "index.html?p=551.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.stevenpressfield.com/",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.therippyeffect.com/",
+      "occurrences": 2,
+      "sources": [
+        "2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html",
+        "index.html?p=607.html"
+      ]
+    },
+    {
+      "reference": "navigation: http://www.writerslife.org/writing-tips-toolkit",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/17/practical-writing-tips/index.html",
+        "index.html?p=567.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2014/11/barrymanilow.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2014/11/03/the-heros-journey-in-a-song/index.html",
+        "index.html?p=65.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/01/ddp_logo.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/06/a-dragon-named-publishing/index.html",
+        "index.html?p=96.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/04/5174.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/19/taking-notes-on-life/index.html",
+        "index.html?p=94.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/04/pen-name-tag.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/04/30/whats-in-a-pen-name/index.html",
+        "index.html?p=92.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/05/literary-vs-genre1.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html",
+        "index.html?p=105.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/06/audience.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/07/01/an-audience-of-one/index.html",
+        "index.html?p=141.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/06/awdesk.gif",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/03/drafting-1-2-3/index.html",
+        "index.html?p=103.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/06/group-people-silhouette.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/10/developing-secondary-characters/index.html",
+        "index.html?p=122.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/06/magnifier-keyboard-25318648.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/24/writing-to-discover-what-we-know/index.html",
+        "index.html?p=134.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/06/writers-block-01.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/06/15/writers-block/index.html",
+        "index.html?p=132.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/07/imageedit_2_8335958346.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/07/24/tracking-changes/index.html",
+        "index.html?p=145.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/07/unknown.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/07/31/when/index.html",
+        "index.html?p=151.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/07/where_large.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/08/12/and-where/index.html",
+        "index.html?p=153.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/08/brand-storyteller.png",
+      "occurrences": 2,
+      "sources": [
+        "2015/09/07/what-does-it-mean-to-be-a-storyteller/index.html",
+        "index.html?p=167.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/08/large_read_like_a_writer.png",
+      "occurrences": 2,
+      "sources": [
+        "2015/08/19/learning-to-read-like-a-writer/index.html",
+        "index.html?p=159.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/09/freegreatpicture-com-26108-holding-blank-card.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/09/23/holding-the-whole-thing/index.html",
+        "index.html?p=172.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/10/free-clipart-gavel-judge-gavel-pictures-clipart-best-pictures.gif",
+      "occurrences": 2,
+      "sources": [
+        "2015/10/21/we-are-not-the-best-judge-of-our-own-work/index.html",
+        "index.html?p=182.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/10/images.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/02/authorpreneur/index.html",
+        "index.html?p=180.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/11/dt9x9e89c.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/03/03/plumbing-the-depths-of-your-own-life/index.html",
+        "index.html?p=187.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2015/12/pause.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/01/merging-lanes-ahead.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/01/25/the-split-climax/index.html",
+        "index.html?p=204.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/02/06-the-white-room-6.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/02/10/leaving-space-for-the-reader/index.html",
+        "index.html?p=207.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/03/timetowrite1.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/03/16/time-to-write/index.html",
+        "index.html?p=215.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/08/untitled-design.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/08/05/not-just-hump-day/index.html",
+        "index.html?p=229.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/09/spotlight.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/09/14/agile-writers-spotlight/index.html",
+        "index.html?p=245.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/10/christine.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/05/first-draft-finishers/index.html",
+        "index.html?p=261.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/10/drama-clipart.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/20/query-tips-from-an-agent/index.html",
+        "index.html?p=274.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/10/jim.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/05/first-draft-finishers/index.html",
+        "index.html?p=261.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/10/research-clip-art.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/20/query-tips-from-an-agent/index.html",
+        "index.html?p=274.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2016/10/sell-clip-art.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2016/10/20/query-tips-from-an-agent/index.html",
+        "index.html?p=274.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/04/a_dogs_purpose_film.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2017/04/22/non-standard-plots-a-dogs-purpose/index.html",
+        "index.html?p=383.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/06/fail-fast-and-carry-on.png",
+      "occurrences": 2,
+      "sources": [
+        "2017/06/24/fail-fast/index.html",
+        "index.html?p=465.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/07/61sulmtgnl.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2017/07/02/agile-writer-keith-van-allen-releases-new-novel/index.html",
+        "index.html?p=474.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/07/img_0001.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2017/07/10/agile-writer-featured-on-local-show/index.html",
+        "index.html?p=479.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/08/1500571188789.jpeg",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/26/greg-smith-featured-on-the-heros-forge-podcast/index.html",
+        "index.html?p=498.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/08/225x225bb.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/25/the-bar-is-set-low-very-low/index.html",
+        "index.html?p=486.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/08/images-2.jpeg",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/25/the-bar-is-set-low-very-low/index.html",
+        "index.html?p=486.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2017/08/images-3.jpeg",
+      "occurrences": 2,
+      "sources": [
+        "2017/08/25/the-bar-is-set-low-very-low/index.html",
+        "index.html?p=486.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2018/06/34908807_10156002254400379_1342226981361549312_o.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/13/publishing/index.html",
+        "index.html?p=506.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2018/06/55230-1.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/21/bn-losing-in-2018q2/index.html",
+        "index.html?p=511.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2019/01/11432430_s.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html",
+        "index.html?p=629.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2019/04/picture1.png",
+      "occurrences": 2,
+      "sources": [
+        "2019/04/08/agile-writer-ken-hubona-publishes-first-novel-brewing-justice/index.html",
+        "index.html?p=659.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2019/11/image.png",
+      "occurrences": 2,
+      "sources": [
+        "2019/11/26/agile-writer-ken-hubona-does-it-again-shades-released/index.html",
+        "index.html?p=697.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.files.wordpress.com/2020/11/pawel-furman-jo21h-4lyfu-unsplash.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2020/11/23/the-kings-english-in-america/index.html",
+        "index.html?p=769.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://agilewriter.wordpress.com/2015/06/24/writing-to-discover-what-we-know/",
+      "occurrences": 2,
+      "sources": [
+        "2016/03/03/plumbing-the-depths-of-your-own-life/index.html",
+        "index.html?p=187.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://bookriot.com/2018/09/14/the-books-were-drowning-in-a-booksellers-lament/",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/16/used-bookstores-are-swimming-in-these/index.html",
+        "index.html?p=603.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Academy_Awards",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Butterfly_effect",
+      "occurrences": 2,
+      "sources": [
+        "2022/07/09/the-problem-with-the-multiverse/index.html",
+        "index.html?p=1117.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Chekhov%27s_gun",
+      "occurrences": 2,
+      "sources": [
+        "2020/11/01/the-queens-gambit-ep-1-openings/index.html",
+        "index.html?p=745.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Golden_Globe_Award",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Philip_Zimbardo",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Stanford_prison_experiment",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Unreliable_narrator",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://en.wikipedia.org/wiki/Vanity_press",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/13/life-in-10-introduces-hybrid-publishing-service-in-rva/index.html",
+        "index.html?p=551.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://greg-smith.com",
+      "occurrences": 2,
+      "sources": [
+        "about/index.html",
+        "index.html?p=14.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://indeed.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://meet.meetup.com/wf/click?upn=1CL8KZerddx3RoN8GG8tCtyyzuqk2-2FULaOLK4lUMf4c7YVzVJVLLPlKgLd9KgQet_1SadHgt7HJWF0jsQDdY5-2F0mvz-2BMGkix3NhwGOB7reSQwRCPup-2FS3hrhKVghijVtiXUfnK-2BBTl8KHN0AfT-2Fmrh3H31N-2B54KOABk8z8mXFX4Kp-2BhO-2BXXP-2B-2BwnFPItojMaOubmPAQ0OLNf7uwnxZBgiwOv2BorXaO8eJnSJB5Yc-2Bdm92c2gJ-2FC73-2B68RfRb-2BT3LOmtZuSkpr1mhIBubxHmy6lR8ot4Nk-2BJOEdyWZsoUIHU-3D",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html",
+        "index.html?p=595.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://meet.meetup.com/wf/click?upn=1CL8KZerddx3RoN8GG8tCtyyzuqk2-2FULaOLK4lUMf4c7YVzVJVLLPlKgLd9KgQet_1SadHgt7HJWF0jsQDdY5-2F0mvz-2BMGkix3NhwGOB7reSQwRCPup-2FS3hrhKVghijVtitm2TUr-2B-2BBrh1gecAfam-2B7H-2BEssDt93X3KI3EjLOZ6xDeUujkVkUlOOyJ-2Bgdpn3zqBNuaerIe5nGuwaO1K11Wtjp1QC-2FpJVJ1C9qsb4MQ859CmeJ0cw5VwOq0cUvCr0mP7ovd7CXXVzCkIyC-2BhzwwF3I6Pm1-2Btr64cV3GdxnG84I-3D",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html",
+        "index.html?p=595.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://meet.meetup.com/wf/click?upn=pEEcc35imY7Cq0tG1vyTtxGQuRNzBhUp5L0moh8u5X-2BN2SdhrXISma5Mj93DNb0mmgZmjcbPUf7LZ3Zx3E42lA-3D-3D_1SadHgt7HJWF0jsQDdY5-2F0mvz-2BMGkix3NhwGOB7reSQwRCPup-2FS3hrhKVghijVtifMpHGPgU9EjXTyMALaHlSe2Mz5pJPxnSaUY1i568s5Gdi7BzV6AXrMFtiPJzXub-2Bcf7qDXP68Ajl3zBMDzlZylF9osFzZ-2Fgvd61RjYShsvvE4ziUoXuKV31i1P8zKHq7ncmBgxjz6uec8NNkXP71c6uEOdKKcG2G0LnOtaefp4g-3D",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html",
+        "index.html?p=595.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://teanstrumpets.files.wordpress.com/2014/03/brain1.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://theconversation.com/the-science-of-the-plot-twist-how-writers-exploit-our-brains-95748",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/30/the-science-of-the-plot-twist/index.html",
+        "index.html?p=531.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://thewritelife.com/author/blakeatwood/",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/10/the-price-of-editing/index.html",
+        "index.html?p=578.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://thewritelife.com/how-much-to-pay-for-a-book-editor/",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/10/the-price-of-editing/index.html",
+        "index.html?p=578.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://wgme.com/news/local/central-maine-man-recounts-stopping-augusta-shooting",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://whitneyrobertshilldotcom.wordpress.com/2015/12/01/the-myth-and-my-truth-about-mental-illness-and-creativity/",
+      "occurrences": 2,
+      "sources": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://wordstylistrva.com/author/nakitars/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html",
+        "index.html?p=629.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://wtvr.com/2018/10/04/lost-in-the-red-hills-of-mars/",
+      "occurrences": 2,
+      "sources": [
+        "2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html",
+        "index.html?p=607.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Agile-Writer-Method-Write-Months/dp/1941526098/",
+      "occurrences": 2,
+      "sources": [
+        "about/index.html",
+        "index.html?p=14.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Ezekiel-Saw-Wheel-Keith-Allen-ebook/dp/B073DKBS1D/ref=sr_1_fkmr1_3?s=digital-text&ie=UTF8&qid=1499026906&sr=1-3-fkmr1&keywords=Ezekiel+found+a+wheel",
+      "occurrences": 2,
+      "sources": [
+        "2017/07/02/agile-writer-keith-van-allen-releases-new-novel/index.html",
+        "index.html?p=474.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Freak-Factor-Discovering-Uniqueness-Flaunting/dp/1599326698/ref=sr_1_1?s=books&ie=UTF8&qid=1444397782&sr=1-1",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/Shades-Ken-Hubona-ebook/dp/B07ZN92RFN/ref=sr_1_3?keywords=hubona&qid=1572344608&sr=8-3",
+      "occurrences": 2,
+      "sources": [
+        "2019/11/26/agile-writer-ken-hubona-does-it-again-shades-released/index.html",
+        "index.html?p=697.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.amazon.com/gp/product/B010TB0FI6",
+      "occurrences": 2,
+      "sources": [
+        "about/index.html",
+        "index.html?p=14.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.boomermagazine.com/jackie-hunter/",
+      "occurrences": 2,
+      "sources": [
+        "2018/09/10/agile-writer-jackie-hunter-in-boomer-magazine/index.html",
+        "index.html?p=597.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.cnn.com/2018/07/25/health/boy-cerebral-palsy-writes-book-eyes-trnd/index.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/27/a-12-year-old-boy-who-cant-speak-wrote-a-book-with-his-eyes/index.html",
+        "index.html?p=573.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.eventbrite.com/e/awesomize-your-life-with-shawn-furey-the-empowered-people-of-maine-tickets-54980615501",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.facebook.com/groups/258399710930494/?epa=SEARCH_BOX",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.freelancer.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.greatcontent.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.guru.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.helpingwritersbecomeauthors.com/why-do-so-many-bad-stories-sell-on-amazon",
+      "occurrences": 2,
+      "sources": [
+        "2019/07/08/good-vs-bad-book-dont-judge/index.html",
+        "index.html?p=683.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.hirewriters.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0000213/?ref_=tt_cl_t6",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0000381/?ref_=tt_ov_st_sm",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0021899/?ref_=tt_ov_dr",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0021899/?ref_=tt_ov_wr",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm0300712/?ref_=tt_ov_st_sm",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/name/nm3746649/?ref_=tt_ov_st_sm",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.imdb.com/title/tt3726704/?ref_=fn_al_tt_1",
+      "occurrences": 2,
+      "sources": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.loudandcleargraphics.co.uk/product/no-bad-dogs-just-bad-owners/",
+      "occurrences": 2,
+      "sources": [
+        "2019/07/08/good-vs-bad-book-dont-judge/index.html",
+        "index.html?p=683.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.mamamia.com.au/notting-hill-sends-a-bad-message/",
+      "occurrences": 2,
+      "sources": [
+        "2018/12/22/the-problem-with-notting-hill/index.html",
+        "index.html?p=610.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.penneycomputer.com/blog/communication/7-tips-to-improve-your-communication-skills/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/69454-the-indie-authors-guide-to-trends-in-erotica-and-erotic-romance.html",
+      "occurrences": 2,
+      "sources": [
+        "2019/09/08/public-library-shuns-writer/index.html",
+        "index.html?p=689.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/81097-author-julia-watts-disinvited-from-teen-lit-festival.html",
+      "occurrences": 2,
+      "sources": [
+        "2019/09/08/public-library-shuns-writer/index.html",
+        "index.html?p=689.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/digital/Apps/article/77224-stephen-king-library-debuts-for-smart-speakers.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/12/504/index.html",
+        "index.html?p=504.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/77810-walmart-rakuten-kobo-debut-e-book-retail-partnership.html?utm_source=Publishers+Weekly&utm_campaign=f5871a8cc8-EMAIL_CAMPAIGN_2018_08_22_02_40&utm_medium=email&utm_term=0_0bb2959cbb-f5871a8cc8-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/25/walmart-fights-kindle-with-kobo/index.html",
+        "index.html?p=589.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/digital/retailing/article/76097-kobo-s-michael-tamblyn-talks-walmart-and-e-books.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/25/walmart-fights-kindle-with-kobo/index.html",
+        "index.html?p=589.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/76375-smashwords-findaway-voices-team-to-offer-audiobook-production-distribution.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/17/indie-audiobooks-on-the-rise/index.html",
+        "index.html?p=563.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/77303-audiobook-revenue-jumped-22-7-in-2018.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/21/audiobooks-up-23/index.html",
+        "index.html?p=515.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/77518-may-bookstore-sales-up-4-million.html?utm_source=Publishers+Weekly&utm_campaign=d1a6006446-EMAIL_CAMPAIGN_2018_07_17_02_21&utm_medium=email&utm_term=0_0bb2959cbb-d1a6006446-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/17/bookstore-sales-rose-741m/index.html",
+        "index.html?p=565.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/77520-north-american-comics-market-declined-6-5-in-2017.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/19/north-american-comics-market-declined-6-5-in-2017/index.html",
+        "index.html?p=569.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/77305-b-n-posted-loss-of-125-million-on-6-sales-drop-in-fy-18.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/21/bn-losing-in-2018q2/index.html",
+        "index.html?p=511.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/77579-investment-group-acquires-5-7-stake-in-b-n.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/26/investment-group-acquires-5-7-stake-in-bn/index.html",
+        "index.html?p=571.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/77362-ala-2018-ala-strips-laura-ingalls-wilder-name-from-children-s-book-award.html?utm_source=Publishers+Weekly&utm_campaign=e99c3836de-EMAIL_CAMPAIGN_2018_06_29_02_33&utm_medium=email&utm_term=0_0bb2959cbb-e99c3836de-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/01/534/index.html",
+        "index.html?p=534.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/77362-ala-2018-ala-strips-laura-ingalls-wilder-name-from-children-s-book-award.html?utm_source=Publishers+Weekly&utm_campaign=e99c3836de-EMAIL_CAMPAIGN_2018_06_29_02_33&utm_medium=email&utm_term=0_0bb2959cbb-e99c3836de-304605521#http://www.ala.org/news/press-releases/2018/06/ala-alsc-respond-wilder-medal-name-change%20",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/01/534/index.html",
+        "index.html?p=534.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/77532-tor-scales-back-library-e-book-lending-as-part-of-test.html",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/18/tor-scifi-publisher-embargos-libraries/index.html",
+        "index.html?p=585.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/77775-a-dystopian-twist-for-library-e-books.html?utm_source=Publishers+Weekly&utm_campaign=e6f6005500-EMAIL_CAMPAIGN_2018_08_17_07_02&utm_medium=email&utm_term=0_0bb2959cbb-e6f6005500-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/18/tor-scifi-publisher-embargos-libraries/index.html",
+        "index.html?p=585.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/77306-the-time-arthur-conan-doyle-helped-solve-a-real-murder-case.html?utm_source=Publishers+Weekly&utm_campaign=52035a8341-EMAIL_CAMPAIGN_2018_06_22_03_52&utm_medium=email&utm_term=0_0bb2959cbb-52035a8341-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/22/the-time-arthur-conan-doyle-helped-solve-a-real-murder-case/index.html",
+        "index.html?p=517.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/77377-author-earnings-sliding-fast-in-u-k.html?utm_source=Publishers+Weekly&utm_campaign=548fbff85f-EMAIL_CAMPAIGN_2018_06_28_02_15&utm_medium=email&utm_term=0_0bb2959cbb-548fbff85f-304605521",
+      "occurrences": 2,
+      "sources": [
+        "2018/06/28/author-earnings-sliding-fast-in-u-k/index.html",
+        "index.html?p=519.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.textbroker.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.theguardian.com/books/2017/may/15/self-published-authors-hollywood-andy-weir-the-martian-el-james",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/08/hollywood-comes-calling-for-self-published-authors/index.html",
+        "index.html?p=543.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.upwork.com/",
+      "occurrences": 2,
+      "sources": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.walmart.com/cp/5632020",
+      "occurrences": 2,
+      "sources": [
+        "2018/08/25/walmart-fights-kindle-with-kobo/index.html",
+        "index.html?p=589.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://www.youtube.com/watch?v=rrFO702T7Sg",
+      "occurrences": 2,
+      "sources": [
+        "2019/07/08/good-vs-bad-book-dont-judge/index.html",
+        "index.html?p=683.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://youtu.be/SAlGf5Wfe4g",
+      "occurrences": 2,
+      "sources": [
+        "2020/09/18/star-trek-first-frontier-review/index.html",
+        "index.html?p=719.html"
+      ]
+    },
+    {
+      "reference": "navigation: https://youtu.be/djX8wF8Uy-M",
+      "occurrences": 2,
+      "sources": [
+        "2019/03/15/speaking-at-awesomize-your-life/index.html",
+        "index.html?p=657.html"
+      ]
+    },
+    {
+      "reference": "resource: http://greg-smith.com/wp-content/uploads/2014/12/Night_at_the_Museum_Secret_of_the_Tomb_poster-202x300.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2014/12/20/storyboard-night-at-the-museum-3/index.html",
+        "index.html?p=75.html"
+      ]
+    },
+    {
+      "reference": "resource: http://rogerpacker.com/wp-content/uploads/dawsonmark1-300x299.jpg",
+      "occurrences": 2,
+      "sources": [
+        "2018/07/08/hollywood-comes-calling-for-self-published-authors/index.html",
+        "index.html?p=543.html"
+      ]
+    }
+  ],
+  "limitations": "Static HTML/CSS inspection only; RSS feed snapshots are counted separately and their contents are not parsed. JavaScript-generated requests, dynamic behavior, unusual srcset syntax, and CSS parsing edge cases need browser review. Local candidates for absolute URLs are heuristic, not proof of equivalence. External resource hosts may include metadata links. A missing reference may be unused or intentionally dynamic."
+}

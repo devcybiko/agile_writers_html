@@ -1,0 +1,7 @@
+Started: 2026-10-30T00:45:42Z
+Target: https://agilewriters.com/
+Options: mirror, page requisites, convert links, adjust extension, no parent, domains=agilewriters.com,www.agilewriters.com, span hosts, robots=on, wait=1 with random wait, timeout=20, tries=2
+User agent: AgileWritersStaticArchive/1.0 (site-owner archival crawl)
+GNU Wget 1.25.0 built on darwin24.1.0.
+Finished: 2026-10-30T01:13:04Z
+Wget exit status: 8

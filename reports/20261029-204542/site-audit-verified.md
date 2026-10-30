@@ -1,0 +1,316 @@
+# Capture audit
+
+Root: `/Users/greg/git/agile_writers_html/builds/site-20261029-verified`
+Files: **1288**
+References examined: **52800**
+
+## File types
+- css: 10
+- fonts: 58
+- html: 450
+- images: 264
+- javascript: 38
+- other: 468
+
+## Missing local references (0 distinct)
+
+## Production URLs without local candidates (24 distinct)
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.eot` — 2 occurrences; examples: `wp-content/themes/bizberg/assets/css/main.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.eot` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/component.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.eot?` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/component.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.svg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/component.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.ttf` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/component.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.woff` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/component.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.svg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/main.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.ttf` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/main.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.woff` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/main.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.woff2` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/main.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/animated-number/bg.jpg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/bread-bg.jpg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/cta2/cta2-bg.jpg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/skill-bg.jpg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/01.jpg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/02.jpg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/03.jpg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/04.jpg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/testimonial/bg.jpg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/images/touch.jpg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/img/blackboard.jpg` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/img/line.png` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/themes/bizberg/assets/img/stamp.png` — 1 occurrences; examples: `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css`
+- `css: https://agilewriters.com/wp-content/uploads/2017/08/225x225bb.jpg.pagespeed.ce.gPi9OVWGR6.jpg` — 1 occurrences; examples: `category/structure/index.html`
+
+## Uncertain references (0 distinct)
+
+## Forms and other features (5 distinct)
+- `search input: s` — 840 occurrences; examples: `2011/06.html`, `2011/06/22/green-lantern-2011/index.html`, `2011/06/22/super-8-2011/index.html`
+- `form: ../../../../index.html` — 507 occurrences; examples: `2011/06/22/green-lantern-2011/index.html`, `2011/06/22/super-8-2011/index.html`, `2011/06/22/the-art-of-getting-by-2011/index.html`
+- `form: index.html` — 441 occurrences; examples: `index.html`, `index.html?p=1016.html`, `index.html?p=103.html`
+- `form: ../index.html` — 189 occurrences; examples: `2011/06.html`, `2011/07.html`, `2011/08.html`
+- `form: ../../index.html` — 123 occurrences; examples: `author/admin/index.html`, `author/guest-blogger/index.html`, `category/adventure/index.html`
+
+## External hosts (85 distinct)
+- `bizbergthemes.com` — 854
+- `fonts.googleapis.com` — 840
+- `greg-smith.com` — 432
+- `reelheroes.net` — 428
+- `agilefrontiers.com` — 424
+- `localradio.today` — 424
+- `gmpg.org` — 420
+- `fonts.gstatic.com` — 420
+- `blog.richmond.edu` — 420
+- `facebook.com` — 420
+- `twitter.com` — 420
+- `youtube.com` — 420
+- `wordpress.org` — 420
+- `agilewriter.files.wordpress.com` — 244
+- `www.amazon.com` — 104
+- `www.eventbrite.com` — 40
+- `www.publishersweekly.com` — 36
+- `en.wikipedia.org` — 22
+- `www.imdb.com` — 18
+- `mitchell-productions.com` — 12
+- `theagilewriter.com` — 12
+- `publishtothrive.com` — 10
+- `www.crimelibrary.com` — 8
+- `meet.meetup.com` — 6
+- `agilenovel.com` — 6
+- `www.authorsweekly.com` — 4
+- `buttsaboutwriting.blogspot.com` — 4
+- `www.nypl.org` — 4
+- `www.ala.org` — 4
+- `rogerpacker.com` — 4
+- `www.lifein10minutes.com` — 4
+- `thewritelife.com` — 4
+- `teanstrumpets.files.wordpress.com` — 4
+- `www.fbi.gov` — 4
+- `www.psychologytoday.com` — 4
+- `youtu.be` — 4
+- `www.helpingwritersbecomeauthors.com` — 4
+- `www.livewritethrive.com` — 2
+- `writersrelief.com` — 2
+- `www.huffingtonpost.com` — 2
+- `www.newyorker.com` — 2
+- `juliacameronlive.com` — 2
+- `www.stevenpressfield.com` — 2
+- `www.higherperspectives.com` — 2
+- `whitneyrobertshilldotcom.wordpress.com` — 2
+- `agilewriter.wordpress.com` — 2
+- `writersinthestormblog.com` — 2
+- `theconversation.com` — 2
+- `www.theguardian.com` — 2
+- `: http:` — 2
+- `www.sfwa.org` — 2
+- `blog.smashwords.com` — 2
+- `www.writerslife.org` — 2
+- `www.cnn.com` — 2
+- `www.createspace.com` — 2
+- `pronoun.com` — 2
+- `jetreidliterary.blogspot.com` — 2
+- `www.walmart.com` — 2
+- `www.boomermagazine.com` — 2
+- `bookriot.com` — 2
+- `www.therippyeffect.com` — 2
+- `www.lostintheredhillsofmars.com` — 2
+- `amazon.com` — 2
+- `wtvr.com` — 2
+- `www.mamamia.com.au` — 2
+- `inkwellbookcompany.com` — 2
+- `www.penneycomputer.com` — 2
+- `www.upwork.com` — 2
+- `www.guru.com` — 2
+- `www.freelancer.com` — 2
+- `www.textbroker.com` — 2
+- `www.greatcontent.com` — 2
+- `www.hirewriters.com` — 2
+- `indeed.com` — 2
+- `www.careerbuilder.com` — 2
+- `iampowerwoman.com` — 2
+- `wordstylistrva.com` — 2
+- `rottentomatoes.com` — 2
+- `www.herosupportguy.com` — 2
+- `www.drendall.com` — 2
+- `wgme.com` — 2
+- `www.facebook.com` — 2
+- `www.loudandcleargraphics.co.uk` — 2
+- `www.youtube.com` — 2
+- `wp3.commonsupport.com` — 1
+
+## External resource or metadata hosts (14 distinct)
+- `fonts.googleapis.com` — 840
+- `bizbergthemes.com` — 434
+- `gmpg.org` — 420
+- `fonts.gstatic.com` — 420
+- `agilewriter.files.wordpress.com` — 156
+- `theagilewriter.com` — 12
+- `publishtothrive.com` — 4
+- `greg-smith.com` — 2
+- `rogerpacker.com` — 2
+- `www.publishersweekly.com` — 2
+- `inkwellbookcompany.com` — 2
+- `mitchell-productions.com` — 2
+- `teanstrumpets.files.wordpress.com` — 2
+- `wp3.commonsupport.com` — 1
+
+## Absolute production URLs (53 distinct)
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.eot` — 2
+- `https://agilewriters.com/author/admin/feed/` — 1
+- `https://agilewriters.com/author/guest-blogger/feed/` — 1
+- `https://agilewriters.com/category/adventure/feed/` — 1
+- `https://agilewriters.com/category/agile-writer-news/feed/` — 1
+- `https://agilewriters.com/category/articles/feed/` — 1
+- `https://agilewriters.com/category/audio-books/feed/` — 1
+- `https://agilewriters.com/category/authors/feed/` — 1
+- `https://agilewriters.com/category/blogging/feed/` — 1
+- `https://agilewriters.com/category/bookstores/feed/` — 1
+- `https://agilewriters.com/category/character/feed/` — 1
+- `https://agilewriters.com/category/critique/feed/` — 1
+- `https://agilewriters.com/category/ebooks/feed/` — 1
+- `https://agilewriters.com/category/editing/feed/` — 1
+- `https://agilewriters.com/category/heroes/feed/` — 1
+- `https://agilewriters.com/category/marketing/feed/` — 1
+- `https://agilewriters.com/category/movies/feed/` — 1
+- `https://agilewriters.com/category/plot/feed/` — 1
+- `https://agilewriters.com/category/publishing/feed/` — 1
+- `https://agilewriters.com/category/review/feed/` — 1
+- `https://agilewriters.com/category/structure/feed/` — 1
+- `https://agilewriters.com/wp-content/uploads/2017/08/225x225bb.jpg.pagespeed.ce.gPi9OVWGR6.jpg` — 1
+- `https://agilewriters.com/category/writing/feed/` — 1
+- `https://agilewriters.com/feed/` — 1
+- `https://agilewriters.com/tag/blogging/feed/` — 1
+- `https://agilewriters.com/tag/critique/feed/` — 1
+- `https://agilewriters.com/tag/free/feed/` — 1
+- `https://agilewriters.com/tag/hosting/feed/` — 1
+- `https://agilewriters.com/tag/novel/feed/` — 1
+- `https://agilewriters.com/tag/wordpress/feed/` — 1
+- `https://agilewriters.com/tag/writing/feed/` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.eot` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.eot?` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.woff` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.ttf` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/css/fonts/slick.svg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.woff2` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.woff` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.ttf` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/fonts/Aclonica.svg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/images/cta2/cta2-bg.jpg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/images/testimonial/bg.jpg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/images/animated-number/bg.jpg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/images/touch.jpg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/images/bread-bg.jpg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/images/skill-bg.jpg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/01.jpg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/02.jpg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/04.jpg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/images/team/03.jpg` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/img/stamp.png` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/img/line.png` — 1
+- `https://agilewriters.com/wp-content/themes/bizberg/assets/img/blackboard.jpg` — 1
+
+## WordPress endpoints (480 distinct)
+- `../../../../wp-json/index.html` — 169
+- `../../../../xmlrpc.php%3Frsd` — 169
+- `../wp-json/index.html` — 63
+- `../xmlrpc.php%3Frsd` — 63
+- `../../wp-json/index.html` — 41
+- `../../xmlrpc.php%3Frsd` — 41
+- `../../../../wp-json/wp/v2/users/2` — 11
+- `../../../../wp-json/wp/v2/categories/2` — 4
+- `../../../../wp-json/wp/v2/categories/43` — 4
+- `../../../../wp-json/wp/v2/categories/22` — 4
+- `../../../../wp-json/wp/v2/users/4` — 2
+- `../../../../wp-json/wp/v2/categories/18` — 2
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fgreen-lantern-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fgreen-lantern-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1101` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fsuper-8-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fsuper-8-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1100` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fthe-art-of-getting-by-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F22%252Fthe-art-of-getting-by-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1099` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F25%252Fbad-teacher-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F06%252F25%252Fbad-teacher-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1098` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F01%252Ftransformers-dark-of-the-moon-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F01%252Ftransformers-dark-of-the-moon-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1097` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F02%252Flarry-crowne-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F02%252Flarry-crowne-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1096` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F03%252Fmidnight-in-paris-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F03%252Fmidnight-in-paris-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1095` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F09%252Fhorrible-bosses-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F09%252Fhorrible-bosses-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1094` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F16%252Fharry-potter-and-the-deathly-hallows-part-2-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F16%252Fharry-potter-and-the-deathly-hallows-part-2-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1093` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F29%252Fcaptain-america-the-first-avenger-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F29%252Fcaptain-america-the-first-avenger-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1092` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F30%252Fcowboys-aliens-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F07%252F30%252Fcowboys-aliens-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1091` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F12%252Fcrazy-stupid-love-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F12%252Fcrazy-stupid-love-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1089` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F12%252Frise-of-the-planet-of-the-apes-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F12%252Frise-of-the-planet-of-the-apes-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1090` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F19%252Fthe-help-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F08%252F19%252Fthe-help-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1088` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F03%252Fthe-debt-i-2010%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F03%252Fthe-debt-i-2010%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1087` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F10%252Fwarrior-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F10%252Fwarrior-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1086` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F16%252Fdrive-i-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F16%252Fdrive-i-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1085` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F24%252Fmoneyball-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F09%252F24%252Fmoneyball-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1084` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F08%252Freal-steel-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F08%252Freal-steel-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1083` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F10%252F50-50-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F10%252F50-50-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1082` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F29%252Fin-time-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F10%252F29%252Fin-time-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1081` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F11%252F06%252Ftower-heist-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F11%252F06%252Ftower-heist-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1080` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F11%252F18%252Fimmortals-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F11%252F18%252Fimmortals-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1079` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F02%252Fhugo-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F02%252Fhugo-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1078` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F04%252Fj-edgar-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F04%252Fj-edgar-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1076` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F04%252Fthe-muppets-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F04%252Fthe-muppets-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1077` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F17%252Fmission-impossible-ghost-protocol-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F17%252Fmission-impossible-ghost-protocol-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1075` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F25%252Fthe-adventures-of-tintin-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2011%252F12%252F25%252Fthe-adventures-of-tintin-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1074` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F01%252F03%252Fwar-horse-2011%252F` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F01%252F03%252Fwar-horse-2011%252F&format=xml` — 1
+- `../../../../wp-json/wp/v2/posts/1073` — 1
+- `../../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fagilewriters.com%252F2012%252F01%252F09%252Fthe-girl-with-the-dragon-tattoo-2011%252F` — 1
+- ... 380 more; see JSON for the full list.
+
+Parse errors: 0
+
+## Limitations
+Static HTML/CSS inspection only; JavaScript-generated requests, dynamic behavior, unusual srcset syntax, and CSS parsing edge cases need browser review. Local candidates for absolute URLs are heuristic, not proof of equivalence. External resource hosts may include metadata links. A missing reference may be unused or intentionally dynamic.

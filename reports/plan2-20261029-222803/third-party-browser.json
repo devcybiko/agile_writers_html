@@ -1,0 +1,4108 @@
+{
+  "offline": true,
+  "home": {
+    "title": "The Agile Writer – Greg Smith: Novelist and Coach",
+    "carousel": true,
+    "slides": 6,
+    "imagesBroken": [],
+    "before": "0",
+    "after": "1",
+    "arrowFont": "\"Font Awesome 5 Free\"",
+    "heroBackground": "url(\"http://127.0.0.1:8018/wp-content/themes/bizberg/assets/images/breadcrum.jpg\")",
+    "afterPrevious": "0",
+    "articleLink": null
+  },
+  "article": {
+    "title": "Guest Post: The importance of colors to your BRAND – The Agile Writer",
+    "imagesBroken": []
+  },
+  "mobile": {
+    "width": 390,
+    "documentWidth": 390,
+    "menu": true,
+    "carousel": true,
+    "menuBefore": null,
+    "menuAfter": null
+  },
+  "pages": [
+    {
+      "path": "/category/guest-post/",
+      "title": "Guest Post – The Agile Writer",
+      "imagesBroken": [],
+      "search": 0,
+      "forms": 0
+    },
+    {
+      "path": "/2019/01/17/guest-post-understanding-psychopathy/",
+      "title": "Guest Post: Understanding Psychopathy in Villains – The Agile Writer",
+      "imagesBroken": [],
+      "search": 0,
+      "forms": 0
+    },
+    {
+      "path": "/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "title": "Guest Post: Avoid Writer’s Block with the “Candy Crunched Method” – The Agile Writer",
+      "imagesBroken": [],
+      "search": 0,
+      "forms": 0
+    },
+    {
+      "path": "/2015/04/30/whats-in-a-pen-name/",
+      "title": "What’s In a (Pen) Name? – The Agile Writer",
+      "imagesBroken": [],
+      "search": 0,
+      "forms": 0
+    }
+  ],
+  "failures": [],
+  "external": [],
+  "errors": [],
+  "requests": [
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 21,
+        "columnNumber": 141
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 22,
+        "columnNumber": 148
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 23,
+        "columnNumber": 141
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 24,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 25,
+        "columnNumber": 125
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 26,
+        "columnNumber": 135
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 27,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 28,
+        "columnNumber": 137
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 29,
+        "columnNumber": 122
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 30,
+        "columnNumber": 119
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 32,
+        "columnNumber": 101
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 33,
+        "columnNumber": 85
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 34,
+        "columnNumber": 96
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 35,
+        "columnNumber": 89
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 36,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 69,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/01/pexels-photo-2679814-1-683x1024.jpeg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 126,
+        "columnNumber": 132
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2016/09/spotlight.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 149,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/images/placeholder.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 172,
+        "columnNumber": 124
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2014/08/greg-circle-300x300-1.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 195,
+        "columnNumber": 121
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2015/05/ddp_logo.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 241,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 94
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1121,
+        "columnNumber": 92
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1126,
+        "columnNumber": 85
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1127,
+        "columnNumber": 75
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1128,
+        "columnNumber": 86
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1129,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1130,
+        "columnNumber": 99
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1131,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1132,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1133,
+        "columnNumber": 88
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1134,
+        "columnNumber": 94
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1135,
+        "columnNumber": 116
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 96
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/images/breadcrum.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2023/04/Daisy_Jones_and_the_Six_poster.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2022/07/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpeg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2022/05/Screen-Shot-2022-05-15-at-3.13.31-PM.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/HUC2-018995_R-768x512.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/Shadow_in_the_Cloud.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2020/11/pawel-furman-jo21h-4lyfu-unsplash-scaled.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/The_Queens_Gambit_miniseries.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2020/09/screen-shot-2020-09-20-at-10.33.35-am-768x431.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/First-Frontier-Cover2-600x400-1.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/Screen-Shot-2021-02-02-at-11.53.32-PM.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/assets/vendor/lato/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/assets/vendor/lato/lato.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-regular-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/rochester/6ae-4KCqVa4Zy6Fif-UC2FHRFzAgoA.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/cropped-logo_AW-bluesteel-1-32x32.png",
+      "type": "Other",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 20,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 21,
+        "columnNumber": 160
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 22,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 23,
+        "columnNumber": 159
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 24,
+        "columnNumber": 137
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 25,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 26,
+        "columnNumber": 140
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 27,
+        "columnNumber": 149
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 28,
+        "columnNumber": 134
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 29,
+        "columnNumber": 131
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 70,
+        "columnNumber": 113
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 71,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 72,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 73,
+        "columnNumber": 101
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 74,
+        "columnNumber": 120
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 109,
+        "columnNumber": 110
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.37.10-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 152,
+        "columnNumber": 625
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.37.10-pm-300x293.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 166,
+        "columnNumber": 572
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/assets/third-party-20261029/49572f4f643ca094b7f51a53bce8060fc0616c69e13e2e53ca5419bc622ad224.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 186,
+        "columnNumber": 343
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 395,
+        "columnNumber": 106
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 396,
+        "columnNumber": 104
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 401,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 402,
+        "columnNumber": 87
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 403,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 404,
+        "columnNumber": 120
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 405,
+        "columnNumber": 111
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 406,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 407,
+        "columnNumber": 121
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 408,
+        "columnNumber": 100
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 409,
+        "columnNumber": 106
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 410,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 412,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 408,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 408,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 408,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 408,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 408,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 21,
+        "columnNumber": 141
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 22,
+        "columnNumber": 148
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 23,
+        "columnNumber": 141
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 24,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 25,
+        "columnNumber": 125
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 26,
+        "columnNumber": 135
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 27,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 28,
+        "columnNumber": 137
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 29,
+        "columnNumber": 122
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 30,
+        "columnNumber": 119
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 32,
+        "columnNumber": 101
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 33,
+        "columnNumber": 85
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 34,
+        "columnNumber": 96
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 35,
+        "columnNumber": 89
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 36,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 69,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/01/pexels-photo-2679814-1-683x1024.jpeg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 126,
+        "columnNumber": 132
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2016/09/spotlight.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 149,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/images/placeholder.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 172,
+        "columnNumber": 124
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2014/08/greg-circle-300x300-1.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 195,
+        "columnNumber": 121
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2015/05/ddp_logo.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 241,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1120,
+        "columnNumber": 94
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1121,
+        "columnNumber": 92
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1126,
+        "columnNumber": 85
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1127,
+        "columnNumber": 75
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1128,
+        "columnNumber": 86
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1129,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1130,
+        "columnNumber": 99
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1131,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1132,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1133,
+        "columnNumber": 88
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1134,
+        "columnNumber": 94
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1135,
+        "columnNumber": 116
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 96
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/images/breadcrum.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2023/04/Daisy_Jones_and_the_Six_poster.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2022/07/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpeg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2022/05/Screen-Shot-2022-05-15-at-3.13.31-PM.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/HUC2-018995_R-768x512.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/Shadow_in_the_Cloud.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2020/11/pawel-furman-jo21h-4lyfu-unsplash-scaled.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/The_Queens_Gambit_miniseries.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2020/09/screen-shot-2020-09-20-at-10.33.35-am-768x431.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/First-Frontier-Cover2-600x400-1.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/Screen-Shot-2021-02-02-at-11.53.32-PM.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/assets/vendor/lato/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/assets/vendor/lato/lato.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-regular-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/",
+        "lineNumber": 1137,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/rochester/6ae-4KCqVa4Zy6Fif-UC2FHRFzAgoA.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/category/guest-post/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 19,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 20,
+        "columnNumber": 154
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 21,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 22,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 23,
+        "columnNumber": 131
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 24,
+        "columnNumber": 141
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 25,
+        "columnNumber": 134
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 26,
+        "columnNumber": 143
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 27,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 28,
+        "columnNumber": 125
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 30,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 31,
+        "columnNumber": 91
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 32,
+        "columnNumber": 102
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 33,
+        "columnNumber": 95
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 34,
+        "columnNumber": 114
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 67,
+        "columnNumber": 104
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 674,
+        "columnNumber": 100
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 675,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 680,
+        "columnNumber": 91
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 681,
+        "columnNumber": 81
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 682,
+        "columnNumber": 92
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 683,
+        "columnNumber": 114
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 684,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 685,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 686,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 687,
+        "columnNumber": 94
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 688,
+        "columnNumber": 100
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 689,
+        "columnNumber": 122
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 691,
+        "columnNumber": 102
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.43.56-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 675,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.37.10-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 675,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.28.56-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 675,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.18.32-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 675,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.03.46-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 675,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-7.54.02-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 675,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 675,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 675,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-regular-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/category/guest-post/",
+        "lineNumber": 675,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/category/guest-post/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 20,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 21,
+        "columnNumber": 160
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 22,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 23,
+        "columnNumber": 159
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 24,
+        "columnNumber": 137
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 25,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 26,
+        "columnNumber": 140
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 27,
+        "columnNumber": 149
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 28,
+        "columnNumber": 134
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 29,
+        "columnNumber": 131
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 70,
+        "columnNumber": 113
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 71,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 72,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 73,
+        "columnNumber": 101
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 74,
+        "columnNumber": 120
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 109,
+        "columnNumber": 110
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.18.32-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 152,
+        "columnNumber": 623
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.18.32-pm-300x269.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 162,
+        "columnNumber": 926
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/assets/third-party-20261029/2a18041e820a3808a58a4d8366198fac1ccf2a51addc37f94a3ac694619639f5.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 166,
+        "columnNumber": 1150
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 398,
+        "columnNumber": 106
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 399,
+        "columnNumber": 104
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 404,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 405,
+        "columnNumber": 87
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 406,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 407,
+        "columnNumber": 120
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 408,
+        "columnNumber": 111
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 409,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 410,
+        "columnNumber": 121
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 411,
+        "columnNumber": 100
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 412,
+        "columnNumber": 106
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 413,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 415,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 415,
+        "columnNumber": 117
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 415,
+        "columnNumber": 117
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 415,
+        "columnNumber": 117
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+        "lineNumber": 415,
+        "columnNumber": 117
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-understanding-psychopathy/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 20,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 21,
+        "columnNumber": 160
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 22,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 23,
+        "columnNumber": 159
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 24,
+        "columnNumber": 137
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 25,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 26,
+        "columnNumber": 140
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 27,
+        "columnNumber": 149
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 28,
+        "columnNumber": 134
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 29,
+        "columnNumber": 131
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 31,
+        "columnNumber": 113
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 32,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 33,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 34,
+        "columnNumber": 101
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 35,
+        "columnNumber": 120
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 70,
+        "columnNumber": 110
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-7.54.02-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 113,
+        "columnNumber": 655
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-7.54.02-pm-300x223.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 127,
+        "columnNumber": 939
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/assets/third-party-20261029/45b4c2a26816407f31391772c58660685dc078126526ce48fe8ddc6f70d2273a.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 134,
+        "columnNumber": 216
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 382,
+        "columnNumber": 106
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 383,
+        "columnNumber": 104
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 388,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 389,
+        "columnNumber": 87
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 390,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 391,
+        "columnNumber": 120
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 392,
+        "columnNumber": 111
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 393,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 394,
+        "columnNumber": 121
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 395,
+        "columnNumber": 100
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 396,
+        "columnNumber": 106
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 397,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 399,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 382,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 382,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 382,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+        "lineNumber": 382,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 20,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 21,
+        "columnNumber": 160
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 22,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 23,
+        "columnNumber": 159
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 24,
+        "columnNumber": 137
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 25,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 26,
+        "columnNumber": 140
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 27,
+        "columnNumber": 149
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 28,
+        "columnNumber": 134
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 29,
+        "columnNumber": 131
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 31,
+        "columnNumber": 113
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 32,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 33,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 34,
+        "columnNumber": 101
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 35,
+        "columnNumber": 120
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 70,
+        "columnNumber": 110
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/uploads/2015/06/pen-name-tag.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 113,
+        "columnNumber": 581
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/assets/third-party-20261029/9072c3375ccaa7be04bb9e4c49a727c6d3bb411cd13bf900ddbea5624aa0705b.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 123,
+        "columnNumber": 306
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 344,
+        "columnNumber": 106
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 345,
+        "columnNumber": 104
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 350,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 351,
+        "columnNumber": 87
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 352,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 353,
+        "columnNumber": 120
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 354,
+        "columnNumber": 111
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 355,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 356,
+        "columnNumber": 121
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 357,
+        "columnNumber": 100
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 358,
+        "columnNumber": 106
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 359,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 361,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 361,
+        "columnNumber": 117
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 361,
+        "columnNumber": 117
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 361,
+        "columnNumber": 117
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+        "lineNumber": 361,
+        "columnNumber": 117
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8018/2015/04/30/whats-in-a-pen-name/",
+      "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8018/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    }
+  ]
+}

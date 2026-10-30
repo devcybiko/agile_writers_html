@@ -1,0 +1,1442 @@
+# Static build report
+
+- Source: `/Users/greg/git/agile_writers_html/captures/20261029-204542/agilewriters.com`
+- Build: `/Users/greg/git/agile_writers_html/builds/site-plan2-images-verified-20261029`
+- Files copied: 1296
+- Script MIME fix: added 17 `.js` aliases and updated script references in 420 HTML files. Original captured files remain in the build.
+- Localized Lato, a captured Bizberg background, and the original Structure category image in 420 HTML/CSS files; Lato license included.
+- Removed unused missing Aclonica and Slick font declarations and replaced 13 unavailable theme image URLs with CSS `none`.
+- Applied targeted static-only HTML transformations to 420 files; unavailable archive/category choices are disabled and listed below.
+- Localized same-image `srcset` matches in 112 HTML files using assets/image-matches.json.
+- Existing wget link conversions and other assets were retained.
+
+## Unresolved items
+
+- 0 distinct production references have no local candidate; these need review.
+- 13 external resource or metadata hosts appear in HTML/CSS; review actual browser requests.
+- 0 distinct WordPress endpoint references remain; some are metadata, others may support runtime features.
+- Search/comment controls and WordPress metadata were targeted for removal; review remaining content and runtime behavior.
+- JavaScript-generated URLs, forms, carousel behavior, and browser compatibility have not been verified.
+- Test script MIME handling on the intended deployment host; other unusual wget filenames remain.
+- The site has not been visually validated or approved for deployment.
+
+See the site audit for details. Static parsing does not prove completeness or functionality.
+
+## Changed HTML files
+
+- `2011/06/22/green-lantern-2011/index.html`: 17 script references
+- `2011/06/22/super-8-2011/index.html`: 17 script references
+- `2011/06/22/the-art-of-getting-by-2011/index.html`: 17 script references
+- `2011/06/25/bad-teacher-2011/index.html`: 17 script references
+- `2011/06.html`: 17 script references
+- `2011/07/01/transformers-dark-of-the-moon-2011/index.html`: 17 script references
+- `2011/07/02/larry-crowne-2011/index.html`: 17 script references
+- `2011/07/03/midnight-in-paris-2011/index.html`: 17 script references
+- `2011/07/09/horrible-bosses-2011/index.html`: 17 script references
+- `2011/07/16/harry-potter-and-the-deathly-hallows-part-2-2011/index.html`: 17 script references
+- `2011/07/29/captain-america-the-first-avenger-2011/index.html`: 17 script references
+- `2011/07/30/cowboys-aliens-2011/index.html`: 17 script references
+- `2011/07.html`: 17 script references
+- `2011/08/12/crazy-stupid-love-2011/index.html`: 17 script references
+- `2011/08/12/rise-of-the-planet-of-the-apes-2011/index.html`: 17 script references
+- `2011/08/19/the-help-2011/index.html`: 17 script references
+- `2011/08.html`: 17 script references
+- `2011/09/03/the-debt-i-2010/index.html`: 17 script references
+- `2011/09/10/warrior-2011/index.html`: 17 script references
+- `2011/09/16/drive-i-2011/index.html`: 17 script references
+- `2011/09/24/moneyball-2011/index.html`: 17 script references
+- `2011/09.html`: 17 script references
+- `2011/10/08/real-steel-2011/index.html`: 17 script references
+- `2011/10/10/50-50-2011/index.html`: 17 script references
+- `2011/10/29/in-time-2011/index.html`: 17 script references
+- `2011/10.html`: 17 script references
+- `2011/11/06/tower-heist-2011/index.html`: 17 script references
+- `2011/11/18/immortals-2011/index.html`: 17 script references
+- `2011/11.html`: 17 script references
+- `2011/12/02/hugo-2011/index.html`: 17 script references
+- `2011/12/04/j-edgar-2011/index.html`: 17 script references
+- `2011/12/04/the-muppets-2011/index.html`: 17 script references
+- `2011/12/17/mission-impossible-ghost-protocol-2011/index.html`: 17 script references
+- `2011/12/25/the-adventures-of-tintin-2011/index.html`: 17 script references
+- `2011/12.html`: 17 script references
+- `2012/01/03/war-horse-2011/index.html`: 17 script references
+- `2012/01/09/the-girl-with-the-dragon-tattoo-2011/index.html`: 17 script references
+- `2012/01/22/red-tails-2012/index.html`: 17 script references
+- `2012/01.html`: 17 script references
+- `2012/02/01/underworld-awakening-2012/index.html`: 17 script references
+- `2012/02/12/star-wars-episode-i-the-phantom-menace-1999/index.html`: 17 script references
+- `2012/02/18/ghost-rider-spirit-of-vengeance-2011/index.html`: 17 script references
+- `2012/02/20/safe-house-2012/index.html`: 17 script references
+- `2012/02.html`: 17 script references
+- `2012/04/08/american-reunion-2012/index.html`: 17 script references
+- `2012/04/15/the-three-stooges-2012/index.html`: 17 script references
+- `2012/04.html`: 17 script references
+- `2012/05/04/the-avengers-2012/index.html`: 17 script references
+- `2012/05.html`: 17 script references
+- `2012/06/03/snow-white-and-the-huntsman-2012/index.html`: 17 script references
+- `2012/06.html`: 17 script references
+- `2014/08/03/accountability-and-motivation/index.html`: 17 script references
+- `2014/08/06/great-articles-this-week/index.html`: 17 script references
+- `2014/08/10/what-is-a-novel/index.html`: 17 script references
+- `2014/08/18/the-heros-journey/index.html`: 17 script references
+- `2014/08.html`: 17 script references
+- `2014/11/03/the-heros-journey-in-a-song/index.html`: 17 script references
+- `2014/11.html`: 17 script references
+- `2014/12/20/storyboard-night-at-the-museum-3/index.html`: 17 script references
+- `2014/12.html`: 17 script references
+- `2015/01/10/5-reasons-wordpress-com-is-for-authors/index.html`: 17 script references
+- `2015/01.html`: 17 script references
+- `2015/04/16/turning-the-dial-learning-to-quiet-the-chatter-of-our-minds-through-the-accountability-of-a-writing-community/index.html`: 17 script references
+- `2015/04/30/whats-in-a-pen-name/index.html`: 17 script references
+- `2015/04.html`: 17 script references
+- `2015/05/06/a-dragon-named-publishing/index.html`: 17 script references
+- `2015/05/19/taking-notes-on-life/index.html`: 17 script references
+- `2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html`: 17 script references
+- `2015/05.html`: 17 script references
+- `2015/06/03/drafting-1-2-3/index.html`: 17 script references
+- `2015/06/10/developing-secondary-characters/index.html`: 17 script references
+- `2015/06/15/writers-block/index.html`: 17 script references
+- `2015/06/24/writing-to-discover-what-we-know/index.html`: 17 script references
+- `2015/06.html`: 17 script references
+- `2015/07/01/an-audience-of-one/index.html`: 17 script references
+- `2015/07/24/tracking-changes/index.html`: 17 script references
+- `2015/07/31/when/index.html`: 17 script references
+- `2015/07.html`: 17 script references
+- `2015/08/12/and-where/index.html`: 17 script references
+- `2015/08/19/learning-to-read-like-a-writer/index.html`: 17 script references
+- `2015/08.html`: 17 script references
+- `2015/09/07/what-does-it-mean-to-be-a-storyteller/index.html`: 17 script references
+- `2015/09/23/holding-the-whole-thing/index.html`: 17 script references
+- `2015/09.html`: 17 script references
+- `2015/10/12/tip-simply-publish-it/index.html`: 17 script references
+- `2015/10/13/you-bring-the-passion/index.html`: 17 script references
+- `2015/10/21/we-are-not-the-best-judge-of-our-own-work/index.html`: 17 script references
+- `2015/10.html`: 17 script references
+- `2015/12/02/authorpreneur/index.html`: 17 script references
+- `2015/12/18/the-night-before-agile-writers/index.html`: 17 script references
+- `2015/12/23/the-peril-of-the-pause/index.html`: 17 script references
+- `2015/12.html`: 17 script references
+- `2016/01/25/the-split-climax/index.html`: 17 script references
+- `2016/01.html`: 17 script references
+- `2016/02/10/leaving-space-for-the-reader/index.html`: 17 script references
+- `2016/02.html`: 17 script references
+- `2016/03/03/plumbing-the-depths-of-your-own-life/index.html`: 17 script references
+- `2016/03/16/time-to-write/index.html`: 17 script references
+- `2016/03.html`: 17 script references
+- `2016/04/08/announcing-the-launch-of-agile-rewriters/index.html`: 17 script references
+- `2016/04.html`: 17 script references
+- `2016/08/05/not-just-hump-day/index.html`: 17 script references
+- `2016/08.html`: 17 script references
+- `2016/09/14/agile-writers-spotlight/index.html`: 17 script references
+- `2016/09.html`: 17 script references
+- `2016/10/05/first-draft-finishers/index.html`: 17 script references
+- `2016/10/20/query-tips-from-an-agent/index.html`: 17 script references
+- `2016/10.html`: 17 script references
+- `2017/03/26/avatars-know-your-audience/index.html`: 17 script references
+- `2017/03.html`: 17 script references
+- `2017/04/12/conflict/index.html`: 17 script references
+- `2017/04/22/non-standard-plots-a-dogs-purpose/index.html`: 17 script references
+- `2017/04.html`: 17 script references
+- `2017/05/20/the-problem-with-star-wars/index.html`: 17 script references
+- `2017/05/29/the-idiot-in-the-room/index.html`: 17 script references
+- `2017/05.html`: 17 script references
+- `2017/06/24/fail-fast/index.html`: 17 script references
+- `2017/06/26/the-art-of-incubation/index.html`: 17 script references
+- `2017/06.html`: 17 script references
+- `2017/07/02/agile-writer-keith-van-allen-releases-new-novel/index.html`: 17 script references
+- `2017/07/10/agile-writer-featured-on-local-show/index.html`: 17 script references
+- `2017/07.html`: 17 script references
+- `2017/08/25/the-bar-is-set-low-very-low/index.html`: 17 script references
+- `2017/08/26/greg-smith-featured-on-the-heros-forge-podcast/index.html`: 17 script references
+- `2017/08.html`: 17 script references
+- `2018/06/12/504/index.html`: 17 script references
+- `2018/06/12/apple-unveils-new-book-app/index.html`: 17 script references
+- `2018/06/13/publishing/index.html`: 17 script references
+- `2018/06/21/audiobooks-up-23/index.html`: 17 script references
+- `2018/06/21/bn-losing-in-2018q2/index.html`: 17 script references
+- `2018/06/22/the-time-arthur-conan-doyle-helped-solve-a-real-murder-case/index.html`: 17 script references
+- `2018/06/28/author-earnings-sliding-fast-in-u-k/index.html`: 17 script references
+- `2018/06/30/529/index.html`: 17 script references
+- `2018/06/30/the-science-of-the-plot-twist/index.html`: 17 script references
+- `2018/06.html`: 17 script references
+- `2018/07/01/534/index.html`: 17 script references
+- `2018/07/08/hollywood-comes-calling-for-self-published-authors/index.html`: 17 script references
+- `2018/07/09/evoking-emotion-in-fiction-7-pragmatic-ways-to-make-readers-give-a-damn/index.html`: 17 script references
+- `2018/07/13/life-in-10-introduces-hybrid-publishing-service-in-rva/index.html`: 17 script references
+- `2018/07/17/bookstore-sales-rose-741m/index.html`: 17 script references
+- `2018/07/17/indie-audiobooks-on-the-rise/index.html`: 17 script references
+- `2018/07/17/practical-writing-tips/index.html`: 17 script references
+- `2018/07/19/north-american-comics-market-declined-6-5-in-2017/index.html`: 17 script references
+- `2018/07/26/investment-group-acquires-5-7-stake-in-bn/index.html`: 17 script references
+- `2018/07/27/a-12-year-old-boy-who-cant-speak-wrote-a-book-with-his-eyes/index.html`: 17 script references
+- `2018/07.html`: 17 script references
+- `2018/08/10/the-price-of-editing/index.html`: 17 script references
+- `2018/08/18/50-shades-of-submission/index.html`: 17 script references
+- `2018/08/18/tor-scifi-publisher-embargos-libraries/index.html`: 17 script references
+- `2018/08/25/walmart-fights-kindle-with-kobo/index.html`: 17 script references
+- `2018/08.html`: 17 script references
+- `2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html`: 17 script references
+- `2018/09/10/agile-writer-jackie-hunter-in-boomer-magazine/index.html`: 17 script references
+- `2018/09/16/used-bookstores-are-swimming-in-these/index.html`: 17 script references
+- `2018/09.html`: 17 script references
+- `2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html`: 17 script references
+- `2018/10.html`: 17 script references
+- `2018/12/22/the-problem-with-notting-hill/index.html`: 17 script references
+- `2018/12.html`: 17 script references
+- `2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html`: 17 script references
+- `2019/01/17/guest-post-build-your-email-list-with-4-specific-facebook-ad-strategies/index.html`: 17 script references
+- `2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html`: 17 script references
+- `2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html`: 17 script references
+- `2019/01/17/guest-post-understanding-psychopathy/index.html`: 17 script references
+- `2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html`: 17 script references
+- `2019/01/26/on-awards-shows/index.html`: 17 script references
+- `2019/01.html`: 17 script references
+- `2019/03/15/speaking-at-awesomize-your-life/index.html`: 17 script references
+- `2019/03.html`: 17 script references
+- `2019/04/08/agile-writer-ken-hubona-publishes-first-novel-brewing-justice/index.html`: 17 script references
+- `2019/04.html`: 17 script references
+- `2019/06/25/is-agile-writers-a-good-value/index.html`: 17 script references
+- `2019/06.html`: 17 script references
+- `2019/07/08/good-vs-bad-book-dont-judge/index.html`: 17 script references
+- `2019/07.html`: 17 script references
+- `2019/09/08/public-library-shuns-writer/index.html`: 17 script references
+- `2019/09.html`: 17 script references
+- `2019/11/26/agile-writer-ken-hubona-does-it-again-shades-released/index.html`: 17 script references
+- `2019/11.html`: 17 script references
+- `2020/04/15/experimenter-2015/index.html`: 17 script references
+- `2020/04.html`: 17 script references
+- `2020/09/13/agile-writer-adenike-lucas-publishes-birthright/index.html`: 17 script references
+- `2020/09/18/star-trek-first-frontier-review/index.html`: 17 script references
+- `2020/09/20/star-trektos-my-worst-to-best-episodes/index.html`: 17 script references
+- `2020/09.html`: 17 script references
+- `2020/11/01/the-queens-gambit-ep-1-openings/index.html`: 17 script references
+- `2020/11/23/the-kings-english-in-america/index.html`: 17 script references
+- `2020/11.html`: 17 script references
+- `2021/02/03/shadow-in-the-cloud/index.html`: 17 script references
+- `2021/02/03/the-problem-with-the-mandalorian/index.html`: 17 script references
+- `2021/02.html`: 17 script references
+- `2022/05/15/the-problem-with-firestarter-2022/index.html`: 17 script references
+- `2022/05.html`: 17 script references
+- `2022/07/09/the-problem-with-the-multiverse/index.html`: 17 script references
+- `2022/07.html`: 17 script references
+- `2023/04/18/the-problem-with-daisy-jones-the-six/index.html`: 17 script references
+- `2023/04.html`: 17 script references
+- `about/index.html`: 17 script references
+- `agile-writer-method-book/index.html`: 17 script references
+- `author/admin/index.html`: 17 script references
+- `author/admin/page/10/index.html`: 17 script references
+- `author/admin/page/11/index.html`: 17 script references
+- `author/admin/page/12/index.html`: 17 script references
+- `author/admin/page/2/index.html`: 17 script references
+- `author/admin/page/3/index.html`: 17 script references
+- `author/admin/page/4/index.html`: 17 script references
+- `author/admin/page/5/index.html`: 17 script references
+- `author/admin/page/6/index.html`: 17 script references
+- `author/admin/page/7/index.html`: 17 script references
+- `author/admin/page/8/index.html`: 17 script references
+- `author/admin/page/9/index.html`: 17 script references
+- `author/guest-blogger/index.html`: 17 script references
+- `author/guest-blogger/page/2/index.html`: 17 script references
+- `author/guest-blogger/page/3/index.html`: 17 script references
+- `authors/index.html`: 17 script references
+- `category/adventure/index.html`: 17 script references
+- `category/agile-writer-news/index.html`: 17 script references
+- `category/agile-writer-news/page/2/index.html`: 17 script references
+- `category/articles/index.html`: 17 script references
+- `category/articles/page/2/index.html`: 17 script references
+- `category/articles/page/3/index.html`: 17 script references
+- `category/articles/page/4/index.html`: 17 script references
+- `category/articles/page/5/index.html`: 17 script references
+- `category/audio-books/index.html`: 17 script references
+- `category/authors/index.html`: 17 script references
+- `category/blogging/index.html`: 17 script references
+- `category/bookstores/index.html`: 17 script references
+- `category/character/index.html`: 17 script references
+- `category/character/page/2/index.html`: 17 script references
+- `category/critique/index.html`: 17 script references
+- `category/ebooks/index.html`: 17 script references
+- `category/editing/index.html`: 17 script references
+- `category/heroes/index.html`: 17 script references
+- `category/marketing/index.html`: 17 script references
+- `category/movies/index.html`: 17 script references
+- `category/plot/index.html`: 17 script references
+- `category/publishing/index.html`: 17 script references
+- `category/publishing/page/2/index.html`: 17 script references
+- `category/publishing/page/3/index.html`: 17 script references
+- `category/review/index.html`: 17 script references
+- `category/review/page/2/index.html`: 17 script references
+- `category/review/page/3/index.html`: 17 script references
+- `category/review/page/4/index.html`: 17 script references
+- `category/review/page/5/index.html`: 17 script references
+- `category/structure/index.html`: 17 script references
+- `category/writing/index.html`: 17 script references
+- `category/writing/page/2/index.html`: 17 script references
+- `category/writing/page/3/index.html`: 17 script references
+- `category/writing/page/4/index.html`: 17 script references
+- `category/writing/page/5/index.html`: 17 script references
+- `home-page/index.html`: 17 script references
+- `index.html`: 17 script references
+- `index.html?p=1016.html`: 17 script references
+- `index.html?p=103.html`: 17 script references
+- `index.html?p=105.html`: 17 script references
+- `index.html?p=1063.html`: 17 script references
+- `index.html?p=1064.html`: 17 script references
+- `index.html?p=1065.html`: 17 script references
+- `index.html?p=1066.html`: 17 script references
+- `index.html?p=1067.html`: 17 script references
+- `index.html?p=1068.html`: 17 script references
+- `index.html?p=1069.html`: 17 script references
+- `index.html?p=1070.html`: 17 script references
+- `index.html?p=1071.html`: 17 script references
+- `index.html?p=1072.html`: 17 script references
+- `index.html?p=1073.html`: 17 script references
+- `index.html?p=1074.html`: 17 script references
+- `index.html?p=1075.html`: 17 script references
+- `index.html?p=1076.html`: 17 script references
+- `index.html?p=1077.html`: 17 script references
+- `index.html?p=1078.html`: 17 script references
+- `index.html?p=1079.html`: 17 script references
+- `index.html?p=1080.html`: 17 script references
+- `index.html?p=1081.html`: 17 script references
+- `index.html?p=1082.html`: 17 script references
+- `index.html?p=1083.html`: 17 script references
+- `index.html?p=1084.html`: 17 script references
+- `index.html?p=1085.html`: 17 script references
+- `index.html?p=1086.html`: 17 script references
+- `index.html?p=1087.html`: 17 script references
+- `index.html?p=1088.html`: 17 script references
+- `index.html?p=1089.html`: 17 script references
+- `index.html?p=1090.html`: 17 script references
+- `index.html?p=1091.html`: 17 script references
+- `index.html?p=1092.html`: 17 script references
+- `index.html?p=1093.html`: 17 script references
+- `index.html?p=1094.html`: 17 script references
+- `index.html?p=1095.html`: 17 script references
+- `index.html?p=1096.html`: 17 script references
+- `index.html?p=1097.html`: 17 script references
+- `index.html?p=1098.html`: 17 script references
+- `index.html?p=1099.html`: 17 script references
+- `index.html?p=1100.html`: 17 script references
+- `index.html?p=1101.html`: 17 script references
+- `index.html?p=1109.html`: 17 script references
+- `index.html?p=1117.html`: 17 script references
+- `index.html?p=1135.html`: 17 script references
+- `index.html?p=122.html`: 17 script references
+- `index.html?p=132.html`: 17 script references
+- `index.html?p=134.html`: 17 script references
+- `index.html?p=14.html`: 17 script references
+- `index.html?p=141.html`: 17 script references
+- `index.html?p=145.html`: 17 script references
+- `index.html?p=15.html`: 17 script references
+- `index.html?p=151.html`: 17 script references
+- `index.html?p=153.html`: 17 script references
+- `index.html?p=159.html`: 17 script references
+- `index.html?p=167.html`: 17 script references
+- `index.html?p=17.html`: 17 script references
+- `index.html?p=172.html`: 17 script references
+- `index.html?p=176.html`: 17 script references
+- `index.html?p=178.html`: 17 script references
+- `index.html?p=180.html`: 17 script references
+- `index.html?p=182.html`: 17 script references
+- `index.html?p=187.html`: 17 script references
+- `index.html?p=198.html`: 17 script references
+- `index.html?p=200.html`: 17 script references
+- `index.html?p=204.html`: 17 script references
+- `index.html?p=207.html`: 17 script references
+- `index.html?p=215.html`: 17 script references
+- `index.html?p=220.html`: 17 script references
+- `index.html?p=229.html`: 17 script references
+- `index.html?p=245.html`: 17 script references
+- `index.html?p=261.html`: 17 script references
+- `index.html?p=274.html`: 17 script references
+- `index.html?p=3.html`: 17 script references
+- `index.html?p=31.html`: 17 script references
+- `index.html?p=315.html`: 17 script references
+- `index.html?p=360.html`: 17 script references
+- `index.html?p=383.html`: 17 script references
+- `index.html?p=389.html`: 17 script references
+- `index.html?p=442.html`: 17 script references
+- `index.html?p=465.html`: 17 script references
+- `index.html?p=47.html`: 17 script references
+- `index.html?p=470.html`: 17 script references
+- `index.html?p=474.html`: 17 script references
+- `index.html?p=479.html`: 17 script references
+- `index.html?p=486.html`: 17 script references
+- `index.html?p=498.html`: 17 script references
+- `index.html?p=501.html`: 17 script references
+- `index.html?p=504.html`: 17 script references
+- `index.html?p=506.html`: 17 script references
+- `index.html?p=511.html`: 17 script references
+- `index.html?p=515.html`: 17 script references
+- `index.html?p=517.html`: 17 script references
+- `index.html?p=519.html`: 17 script references
+- `index.html?p=52.html`: 17 script references
+- `index.html?p=529.html`: 17 script references
+- `index.html?p=531.html`: 17 script references
+- `index.html?p=534.html`: 17 script references
+- `index.html?p=543.html`: 17 script references
+- `index.html?p=545.html`: 17 script references
+- `index.html?p=551.html`: 17 script references
+- `index.html?p=563.html`: 17 script references
+- `index.html?p=565.html`: 17 script references
+- `index.html?p=567.html`: 17 script references
+- `index.html?p=569.html`: 17 script references
+- `index.html?p=571.html`: 17 script references
+- `index.html?p=573.html`: 17 script references
+- `index.html?p=578.html`: 17 script references
+- `index.html?p=585.html`: 17 script references
+- `index.html?p=587.html`: 17 script references
+- `index.html?p=589.html`: 17 script references
+- `index.html?p=59.html`: 17 script references
+- `index.html?p=595.html`: 17 script references
+- `index.html?p=597.html`: 17 script references
+- `index.html?p=603.html`: 17 script references
+- `index.html?p=607.html`: 17 script references
+- `index.html?p=610.html`: 17 script references
+- `index.html?p=612.html`: 17 script references
+- `index.html?p=618.html`: 17 script references
+- `index.html?p=624.html`: 17 script references
+- `index.html?p=629.html`: 17 script references
+- `index.html?p=637.html`: 17 script references
+- `index.html?p=640.html`: 17 script references
+- `index.html?p=649.html`: 17 script references
+- `index.html?p=65.html`: 17 script references
+- `index.html?p=657.html`: 17 script references
+- `index.html?p=659.html`: 17 script references
+- `index.html?p=662.html`: 17 script references
+- `index.html?p=683.html`: 17 script references
+- `index.html?p=689.html`: 17 script references
+- `index.html?p=697.html`: 17 script references
+- `index.html?p=704.html`: 17 script references
+- `index.html?p=716.html`: 17 script references
+- `index.html?p=719.html`: 17 script references
+- `index.html?p=727.html`: 17 script references
+- `index.html?p=745.html`: 17 script references
+- `index.html?p=75.html`: 17 script references
+- `index.html?p=769.html`: 17 script references
+- `index.html?p=78.html`: 17 script references
+- `index.html?p=783.html`: 17 script references
+- `index.html?p=804.html`: 17 script references
+- `index.html?p=806.html`: 17 script references
+- `index.html?p=89.html`: 17 script references
+- `index.html?p=92.html`: 17 script references
+- `index.html?p=94.html`: 17 script references
+- `index.html?p=96.html`: 17 script references
+- `page/10/index.html`: 17 script references
+- `page/11/index.html`: 17 script references
+- `page/12/index.html`: 17 script references
+- `page/13/index.html`: 17 script references
+- `page/14/index.html`: 17 script references
+- `page/2/index.html`: 17 script references
+- `page/3/index.html`: 17 script references
+- `page/4/index.html`: 17 script references
+- `page/5/index.html`: 17 script references
+- `page/6/index.html`: 17 script references
+- `page/7/index.html`: 17 script references
+- `page/8/index.html`: 17 script references
+- `page/9/index.html`: 17 script references
+- `privacy-policy/index.html`: 17 script references
+- `related-sites/index.html`: 17 script references
+- `tag/blogging/index.html`: 17 script references
+- `tag/critique/index.html`: 17 script references
+- `tag/free/index.html`: 17 script references
+- `tag/hosting/index.html`: 17 script references
+- `tag/novel/index.html`: 17 script references
+- `tag/wordpress/index.html`: 17 script references
+- `tag/writing/index.html`: 17 script references
+
+## Added script aliases
+
+- `wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js?ver=1.0.js`
+- `wp-content/themes/bizberg/assets/js/custom.js?ver=1.0.js`
+- `wp-content/themes/bizberg/assets/js/jquery.inview.min.js?ver=1.0.js`
+- `wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js?ver=1.0.js`
+- `wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js?ver=1.0.js`
+- `wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js?ver=1.0.js`
+- `wp-content/themes/bizberg/assets/js/prognroll.js?ver=1.0.js`
+- `wp-content/themes/bizberg/assets/js/slick.js?ver=1.0.js`
+- `wp-content/themes/bizberg/assets/js/swiper.js?ver=1.0.js`
+- `wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js?ver=1.0.js`
+- `wp-content/themes/omg-blog/script.js?ver=1.0.js`
+- `wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255.js`
+- `wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216.js`
+- `wp-includes/js/imagesloaded.min.js?ver=5.0.0.js`
+- `wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1.js`
+- `wp-includes/js/jquery/jquery.min.js?ver=3.7.1.js`
+- `wp-includes/js/masonry.min.js?ver=4.2.2.js`
+
+## Files with localized references
+
+- `2011/06/22/green-lantern-2011/index.html`: 2 replacements
+- `2011/06/22/super-8-2011/index.html`: 2 replacements
+- `2011/06/22/the-art-of-getting-by-2011/index.html`: 2 replacements
+- `2011/06/25/bad-teacher-2011/index.html`: 2 replacements
+- `2011/06.html`: 2 replacements
+- `2011/07/01/transformers-dark-of-the-moon-2011/index.html`: 2 replacements
+- `2011/07/02/larry-crowne-2011/index.html`: 2 replacements
+- `2011/07/03/midnight-in-paris-2011/index.html`: 2 replacements
+- `2011/07/09/horrible-bosses-2011/index.html`: 2 replacements
+- `2011/07/16/harry-potter-and-the-deathly-hallows-part-2-2011/index.html`: 2 replacements
+- `2011/07/29/captain-america-the-first-avenger-2011/index.html`: 2 replacements
+- `2011/07/30/cowboys-aliens-2011/index.html`: 2 replacements
+- `2011/07.html`: 2 replacements
+- `2011/08/12/crazy-stupid-love-2011/index.html`: 2 replacements
+- `2011/08/12/rise-of-the-planet-of-the-apes-2011/index.html`: 2 replacements
+- `2011/08/19/the-help-2011/index.html`: 2 replacements
+- `2011/08.html`: 2 replacements
+- `2011/09/03/the-debt-i-2010/index.html`: 2 replacements
+- `2011/09/10/warrior-2011/index.html`: 2 replacements
+- `2011/09/16/drive-i-2011/index.html`: 2 replacements
+- `2011/09/24/moneyball-2011/index.html`: 2 replacements
+- `2011/09.html`: 2 replacements
+- `2011/10/08/real-steel-2011/index.html`: 2 replacements
+- `2011/10/10/50-50-2011/index.html`: 2 replacements
+- `2011/10/29/in-time-2011/index.html`: 2 replacements
+- `2011/10.html`: 2 replacements
+- `2011/11/06/tower-heist-2011/index.html`: 2 replacements
+- `2011/11/18/immortals-2011/index.html`: 2 replacements
+- `2011/11.html`: 2 replacements
+- `2011/12/02/hugo-2011/index.html`: 2 replacements
+- `2011/12/04/j-edgar-2011/index.html`: 2 replacements
+- `2011/12/04/the-muppets-2011/index.html`: 2 replacements
+- `2011/12/17/mission-impossible-ghost-protocol-2011/index.html`: 2 replacements
+- `2011/12/25/the-adventures-of-tintin-2011/index.html`: 2 replacements
+- `2011/12.html`: 2 replacements
+- `2012/01/03/war-horse-2011/index.html`: 2 replacements
+- `2012/01/09/the-girl-with-the-dragon-tattoo-2011/index.html`: 2 replacements
+- `2012/01/22/red-tails-2012/index.html`: 2 replacements
+- `2012/01.html`: 2 replacements
+- `2012/02/01/underworld-awakening-2012/index.html`: 2 replacements
+- `2012/02/12/star-wars-episode-i-the-phantom-menace-1999/index.html`: 2 replacements
+- `2012/02/18/ghost-rider-spirit-of-vengeance-2011/index.html`: 2 replacements
+- `2012/02/20/safe-house-2012/index.html`: 2 replacements
+- `2012/02.html`: 2 replacements
+- `2012/04/08/american-reunion-2012/index.html`: 2 replacements
+- `2012/04/15/the-three-stooges-2012/index.html`: 2 replacements
+- `2012/04.html`: 2 replacements
+- `2012/05/04/the-avengers-2012/index.html`: 2 replacements
+- `2012/05.html`: 2 replacements
+- `2012/06/03/snow-white-and-the-huntsman-2012/index.html`: 2 replacements
+- `2012/06.html`: 2 replacements
+- `2014/08/03/accountability-and-motivation/index.html`: 2 replacements
+- `2014/08/06/great-articles-this-week/index.html`: 2 replacements
+- `2014/08/10/what-is-a-novel/index.html`: 2 replacements
+- `2014/08/18/the-heros-journey/index.html`: 2 replacements
+- `2014/08.html`: 2 replacements
+- `2014/11/03/the-heros-journey-in-a-song/index.html`: 2 replacements
+- `2014/11.html`: 2 replacements
+- `2014/12/20/storyboard-night-at-the-museum-3/index.html`: 2 replacements
+- `2014/12.html`: 2 replacements
+- `2015/01/10/5-reasons-wordpress-com-is-for-authors/index.html`: 2 replacements
+- `2015/01.html`: 2 replacements
+- `2015/04/16/turning-the-dial-learning-to-quiet-the-chatter-of-our-minds-through-the-accountability-of-a-writing-community/index.html`: 2 replacements
+- `2015/04/30/whats-in-a-pen-name/index.html`: 2 replacements
+- `2015/04.html`: 2 replacements
+- `2015/05/06/a-dragon-named-publishing/index.html`: 2 replacements
+- `2015/05/19/taking-notes-on-life/index.html`: 2 replacements
+- `2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html`: 2 replacements
+- `2015/05.html`: 2 replacements
+- `2015/06/03/drafting-1-2-3/index.html`: 2 replacements
+- `2015/06/10/developing-secondary-characters/index.html`: 2 replacements
+- `2015/06/15/writers-block/index.html`: 2 replacements
+- `2015/06/24/writing-to-discover-what-we-know/index.html`: 2 replacements
+- `2015/06.html`: 2 replacements
+- `2015/07/01/an-audience-of-one/index.html`: 2 replacements
+- `2015/07/24/tracking-changes/index.html`: 2 replacements
+- `2015/07/31/when/index.html`: 2 replacements
+- `2015/07.html`: 2 replacements
+- `2015/08/12/and-where/index.html`: 2 replacements
+- `2015/08/19/learning-to-read-like-a-writer/index.html`: 2 replacements
+- `2015/08.html`: 2 replacements
+- `2015/09/07/what-does-it-mean-to-be-a-storyteller/index.html`: 2 replacements
+- `2015/09/23/holding-the-whole-thing/index.html`: 2 replacements
+- `2015/09.html`: 2 replacements
+- `2015/10/12/tip-simply-publish-it/index.html`: 2 replacements
+- `2015/10/13/you-bring-the-passion/index.html`: 2 replacements
+- `2015/10/21/we-are-not-the-best-judge-of-our-own-work/index.html`: 2 replacements
+- `2015/10.html`: 2 replacements
+- `2015/12/02/authorpreneur/index.html`: 2 replacements
+- `2015/12/18/the-night-before-agile-writers/index.html`: 2 replacements
+- `2015/12/23/the-peril-of-the-pause/index.html`: 2 replacements
+- `2015/12.html`: 2 replacements
+- `2016/01/25/the-split-climax/index.html`: 2 replacements
+- `2016/01.html`: 2 replacements
+- `2016/02/10/leaving-space-for-the-reader/index.html`: 2 replacements
+- `2016/02.html`: 2 replacements
+- `2016/03/03/plumbing-the-depths-of-your-own-life/index.html`: 2 replacements
+- `2016/03/16/time-to-write/index.html`: 2 replacements
+- `2016/03.html`: 2 replacements
+- `2016/04/08/announcing-the-launch-of-agile-rewriters/index.html`: 2 replacements
+- `2016/04.html`: 2 replacements
+- `2016/08/05/not-just-hump-day/index.html`: 2 replacements
+- `2016/08.html`: 2 replacements
+- `2016/09/14/agile-writers-spotlight/index.html`: 2 replacements
+- `2016/09.html`: 2 replacements
+- `2016/10/05/first-draft-finishers/index.html`: 2 replacements
+- `2016/10/20/query-tips-from-an-agent/index.html`: 2 replacements
+- `2016/10.html`: 2 replacements
+- `2017/03/26/avatars-know-your-audience/index.html`: 2 replacements
+- `2017/03.html`: 2 replacements
+- `2017/04/12/conflict/index.html`: 2 replacements
+- `2017/04/22/non-standard-plots-a-dogs-purpose/index.html`: 2 replacements
+- `2017/04.html`: 2 replacements
+- `2017/05/20/the-problem-with-star-wars/index.html`: 2 replacements
+- `2017/05/29/the-idiot-in-the-room/index.html`: 2 replacements
+- `2017/05.html`: 2 replacements
+- `2017/06/24/fail-fast/index.html`: 2 replacements
+- `2017/06/26/the-art-of-incubation/index.html`: 2 replacements
+- `2017/06.html`: 2 replacements
+- `2017/07/02/agile-writer-keith-van-allen-releases-new-novel/index.html`: 2 replacements
+- `2017/07/10/agile-writer-featured-on-local-show/index.html`: 2 replacements
+- `2017/07.html`: 2 replacements
+- `2017/08/25/the-bar-is-set-low-very-low/index.html`: 2 replacements
+- `2017/08/26/greg-smith-featured-on-the-heros-forge-podcast/index.html`: 2 replacements
+- `2017/08.html`: 2 replacements
+- `2018/06/12/504/index.html`: 2 replacements
+- `2018/06/12/apple-unveils-new-book-app/index.html`: 2 replacements
+- `2018/06/13/publishing/index.html`: 2 replacements
+- `2018/06/21/audiobooks-up-23/index.html`: 2 replacements
+- `2018/06/21/bn-losing-in-2018q2/index.html`: 2 replacements
+- `2018/06/22/the-time-arthur-conan-doyle-helped-solve-a-real-murder-case/index.html`: 2 replacements
+- `2018/06/28/author-earnings-sliding-fast-in-u-k/index.html`: 2 replacements
+- `2018/06/30/529/index.html`: 2 replacements
+- `2018/06/30/the-science-of-the-plot-twist/index.html`: 2 replacements
+- `2018/06.html`: 2 replacements
+- `2018/07/01/534/index.html`: 2 replacements
+- `2018/07/08/hollywood-comes-calling-for-self-published-authors/index.html`: 2 replacements
+- `2018/07/09/evoking-emotion-in-fiction-7-pragmatic-ways-to-make-readers-give-a-damn/index.html`: 2 replacements
+- `2018/07/13/life-in-10-introduces-hybrid-publishing-service-in-rva/index.html`: 2 replacements
+- `2018/07/17/bookstore-sales-rose-741m/index.html`: 2 replacements
+- `2018/07/17/indie-audiobooks-on-the-rise/index.html`: 2 replacements
+- `2018/07/17/practical-writing-tips/index.html`: 2 replacements
+- `2018/07/19/north-american-comics-market-declined-6-5-in-2017/index.html`: 2 replacements
+- `2018/07/26/investment-group-acquires-5-7-stake-in-bn/index.html`: 2 replacements
+- `2018/07/27/a-12-year-old-boy-who-cant-speak-wrote-a-book-with-his-eyes/index.html`: 2 replacements
+- `2018/07.html`: 2 replacements
+- `2018/08/10/the-price-of-editing/index.html`: 2 replacements
+- `2018/08/18/50-shades-of-submission/index.html`: 2 replacements
+- `2018/08/18/tor-scifi-publisher-embargos-libraries/index.html`: 2 replacements
+- `2018/08/25/walmart-fights-kindle-with-kobo/index.html`: 2 replacements
+- `2018/08.html`: 2 replacements
+- `2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html`: 2 replacements
+- `2018/09/10/agile-writer-jackie-hunter-in-boomer-magazine/index.html`: 2 replacements
+- `2018/09/16/used-bookstores-are-swimming-in-these/index.html`: 2 replacements
+- `2018/09.html`: 2 replacements
+- `2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html`: 2 replacements
+- `2018/10.html`: 2 replacements
+- `2018/12/22/the-problem-with-notting-hill/index.html`: 2 replacements
+- `2018/12.html`: 2 replacements
+- `2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html`: 2 replacements
+- `2019/01/17/guest-post-build-your-email-list-with-4-specific-facebook-ad-strategies/index.html`: 2 replacements
+- `2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html`: 2 replacements
+- `2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html`: 2 replacements
+- `2019/01/17/guest-post-understanding-psychopathy/index.html`: 2 replacements
+- `2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html`: 2 replacements
+- `2019/01/26/on-awards-shows/index.html`: 2 replacements
+- `2019/01.html`: 2 replacements
+- `2019/03/15/speaking-at-awesomize-your-life/index.html`: 2 replacements
+- `2019/03.html`: 2 replacements
+- `2019/04/08/agile-writer-ken-hubona-publishes-first-novel-brewing-justice/index.html`: 2 replacements
+- `2019/04.html`: 2 replacements
+- `2019/06/25/is-agile-writers-a-good-value/index.html`: 2 replacements
+- `2019/06.html`: 2 replacements
+- `2019/07/08/good-vs-bad-book-dont-judge/index.html`: 2 replacements
+- `2019/07.html`: 2 replacements
+- `2019/09/08/public-library-shuns-writer/index.html`: 2 replacements
+- `2019/09.html`: 2 replacements
+- `2019/11/26/agile-writer-ken-hubona-does-it-again-shades-released/index.html`: 2 replacements
+- `2019/11.html`: 2 replacements
+- `2020/04/15/experimenter-2015/index.html`: 2 replacements
+- `2020/04.html`: 2 replacements
+- `2020/09/13/agile-writer-adenike-lucas-publishes-birthright/index.html`: 2 replacements
+- `2020/09/18/star-trek-first-frontier-review/index.html`: 2 replacements
+- `2020/09/20/star-trektos-my-worst-to-best-episodes/index.html`: 2 replacements
+- `2020/09.html`: 2 replacements
+- `2020/11/01/the-queens-gambit-ep-1-openings/index.html`: 2 replacements
+- `2020/11/23/the-kings-english-in-america/index.html`: 2 replacements
+- `2020/11.html`: 2 replacements
+- `2021/02/03/shadow-in-the-cloud/index.html`: 2 replacements
+- `2021/02/03/the-problem-with-the-mandalorian/index.html`: 2 replacements
+- `2021/02.html`: 2 replacements
+- `2022/05/15/the-problem-with-firestarter-2022/index.html`: 2 replacements
+- `2022/05.html`: 2 replacements
+- `2022/07/09/the-problem-with-the-multiverse/index.html`: 2 replacements
+- `2022/07.html`: 2 replacements
+- `2023/04/18/the-problem-with-daisy-jones-the-six/index.html`: 2 replacements
+- `2023/04.html`: 2 replacements
+- `about/index.html`: 2 replacements
+- `agile-writer-method-book/index.html`: 2 replacements
+- `author/admin/index.html`: 2 replacements
+- `author/admin/page/10/index.html`: 2 replacements
+- `author/admin/page/11/index.html`: 2 replacements
+- `author/admin/page/12/index.html`: 2 replacements
+- `author/admin/page/2/index.html`: 2 replacements
+- `author/admin/page/3/index.html`: 2 replacements
+- `author/admin/page/4/index.html`: 2 replacements
+- `author/admin/page/5/index.html`: 2 replacements
+- `author/admin/page/6/index.html`: 2 replacements
+- `author/admin/page/7/index.html`: 2 replacements
+- `author/admin/page/8/index.html`: 2 replacements
+- `author/admin/page/9/index.html`: 2 replacements
+- `author/guest-blogger/index.html`: 2 replacements
+- `author/guest-blogger/page/2/index.html`: 2 replacements
+- `author/guest-blogger/page/3/index.html`: 2 replacements
+- `authors/index.html`: 2 replacements
+- `category/adventure/index.html`: 2 replacements
+- `category/agile-writer-news/index.html`: 2 replacements
+- `category/agile-writer-news/page/2/index.html`: 2 replacements
+- `category/articles/index.html`: 2 replacements
+- `category/articles/page/2/index.html`: 2 replacements
+- `category/articles/page/3/index.html`: 2 replacements
+- `category/articles/page/4/index.html`: 2 replacements
+- `category/articles/page/5/index.html`: 2 replacements
+- `category/audio-books/index.html`: 2 replacements
+- `category/authors/index.html`: 2 replacements
+- `category/blogging/index.html`: 2 replacements
+- `category/bookstores/index.html`: 2 replacements
+- `category/character/index.html`: 2 replacements
+- `category/character/page/2/index.html`: 2 replacements
+- `category/critique/index.html`: 2 replacements
+- `category/ebooks/index.html`: 2 replacements
+- `category/editing/index.html`: 2 replacements
+- `category/heroes/index.html`: 2 replacements
+- `category/marketing/index.html`: 2 replacements
+- `category/movies/index.html`: 2 replacements
+- `category/plot/index.html`: 2 replacements
+- `category/publishing/index.html`: 2 replacements
+- `category/publishing/page/2/index.html`: 2 replacements
+- `category/publishing/page/3/index.html`: 2 replacements
+- `category/review/index.html`: 2 replacements
+- `category/review/page/2/index.html`: 2 replacements
+- `category/review/page/3/index.html`: 2 replacements
+- `category/review/page/4/index.html`: 2 replacements
+- `category/review/page/5/index.html`: 2 replacements
+- `category/structure/index.html`: 3 replacements
+- `category/writing/index.html`: 2 replacements
+- `category/writing/page/2/index.html`: 2 replacements
+- `category/writing/page/3/index.html`: 2 replacements
+- `category/writing/page/4/index.html`: 2 replacements
+- `category/writing/page/5/index.html`: 2 replacements
+- `home-page/index.html`: 2 replacements
+- `index.html`: 3 replacements
+- `index.html?p=1016.html`: 2 replacements
+- `index.html?p=103.html`: 2 replacements
+- `index.html?p=105.html`: 2 replacements
+- `index.html?p=1063.html`: 2 replacements
+- `index.html?p=1064.html`: 2 replacements
+- `index.html?p=1065.html`: 2 replacements
+- `index.html?p=1066.html`: 2 replacements
+- `index.html?p=1067.html`: 2 replacements
+- `index.html?p=1068.html`: 2 replacements
+- `index.html?p=1069.html`: 2 replacements
+- `index.html?p=1070.html`: 2 replacements
+- `index.html?p=1071.html`: 2 replacements
+- `index.html?p=1072.html`: 2 replacements
+- `index.html?p=1073.html`: 2 replacements
+- `index.html?p=1074.html`: 2 replacements
+- `index.html?p=1075.html`: 2 replacements
+- `index.html?p=1076.html`: 2 replacements
+- `index.html?p=1077.html`: 2 replacements
+- `index.html?p=1078.html`: 2 replacements
+- `index.html?p=1079.html`: 2 replacements
+- `index.html?p=1080.html`: 2 replacements
+- `index.html?p=1081.html`: 2 replacements
+- `index.html?p=1082.html`: 2 replacements
+- `index.html?p=1083.html`: 2 replacements
+- `index.html?p=1084.html`: 2 replacements
+- `index.html?p=1085.html`: 2 replacements
+- `index.html?p=1086.html`: 2 replacements
+- `index.html?p=1087.html`: 2 replacements
+- `index.html?p=1088.html`: 2 replacements
+- `index.html?p=1089.html`: 2 replacements
+- `index.html?p=1090.html`: 2 replacements
+- `index.html?p=1091.html`: 2 replacements
+- `index.html?p=1092.html`: 2 replacements
+- `index.html?p=1093.html`: 2 replacements
+- `index.html?p=1094.html`: 2 replacements
+- `index.html?p=1095.html`: 2 replacements
+- `index.html?p=1096.html`: 2 replacements
+- `index.html?p=1097.html`: 2 replacements
+- `index.html?p=1098.html`: 2 replacements
+- `index.html?p=1099.html`: 2 replacements
+- `index.html?p=1100.html`: 2 replacements
+- `index.html?p=1101.html`: 2 replacements
+- `index.html?p=1109.html`: 2 replacements
+- `index.html?p=1117.html`: 2 replacements
+- `index.html?p=1135.html`: 2 replacements
+- `index.html?p=122.html`: 2 replacements
+- `index.html?p=132.html`: 2 replacements
+- `index.html?p=134.html`: 2 replacements
+- `index.html?p=14.html`: 2 replacements
+- `index.html?p=141.html`: 2 replacements
+- `index.html?p=145.html`: 2 replacements
+- `index.html?p=15.html`: 2 replacements
+- `index.html?p=151.html`: 2 replacements
+- `index.html?p=153.html`: 2 replacements
+- `index.html?p=159.html`: 2 replacements
+- `index.html?p=167.html`: 2 replacements
+- `index.html?p=17.html`: 2 replacements
+- `index.html?p=172.html`: 2 replacements
+- `index.html?p=176.html`: 2 replacements
+- `index.html?p=178.html`: 2 replacements
+- `index.html?p=180.html`: 2 replacements
+- `index.html?p=182.html`: 2 replacements
+- `index.html?p=187.html`: 2 replacements
+- `index.html?p=198.html`: 2 replacements
+- `index.html?p=200.html`: 2 replacements
+- `index.html?p=204.html`: 2 replacements
+- `index.html?p=207.html`: 2 replacements
+- `index.html?p=215.html`: 2 replacements
+- `index.html?p=220.html`: 2 replacements
+- `index.html?p=229.html`: 2 replacements
+- `index.html?p=245.html`: 2 replacements
+- `index.html?p=261.html`: 2 replacements
+- `index.html?p=274.html`: 2 replacements
+- `index.html?p=3.html`: 2 replacements
+- `index.html?p=31.html`: 2 replacements
+- `index.html?p=315.html`: 2 replacements
+- `index.html?p=360.html`: 2 replacements
+- `index.html?p=383.html`: 2 replacements
+- `index.html?p=389.html`: 2 replacements
+- `index.html?p=442.html`: 2 replacements
+- `index.html?p=465.html`: 2 replacements
+- `index.html?p=47.html`: 2 replacements
+- `index.html?p=470.html`: 2 replacements
+- `index.html?p=474.html`: 2 replacements
+- `index.html?p=479.html`: 2 replacements
+- `index.html?p=486.html`: 2 replacements
+- `index.html?p=498.html`: 2 replacements
+- `index.html?p=501.html`: 2 replacements
+- `index.html?p=504.html`: 2 replacements
+- `index.html?p=506.html`: 2 replacements
+- `index.html?p=511.html`: 2 replacements
+- `index.html?p=515.html`: 2 replacements
+- `index.html?p=517.html`: 2 replacements
+- `index.html?p=519.html`: 2 replacements
+- `index.html?p=52.html`: 2 replacements
+- `index.html?p=529.html`: 2 replacements
+- `index.html?p=531.html`: 2 replacements
+- `index.html?p=534.html`: 2 replacements
+- `index.html?p=543.html`: 2 replacements
+- `index.html?p=545.html`: 2 replacements
+- `index.html?p=551.html`: 2 replacements
+- `index.html?p=563.html`: 2 replacements
+- `index.html?p=565.html`: 2 replacements
+- `index.html?p=567.html`: 2 replacements
+- `index.html?p=569.html`: 2 replacements
+- `index.html?p=571.html`: 2 replacements
+- `index.html?p=573.html`: 2 replacements
+- `index.html?p=578.html`: 2 replacements
+- `index.html?p=585.html`: 2 replacements
+- `index.html?p=587.html`: 2 replacements
+- `index.html?p=589.html`: 2 replacements
+- `index.html?p=59.html`: 2 replacements
+- `index.html?p=595.html`: 2 replacements
+- `index.html?p=597.html`: 2 replacements
+- `index.html?p=603.html`: 2 replacements
+- `index.html?p=607.html`: 2 replacements
+- `index.html?p=610.html`: 2 replacements
+- `index.html?p=612.html`: 2 replacements
+- `index.html?p=618.html`: 2 replacements
+- `index.html?p=624.html`: 2 replacements
+- `index.html?p=629.html`: 2 replacements
+- `index.html?p=637.html`: 2 replacements
+- `index.html?p=640.html`: 2 replacements
+- `index.html?p=649.html`: 2 replacements
+- `index.html?p=65.html`: 2 replacements
+- `index.html?p=657.html`: 2 replacements
+- `index.html?p=659.html`: 2 replacements
+- `index.html?p=662.html`: 2 replacements
+- `index.html?p=683.html`: 2 replacements
+- `index.html?p=689.html`: 2 replacements
+- `index.html?p=697.html`: 2 replacements
+- `index.html?p=704.html`: 2 replacements
+- `index.html?p=716.html`: 2 replacements
+- `index.html?p=719.html`: 2 replacements
+- `index.html?p=727.html`: 2 replacements
+- `index.html?p=745.html`: 2 replacements
+- `index.html?p=75.html`: 2 replacements
+- `index.html?p=769.html`: 2 replacements
+- `index.html?p=78.html`: 2 replacements
+- `index.html?p=783.html`: 2 replacements
+- `index.html?p=804.html`: 2 replacements
+- `index.html?p=806.html`: 2 replacements
+- `index.html?p=89.html`: 2 replacements
+- `index.html?p=92.html`: 2 replacements
+- `index.html?p=94.html`: 2 replacements
+- `index.html?p=96.html`: 2 replacements
+- `page/10/index.html`: 3 replacements
+- `page/11/index.html`: 3 replacements
+- `page/12/index.html`: 3 replacements
+- `page/13/index.html`: 3 replacements
+- `page/14/index.html`: 3 replacements
+- `page/2/index.html`: 3 replacements
+- `page/3/index.html`: 3 replacements
+- `page/4/index.html`: 3 replacements
+- `page/5/index.html`: 3 replacements
+- `page/6/index.html`: 3 replacements
+- `page/7/index.html`: 3 replacements
+- `page/8/index.html`: 3 replacements
+- `page/9/index.html`: 3 replacements
+- `privacy-policy/index.html`: 2 replacements
+- `related-sites/index.html`: 2 replacements
+- `tag/blogging/index.html`: 2 replacements
+- `tag/critique/index.html`: 2 replacements
+- `tag/free/index.html`: 2 replacements
+- `tag/hosting/index.html`: 2 replacements
+- `tag/novel/index.html`: 2 replacements
+- `tag/wordpress/index.html`: 2 replacements
+- `tag/writing/index.html`: 2 replacements
+
+## Missing theme reference changes
+
+- `wp-content/themes/bizberg/assets/css/main.css?ver=1.0.css: removed unused Aclonica font declaration`
+- `wp-content/themes/bizberg/assets/css/component.css?ver=1.0.css: removed unused slick font declaration`
+- `wp-content/themes/bizberg/assets/css/style.css?ver=1.0.css: replaced 13 unavailable image URLs with none; retained other CSS`
+
+## Static HTML transformations
+
+- `2011/06/22/green-lantern-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/06/22/super-8-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/06/22/the-art-of-getting-by-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/06/25/bad-teacher-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/06.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2011/07/01/transformers-dark-of-the-moon-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/07/02/larry-crowne-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/07/03/midnight-in-paris-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/07/09/horrible-bosses-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/07/16/harry-potter-and-the-deathly-hallows-part-2-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/07/29/captain-america-the-first-avenger-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/07/30/cowboys-aliens-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/07.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2011/08/12/crazy-stupid-love-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/08/12/rise-of-the-planet-of-the-apes-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/08/19/the-help-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/08.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2011/09/03/the-debt-i-2010/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/09/10/warrior-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/09/16/drive-i-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/09/24/moneyball-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/09.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2011/10/08/real-steel-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/10/10/50-50-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/10/29/in-time-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/10.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2011/11/06/tower-heist-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/11/18/immortals-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/11.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2011/12/02/hugo-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/12/04/j-edgar-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/12/04/the-muppets-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/12/17/mission-impossible-ghost-protocol-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/12/25/the-adventures-of-tintin-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2011/12.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2012/01/03/war-horse-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2012/01/09/the-girl-with-the-dragon-tattoo-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2012/01/22/red-tails-2012/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2012/01.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2012/02/01/underworld-awakening-2012/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2012/02/12/star-wars-episode-i-the-phantom-menace-1999/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2012/02/18/ghost-rider-spirit-of-vengeance-2011/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2012/02/20/safe-house-2012/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2012/02.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2012/04/08/american-reunion-2012/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2012/04/15/the-three-stooges-2012/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2012/04.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2012/05/04/the-avengers-2012/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2012/05.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2012/06/03/snow-white-and-the-huntsman-2012/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2012/06.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2014/08/03/accountability-and-motivation/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2014/08/06/great-articles-this-week/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2014/08/10/what-is-a-novel/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2014/08/18/the-heros-journey/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2014/08.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2014/11/03/the-heros-journey-in-a-song/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2014/11.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2014/12/20/storyboard-night-at-the-museum-3/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2014/12.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2015/01/10/5-reasons-wordpress-com-is-for-authors/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/01.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2015/04/16/turning-the-dial-learning-to-quiet-the-chatter-of-our-minds-through-the-accountability-of-a-writing-community/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/04/30/whats-in-a-pen-name/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/04.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2015/05/06/a-dragon-named-publishing/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/05/19/taking-notes-on-life/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/05.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2015/06/03/drafting-1-2-3/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/06/10/developing-secondary-characters/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/06/15/writers-block/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/06/24/writing-to-discover-what-we-know/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/06.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2015/07/01/an-audience-of-one/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/07/24/tracking-changes/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/07/31/when/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/07.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2015/08/12/and-where/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/08/19/learning-to-read-like-a-writer/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/08.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2015/09/07/what-does-it-mean-to-be-a-storyteller/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/09/23/holding-the-whole-thing/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/09.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2015/10/12/tip-simply-publish-it/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/10/13/you-bring-the-passion/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/10/21/we-are-not-the-best-judge-of-our-own-work/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/10.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2015/12/02/authorpreneur/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/12/18/the-night-before-agile-writers/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/12/23/the-peril-of-the-pause/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2015/12.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2016/01/25/the-split-climax/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2016/01.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2016/02/10/leaving-space-for-the-reader/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2016/02.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2016/03/03/plumbing-the-depths-of-your-own-life/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2016/03/16/time-to-write/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2016/03.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2016/04/08/announcing-the-launch-of-agile-rewriters/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2016/04.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2016/08/05/not-just-hump-day/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2016/08.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2016/09/14/agile-writers-spotlight/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2016/09.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2016/10/05/first-draft-finishers/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2016/10/20/query-tips-from-an-agent/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2016/10.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2017/03/26/avatars-know-your-audience/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2017/03.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2017/04/12/conflict/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2017/04/22/non-standard-plots-a-dogs-purpose/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2017/04.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2017/05/20/the-problem-with-star-wars/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2017/05/29/the-idiot-in-the-room/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2017/05.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2017/06/24/fail-fast/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2017/06/26/the-art-of-incubation/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2017/06.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2017/07/02/agile-writer-keith-van-allen-releases-new-novel/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2017/07/10/agile-writer-featured-on-local-show/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2017/07.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2017/08/25/the-bar-is-set-low-very-low/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2017/08/26/greg-smith-featured-on-the-heros-forge-podcast/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2017/08.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2018/06/12/504/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/06/12/apple-unveils-new-book-app/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/06/13/publishing/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/06/21/audiobooks-up-23/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/06/21/bn-losing-in-2018q2/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/06/22/the-time-arthur-conan-doyle-helped-solve-a-real-murder-case/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/06/28/author-earnings-sliding-fast-in-u-k/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/06/30/529/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/06/30/the-science-of-the-plot-twist/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/06.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2018/07/01/534/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/07/08/hollywood-comes-calling-for-self-published-authors/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/07/09/evoking-emotion-in-fiction-7-pragmatic-ways-to-make-readers-give-a-damn/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/07/13/life-in-10-introduces-hybrid-publishing-service-in-rva/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/07/17/bookstore-sales-rose-741m/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/07/17/indie-audiobooks-on-the-rise/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/07/17/practical-writing-tips/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/07/19/north-american-comics-market-declined-6-5-in-2017/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/07/26/investment-group-acquires-5-7-stake-in-bn/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/07/27/a-12-year-old-boy-who-cant-speak-wrote-a-book-with-his-eyes/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/07.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2018/08/10/the-price-of-editing/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/08/18/50-shades-of-submission/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/08/18/tor-scifi-publisher-embargos-libraries/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/08/25/walmart-fights-kindle-with-kobo/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/08.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/09/10/agile-writer-jackie-hunter-in-boomer-magazine/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/09/16/used-bookstores-are-swimming-in-these/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/09.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/10.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2018/12/22/the-problem-with-notting-hill/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2018/12.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/01/17/guest-post-build-your-email-list-with-4-specific-facebook-ad-strategies/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/01/17/guest-post-understanding-psychopathy/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/01/26/on-awards-shows/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/01.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2019/03/15/speaking-at-awesomize-your-life/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/03.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2019/04/08/agile-writer-ken-hubona-publishes-first-novel-brewing-justice/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/04.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2019/06/25/is-agile-writers-a-good-value/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/06.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2019/07/08/good-vs-bad-book-dont-judge/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/07.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2019/09/08/public-library-shuns-writer/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/09.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2019/11/26/agile-writer-ken-hubona-does-it-again-shades-released/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2019/11.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2020/04/15/experimenter-2015/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2020/04.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2020/09/13/agile-writer-adenike-lucas-publishes-birthright/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2020/09/18/star-trek-first-frontier-review/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2020/09/20/star-trektos-my-worst-to-best-episodes/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2020/09.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2020/11/01/the-queens-gambit-ep-1-openings/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2020/11/23/the-kings-english-in-america/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2020/11.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2021/02/03/shadow-in-the-cloud/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2021/02/03/the-problem-with-the-mandalorian/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2021/02.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2022/05/15/the-problem-with-firestarter-2022/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2022/05.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2022/07/09/the-problem-with-the-multiverse/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2022/07.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `2023/04/18/the-problem-with-daisy-jones-the-six/index.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `2023/04.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `about/index.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `agile-writer-method-book/index.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/page/10/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/page/11/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/page/12/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/page/2/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/page/3/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/page/4/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/page/5/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/page/6/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/page/7/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/page/8/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/admin/page/9/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/guest-blogger/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/guest-blogger/page/2/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `author/guest-blogger/page/3/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `authors/index.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `category/adventure/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/agile-writer-news/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/agile-writer-news/page/2/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/articles/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/articles/page/2/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/articles/page/3/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/articles/page/4/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/articles/page/5/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/audio-books/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/authors/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/blogging/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/bookstores/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/character/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/character/page/2/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/critique/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/ebooks/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/editing/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/heroes/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/marketing/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/movies/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/plot/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/publishing/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/publishing/page/2/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/publishing/page/3/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/review/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/review/page/2/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/review/page/3/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/review/page/4/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/review/page/5/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/structure/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/writing/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/writing/page/2/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/writing/page/3/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/writing/page/4/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `category/writing/page/5/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `home-page/index.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1016.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=103.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=105.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1063.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1064.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1065.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1066.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1067.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1068.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1069.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1070.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1071.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1072.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1073.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1074.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1075.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1076.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1077.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1078.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1079.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1080.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1081.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1082.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1083.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1084.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1085.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1086.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1087.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1088.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1089.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1090.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1091.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1092.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1093.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1094.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1095.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1096.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1097.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1098.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1099.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1100.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1101.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1109.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1117.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=1135.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=122.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=132.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=134.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=14.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=141.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=145.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=15.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=151.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=153.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=159.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=167.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=17.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=172.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=176.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=178.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=180.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=182.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=187.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=198.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=200.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=204.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=207.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=215.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=220.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=229.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=245.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=261.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=274.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=3.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=31.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=315.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=360.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=383.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=389.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=442.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=465.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=47.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=470.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=474.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=479.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=486.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=498.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=501.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=504.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=506.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=511.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=515.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=517.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=519.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=52.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=529.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=531.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=534.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=543.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=545.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=551.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=563.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=565.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=567.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=569.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=571.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=573.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=578.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=585.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=587.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=589.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=59.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=595.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=597.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=603.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=607.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=610.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=612.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=618.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=624.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=629.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=637.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=640.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=649.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=65.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=657.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=659.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=662.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=683.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=689.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=697.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=704.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=716.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=719.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=727.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=745.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=75.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=769.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=78.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=783.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=804.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=806.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=89.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=92.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=94.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `index.html?p=96.html`: {'removed': 14, 'category_widgets': 1, 'archive_options': 57}
+- `page/10/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/11/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/12/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/13/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/14/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/2/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/3/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/4/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/5/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/6/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/7/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/8/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `page/9/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `privacy-policy/index.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `related-sites/index.html`: {'removed': 13, 'category_widgets': 1, 'archive_options': 57}
+- `tag/blogging/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `tag/critique/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `tag/free/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `tag/hosting/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `tag/novel/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `tag/wordpress/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+- `tag/writing/index.html`: {'removed': 10, 'category_widgets': 1, 'archive_options': 57}
+
+## Localized image src references
+
+- `2014/11/03/the-heros-journey-in-a-song/index.html`: 1 references
+- `2015/04/16/turning-the-dial-learning-to-quiet-the-chatter-of-our-minds-through-the-accountability-of-a-writing-community/index.html`: 1 references
+- `2015/05/06/a-dragon-named-publishing/index.html`: 1 references
+- `2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html`: 1 references
+- `2015/06/03/drafting-1-2-3/index.html`: 1 references
+- `2015/06/10/developing-secondary-characters/index.html`: 1 references
+- `2015/06/15/writers-block/index.html`: 1 references
+- `2015/06/24/writing-to-discover-what-we-know/index.html`: 1 references
+- `2015/07/24/tracking-changes/index.html`: 1 references
+- `2015/07/31/when/index.html`: 1 references
+- `2015/08/12/and-where/index.html`: 1 references
+- `2015/08/19/learning-to-read-like-a-writer/index.html`: 1 references
+- `2015/09/23/holding-the-whole-thing/index.html`: 1 references
+- `2015/10/13/you-bring-the-passion/index.html`: 1 references
+- `2015/12/02/authorpreneur/index.html`: 1 references
+- `2015/12/23/the-peril-of-the-pause/index.html`: 1 references
+- `2016/01/25/the-split-climax/index.html`: 1 references
+- `2016/02/10/leaving-space-for-the-reader/index.html`: 1 references
+- `2016/03/16/time-to-write/index.html`: 1 references
+- `2016/04/08/announcing-the-launch-of-agile-rewriters/index.html`: 1 references
+- `2016/08/05/not-just-hump-day/index.html`: 1 references
+- `2016/09/14/agile-writers-spotlight/index.html`: 1 references
+- `2016/10/05/first-draft-finishers/index.html`: 2 references
+- `2016/10/20/query-tips-from-an-agent/index.html`: 1 references
+- `2017/03/26/avatars-know-your-audience/index.html`: 1 references
+- `2017/04/22/non-standard-plots-a-dogs-purpose/index.html`: 1 references
+- `2017/05/20/the-problem-with-star-wars/index.html`: 1 references
+- `2017/05/29/the-idiot-in-the-room/index.html`: 1 references
+- `2017/06/24/fail-fast/index.html`: 1 references
+- `2017/06/26/the-art-of-incubation/index.html`: 1 references
+- `2017/07/02/agile-writer-keith-van-allen-releases-new-novel/index.html`: 1 references
+- `2017/07/10/agile-writer-featured-on-local-show/index.html`: 1 references
+- `2017/08/25/the-bar-is-set-low-very-low/index.html`: 3 references
+- `2017/08/26/greg-smith-featured-on-the-heros-forge-podcast/index.html`: 1 references
+- `2018/06/13/publishing/index.html`: 1 references
+- `2018/06/21/bn-losing-in-2018q2/index.html`: 1 references
+- `2018/07/27/a-12-year-old-boy-who-cant-speak-wrote-a-book-with-his-eyes/index.html`: 1 references
+- `2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html`: 1 references
+- `2018/09/10/agile-writer-jackie-hunter-in-boomer-magazine/index.html`: 1 references
+- `2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html`: 1 references
+- `2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html`: 2 references
+- `2019/01/17/guest-post-build-your-email-list-with-4-specific-facebook-ad-strategies/index.html`: 2 references
+- `2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html`: 2 references
+- `2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html`: 2 references
+- `2019/01/17/guest-post-understanding-psychopathy/index.html`: 2 references
+- `2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html`: 3 references
+- `2019/01/26/on-awards-shows/index.html`: 2 references
+- `2019/04/08/agile-writer-ken-hubona-publishes-first-novel-brewing-justice/index.html`: 1 references
+- `2019/07/08/good-vs-bad-book-dont-judge/index.html`: 1 references
+- `2019/09/08/public-library-shuns-writer/index.html`: 1 references
+- `2019/11/26/agile-writer-ken-hubona-does-it-again-shades-released/index.html`: 1 references
+- `2020/04/15/experimenter-2015/index.html`: 1 references
+- `2020/09/20/star-trektos-my-worst-to-best-episodes/index.html`: 1 references
+- `about/index.html`: 1 references
+- `agile-writer-method-book/index.html`: 1 references
+- `index.html?p=103.html`: 1 references
+- `index.html?p=105.html`: 1 references
+- `index.html?p=122.html`: 1 references
+- `index.html?p=132.html`: 1 references
+- `index.html?p=134.html`: 1 references
+- `index.html?p=14.html`: 1 references
+- `index.html?p=145.html`: 1 references
+- `index.html?p=151.html`: 1 references
+- `index.html?p=153.html`: 1 references
+- `index.html?p=159.html`: 1 references
+- `index.html?p=17.html`: 1 references
+- `index.html?p=172.html`: 1 references
+- `index.html?p=178.html`: 1 references
+- `index.html?p=180.html`: 1 references
+- `index.html?p=198.html`: 1 references
+- `index.html?p=204.html`: 1 references
+- `index.html?p=207.html`: 1 references
+- `index.html?p=215.html`: 1 references
+- `index.html?p=220.html`: 1 references
+- `index.html?p=229.html`: 1 references
+- `index.html?p=245.html`: 1 references
+- `index.html?p=261.html`: 2 references
+- `index.html?p=274.html`: 1 references
+- `index.html?p=31.html`: 3 references
+- `index.html?p=315.html`: 1 references
+- `index.html?p=383.html`: 1 references
+- `index.html?p=389.html`: 1 references
+- `index.html?p=442.html`: 1 references
+- `index.html?p=465.html`: 1 references
+- `index.html?p=470.html`: 1 references
+- `index.html?p=474.html`: 1 references
+- `index.html?p=479.html`: 1 references
+- `index.html?p=486.html`: 3 references
+- `index.html?p=498.html`: 1 references
+- `index.html?p=506.html`: 1 references
+- `index.html?p=511.html`: 1 references
+- `index.html?p=573.html`: 1 references
+- `index.html?p=595.html`: 1 references
+- `index.html?p=597.html`: 1 references
+- `index.html?p=607.html`: 1 references
+- `index.html?p=612.html`: 2 references
+- `index.html?p=618.html`: 2 references
+- `index.html?p=624.html`: 2 references
+- `index.html?p=629.html`: 3 references
+- `index.html?p=637.html`: 2 references
+- `index.html?p=640.html`: 2 references
+- `index.html?p=649.html`: 2 references
+- `index.html?p=65.html`: 1 references
+- `index.html?p=659.html`: 1 references
+- `index.html?p=683.html`: 1 references
+- `index.html?p=689.html`: 1 references
+- `index.html?p=697.html`: 1 references
+- `index.html?p=704.html`: 1 references
+- `index.html?p=727.html`: 1 references
+- `index.html?p=89.html`: 1 references
+- `index.html?p=96.html`: 1 references
+- `related-sites/index.html`: 3 references
+
+## Unavailable category and archive choices
+
+- category 10: Guest Post  (6)
+- category 20: Speaking  (1)
+- category 39: Fantasy  (2)
+- category 41: Mini-series  (2)
+- category 42: Science Fiction  (7)
+- category 46: Memoir  (1)

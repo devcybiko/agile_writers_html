@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "fantasy",
+    "option": "category/fantasy/index.html",
+    "location": "http://127.0.0.1:8017/category/fantasy/index.html",
+    "passed": true
+  },
+  {
+    "slug": "guest-post",
+    "option": "category/guest-post/index.html",
+    "location": "http://127.0.0.1:8017/category/guest-post/index.html",
+    "passed": true
+  },
+  {
+    "slug": "memoir",
+    "option": "category/memoir/index.html",
+    "location": "http://127.0.0.1:8017/category/memoir/index.html",
+    "passed": true
+  },
+  {
+    "slug": "mini-series",
+    "option": "category/mini-series/index.html",
+    "location": "http://127.0.0.1:8017/category/mini-series/index.html",
+    "passed": true
+  },
+  {
+    "slug": "science-fiction",
+    "option": "category/science-fiction/index.html",
+    "location": "http://127.0.0.1:8017/category/science-fiction/index.html",
+    "passed": true
+  },
+  {
+    "slug": "speaking",
+    "option": "category/speaking/index.html",
+    "location": "http://127.0.0.1:8017/category/speaking/index.html",
+    "passed": true
+  }
+]

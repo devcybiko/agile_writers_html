@@ -1,0 +1,296 @@
+{
+  "permissions": "Owner authorized migration download; final redistribution permission or license must be confirmed before deployment.",
+  "images": [
+    {
+      "source": "http://agilewriter.files.wordpress.com/2014/08/buyonamazon.png?w=300",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2014/08/buyonamazon.png?w=300",
+      "path": "ff223e524151a9fee2a8dd5f7c5d442a23c4d5f50a387637c0154093faa99b49.png",
+      "sha256": "ff223e524151a9fee2a8dd5f7c5d442a23c4d5f50a387637c0154093faa99b49",
+      "content_type": "image/png",
+      "retrieved_at": "2026-10-30T03:08:03.088485+00:00",
+      "pages": [
+        "agile-writer-method-book/index.html",
+        "index.html?p=17.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "http://inkwellbookcompany.com/wp-content/uploads/2017/08/Picture1.png",
+      "retrieved_url": "https://inkwellbookcompany.com/wp-content/uploads/2017/08/Picture1.png",
+      "path": "469338d353040f45352865217229461ed8818392fdd355ace644e128108ddbef.png",
+      "sha256": "469338d353040f45352865217229461ed8818392fdd355ace644e128108ddbef",
+      "content_type": "image/png",
+      "retrieved_at": "2026-10-30T03:08:04.856779+00:00",
+      "pages": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "http://mitchell-productions.com/wp-content/uploads/2016/03/XBM-ColorMeaningChart-big2.jpg",
+      "retrieved_url": "https://mitchell-productions.com/wp-content/uploads/2016/03/XBM-ColorMeaningChart-big2.jpg",
+      "path": "49572f4f643ca094b7f51a53bce8060fc0616c69e13e2e53ca5419bc622ad224.jpg",
+      "sha256": "49572f4f643ca094b7f51a53bce8060fc0616c69e13e2e53ca5419bc622ad224",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:05.873633+00:00",
+      "pages": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "http://publishtothrive.com/wp-content/uploads/2018/10/Avoid-Writers-Block-Crunchedyllw.png",
+      "retrieved_url": "https://publishtothrive.com/wp-content/uploads/2018/10/Avoid-Writers-Block-Crunchedyllw.png",
+      "path": "45b4c2a26816407f31391772c58660685dc078126526ce48fe8ddc6f70d2273a.png",
+      "sha256": "45b4c2a26816407f31391772c58660685dc078126526ce48fe8ddc6f70d2273a",
+      "content_type": "image/png",
+      "retrieved_at": "2026-10-30T03:08:06.951744+00:00",
+      "pages": [
+        "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+        "index.html?p=612.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "http://publishtothrive.com/wp-content/uploads/2018/10/Writers-Block-Still-Got-You-Stuck.png",
+      "retrieved_url": "https://publishtothrive.com/wp-content/uploads/2018/10/Writers-Block-Still-Got-You-Stuck.png",
+      "path": "0ce310d28bcf0080aeeca4c09ac4eda34f54e2f3b8108e86b4ffc71a2e1a4918.png",
+      "sha256": "0ce310d28bcf0080aeeca4c09ac4eda34f54e2f3b8108e86b4ffc71a2e1a4918",
+      "content_type": "image/png",
+      "retrieved_at": "2026-10-30T03:08:07.922826+00:00",
+      "pages": [
+        "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+        "index.html?p=612.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "http://theagilewriter.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-08-at-2.34.47-AM.png",
+      "retrieved_url": "https://theagilewriter.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-08-at-2.34.47-AM.png",
+      "path": "79b3989704298dfd6ede867d32937ea1d968b63725cba5ddee9df541d2d300d6.png",
+      "sha256": "79b3989704298dfd6ede867d32937ea1d968b63725cba5ddee9df541d2d300d6",
+      "content_type": "image/png",
+      "retrieved_at": "2026-10-30T03:08:10.514834+00:00",
+      "pages": [
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2012/01/greg-circle-300x300.png",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2012/01/greg-circle-300x300.png",
+      "path": "cb6759a7ad361c6600bd47c40322102b81d79e3067475b1c94f9ad32403180e3.png",
+      "sha256": "cb6759a7ad361c6600bd47c40322102b81d79e3067475b1c94f9ad32403180e3",
+      "content_type": "image/png",
+      "retrieved_at": "2026-10-30T03:08:11.226910+00:00",
+      "pages": [
+        "2016/09/14/agile-writers-spotlight/index.html",
+        "index.html?p=245.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2015/04/5174.jpg?w=300",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2015/04/5174.jpg?w=300",
+      "path": "6fda49f08f9b52e57cd882ee7bdf340b7702cb63410e648e81608808c67f6289.jpg",
+      "sha256": "6fda49f08f9b52e57cd882ee7bdf340b7702cb63410e648e81608808c67f6289",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:11.865086+00:00",
+      "pages": [
+        "2015/05/19/taking-notes-on-life/index.html",
+        "index.html?p=94.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2015/04/pen-name-tag.jpg?w=300",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2015/04/pen-name-tag.jpg?w=300",
+      "path": "9072c3375ccaa7be04bb9e4c49a727c6d3bb411cd13bf900ddbea5624aa0705b.jpg",
+      "sha256": "9072c3375ccaa7be04bb9e4c49a727c6d3bb411cd13bf900ddbea5624aa0705b",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:12.505615+00:00",
+      "pages": [
+        "2015/04/30/whats-in-a-pen-name/index.html",
+        "index.html?p=92.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2015/06/audience.jpg?w=300",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2015/06/audience.jpg?w=300",
+      "path": "8efc406487cd83f46c141ba5b29fba73f78857aa37f3372e03c12e50064e0ea3.jpg",
+      "sha256": "8efc406487cd83f46c141ba5b29fba73f78857aa37f3372e03c12e50064e0ea3",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:13.268977+00:00",
+      "pages": [
+        "2015/07/01/an-audience-of-one/index.html",
+        "index.html?p=141.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2015/08/brand-storyteller.png?w=300",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2015/08/brand-storyteller.png?w=300",
+      "path": "f63cb9efa693b523c4c31da0635d6630f28ceaae860fd019067a2cbf34adbac1.png",
+      "sha256": "f63cb9efa693b523c4c31da0635d6630f28ceaae860fd019067a2cbf34adbac1",
+      "content_type": "image/png",
+      "retrieved_at": "2026-10-30T03:08:13.953606+00:00",
+      "pages": [
+        "2015/09/07/what-does-it-mean-to-be-a-storyteller/index.html",
+        "index.html?p=167.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2015/10/free-clipart-gavel-judge-gavel-pictures-clipart-best-pictures.gif?w=300",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2015/10/free-clipart-gavel-judge-gavel-pictures-clipart-best-pictures.gif?w=300",
+      "path": "3babdb6ee7e43f4dda0abe3502665e7b8a173ce52064887ef8a5ebda0ce2b278.gif",
+      "sha256": "3babdb6ee7e43f4dda0abe3502665e7b8a173ce52064887ef8a5ebda0ce2b278",
+      "content_type": "image/gif",
+      "retrieved_at": "2026-10-30T03:08:14.603642+00:00",
+      "pages": [
+        "2015/10/21/we-are-not-the-best-judge-of-our-own-work/index.html",
+        "index.html?p=182.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2015/11/dt9x9e89c.jpg?w=300",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2015/11/dt9x9e89c.jpg?w=300",
+      "path": "77969ff2ab2d3ebe2ddc886b0c46a1422eb76780067cd1c86dda957b5002fcf5.jpg",
+      "sha256": "77969ff2ab2d3ebe2ddc886b0c46a1422eb76780067cd1c86dda957b5002fcf5",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:15.308825+00:00",
+      "pages": [
+        "2016/03/03/plumbing-the-depths-of-your-own-life/index.html",
+        "index.html?p=187.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2016/10/jim.jpg",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2016/10/jim.jpg",
+      "path": "2405052e1378d5ec1c23d7fed8a202a7ccd92b1d2066140ad58e4cf4fce4bca3.jpg",
+      "sha256": "2405052e1378d5ec1c23d7fed8a202a7ccd92b1d2066140ad58e4cf4fce4bca3",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:15.955859+00:00",
+      "pages": [
+        "2016/10/05/first-draft-finishers/index.html",
+        "index.html?p=261.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2016/10/research-clip-art.jpg",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2016/10/research-clip-art.jpg",
+      "path": "bb863f0b940063d4fa3ebf817f01eeca2a7e65f049835197228f0ff05a325ad0.jpg",
+      "sha256": "bb863f0b940063d4fa3ebf817f01eeca2a7e65f049835197228f0ff05a325ad0",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:16.585389+00:00",
+      "pages": [
+        "2016/10/20/query-tips-from-an-agent/index.html",
+        "index.html?p=274.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2016/10/sell-clip-art.jpg",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2016/10/sell-clip-art.jpg",
+      "path": "5a1d72bb8b00e2c88f2ef3d0704e4378bcd0b99be590a3e0f1046cb325a40900.jpg",
+      "sha256": "5a1d72bb8b00e2c88f2ef3d0704e4378bcd0b99be590a3e0f1046cb325a40900",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:17.258844+00:00",
+      "pages": [
+        "2016/10/20/query-tips-from-an-agent/index.html",
+        "index.html?p=274.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2018/09/go-set-a-watchman_harper-lee-199x300.jpg",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2018/09/go-set-a-watchman_harper-lee-199x300.jpg",
+      "path": "f845cc4cf35856bb72645c60ae73d572a6d18da910177527cfffe95c2d1a47aa.jpg",
+      "sha256": "f845cc4cf35856bb72645c60ae73d572a6d18da910177527cfffe95c2d1a47aa",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:17.917944+00:00",
+      "pages": [
+        "2018/09/16/used-bookstores-are-swimming-in-these/index.html",
+        "index.html?p=603.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2019/01/golden_globe_trophy.jpg",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2019/01/golden_globe_trophy.jpg",
+      "path": "b17f0572d4711a98df24db657a91fddf46bcf8bd5dd8366c3aaf63a7d67ef747.jpg",
+      "sha256": "b17f0572d4711a98df24db657a91fddf46bcf8bd5dd8366c3aaf63a7d67ef747",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:18.660023+00:00",
+      "pages": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://agilewriter.files.wordpress.com/2020/11/pawel-furman-jo21h-4lyfu-unsplash.jpg?w=1024",
+      "retrieved_url": "https://agilewriter.wordpress.com/wp-content/uploads/2020/11/pawel-furman-jo21h-4lyfu-unsplash.jpg?w=1024",
+      "path": "3e6cb3f9b55d97080f7714c90e2a7d34b0029cf0ed5b4d5359d321c36b0bcd6d.jpg",
+      "sha256": "3e6cb3f9b55d97080f7714c90e2a7d34b0029cf0ed5b4d5359d321c36b0bcd6d",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:20.139362+00:00",
+      "pages": [
+        "2020/11/23/the-kings-english-in-america/index.html",
+        "index.html?p=769.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://teanstrumpets.files.wordpress.com/2014/03/brain1.jpg?w=300&h=285",
+      "retrieved_url": "https://teanstrumpets.wordpress.com/wp-content/uploads/2014/03/brain1.jpg?w=300&h=285",
+      "path": "2a18041e820a3808a58a4d8366198fac1ccf2a51addc37f94a3ac694619639f5.jpg",
+      "sha256": "2a18041e820a3808a58a4d8366198fac1ccf2a51addc37f94a3ac694619639f5",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:21.137739+00:00",
+      "pages": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ],
+      "rights": "final permission/license pending"
+    },
+    {
+      "source": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/056/56441-v2-197x.JPG",
+      "retrieved_url": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/056/56441-v2-197x.JPG",
+      "path": "e302bcdcb50533af0f66c855ae46b98c0d8e2aa66de0238c5b1943caead0a47b.jpg",
+      "sha256": "e302bcdcb50533af0f66c855ae46b98c0d8e2aa66de0238c5b1943caead0a47b",
+      "content_type": "image/jpeg",
+      "retrieved_at": "2026-10-30T03:08:21.860791+00:00",
+      "pages": [
+        "2018/08/25/walmart-fights-kindle-with-kobo/index.html",
+        "index.html?p=589.html"
+      ],
+      "rights": "final permission/license pending"
+    }
+  ],
+  "failures": [
+    {
+      "source": "http://greg-smith.com/wp-content/uploads/2014/12/Night_at_the_Museum_Secret_of_the_Tomb_poster-202x300.jpg",
+      "pages": [
+        "2014/12/20/storyboard-night-at-the-museum-3/index.html",
+        "index.html?p=75.html"
+      ],
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source": "http://rogerpacker.com/wp-content/uploads/dawsonmark1-300x299.jpg",
+      "pages": [
+        "2018/07/08/hollywood-comes-calling-for-self-published-authors/index.html",
+        "index.html?p=543.html"
+      ],
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

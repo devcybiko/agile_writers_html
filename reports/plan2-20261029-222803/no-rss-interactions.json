@@ -1,0 +1,42 @@
+{
+  "mobileBefore": "none",
+  "mobileAfter": "block",
+  "categories": [
+    {
+      "slug": "fantasy",
+      "selected": "category/fantasy/index.html",
+      "url": "http://127.0.0.1:8020/category/fantasy/index.html",
+      "passed": true
+    },
+    {
+      "slug": "guest-post",
+      "selected": "category/guest-post/index.html",
+      "url": "http://127.0.0.1:8020/category/guest-post/index.html",
+      "passed": true
+    },
+    {
+      "slug": "memoir",
+      "selected": "category/memoir/index.html",
+      "url": "http://127.0.0.1:8020/category/memoir/index.html",
+      "passed": true
+    },
+    {
+      "slug": "mini-series",
+      "selected": "category/mini-series/index.html",
+      "url": "http://127.0.0.1:8020/category/mini-series/index.html",
+      "passed": true
+    },
+    {
+      "slug": "science-fiction",
+      "selected": "category/science-fiction/index.html",
+      "url": "http://127.0.0.1:8020/category/science-fiction/index.html",
+      "passed": true
+    },
+    {
+      "slug": "speaking",
+      "selected": "category/speaking/index.html",
+      "url": "http://127.0.0.1:8020/category/speaking/index.html",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,3836 @@
+{
+  "offline": true,
+  "home": {
+    "title": "The Agile Writer – Greg Smith: Novelist and Coach",
+    "carousel": true,
+    "slides": 6,
+    "imagesBroken": [],
+    "before": "0",
+    "after": "1",
+    "arrowFont": "\"Font Awesome 5 Free\"",
+    "heroBackground": "url(\"http://127.0.0.1:8014/wp-content/themes/bizberg/assets/images/breadcrum.jpg\")",
+    "afterPrevious": "0",
+    "articleLink": null
+  },
+  "article": {
+    "title": "Guest Post: The importance of colors to your BRAND – The Agile Writer",
+    "imagesBroken": [
+      "http://mitchell-productions.com/wp-content/uploads/2016/03/XBM-ColorMeaningChart-big2.jpg"
+    ]
+  },
+  "mobile": {
+    "width": 390,
+    "documentWidth": 390,
+    "menu": true,
+    "carousel": true,
+    "menuBefore": null,
+    "menuAfter": null
+  },
+  "pages": [
+    {
+      "path": "/category/structure/",
+      "title": "Structure – The Agile Writer",
+      "imagesBroken": [],
+      "search": 0,
+      "forms": 0
+    },
+    {
+      "path": "/page/2/",
+      "title": "The Agile Writer – Page 2 – Greg Smith: Novelist and Coach",
+      "imagesBroken": [],
+      "search": 0,
+      "forms": 0
+    },
+    {
+      "path": "/about/",
+      "title": "About Greg – The Agile Writer",
+      "imagesBroken": [],
+      "search": 0,
+      "forms": 0
+    }
+  ],
+  "failures": [
+    {
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector",
+      "requestId": "83345.173"
+    }
+  ],
+  "external": [
+    "http://mitchell-productions.com/wp-content/uploads/2016/03/XBM-ColorMeaningChart-big2.jpg"
+  ],
+  "errors": [],
+  "requests": [
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 21,
+        "columnNumber": 141
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 22,
+        "columnNumber": 148
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 23,
+        "columnNumber": 141
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 24,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 25,
+        "columnNumber": 125
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 26,
+        "columnNumber": 135
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 27,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 28,
+        "columnNumber": 137
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 29,
+        "columnNumber": 122
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 30,
+        "columnNumber": 119
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 32,
+        "columnNumber": 101
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 33,
+        "columnNumber": 85
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 34,
+        "columnNumber": 96
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 35,
+        "columnNumber": 89
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 36,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 69,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/01/pexels-photo-2679814-1-683x1024.jpeg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 126,
+        "columnNumber": 132
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2016/09/spotlight.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 149,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/images/placeholder.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 172,
+        "columnNumber": 124
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2014/08/greg-circle-300x300-1.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 195,
+        "columnNumber": 121
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2015/05/ddp_logo.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 241,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 94
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1121,
+        "columnNumber": 92
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1126,
+        "columnNumber": 85
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1127,
+        "columnNumber": 75
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1128,
+        "columnNumber": 86
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1129,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1130,
+        "columnNumber": 99
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1131,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1132,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1133,
+        "columnNumber": 88
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1134,
+        "columnNumber": 94
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1135,
+        "columnNumber": 116
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1137,
+        "columnNumber": 96
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/images/breadcrum.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2023/04/Daisy_Jones_and_the_Six_poster.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2022/07/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpeg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2022/05/Screen-Shot-2022-05-15-at-3.13.31-PM.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/HUC2-018995_R-768x512.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/Shadow_in_the_Cloud.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2020/11/pawel-furman-jo21h-4lyfu-unsplash-scaled.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/The_Queens_Gambit_miniseries.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2020/09/screen-shot-2020-09-20-at-10.33.35-am-768x431.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/First-Frontier-Cover2-600x400-1.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/Screen-Shot-2021-02-02-at-11.53.32-PM.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/assets/vendor/lato/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/assets/vendor/lato/lato.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-regular-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/rochester/6ae-4KCqVa4Zy6Fif-UC2FHRFzAgoA.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/cropped-logo_AW-bluesteel-1-32x32.png",
+      "type": "Other",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 20,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 21,
+        "columnNumber": 160
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 22,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 23,
+        "columnNumber": 159
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 24,
+        "columnNumber": 137
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 25,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 26,
+        "columnNumber": 140
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 27,
+        "columnNumber": 149
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 28,
+        "columnNumber": 134
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 29,
+        "columnNumber": 131
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 70,
+        "columnNumber": 113
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 71,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 72,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 73,
+        "columnNumber": 101
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 74,
+        "columnNumber": 120
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 109,
+        "columnNumber": 110
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.37.10-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 152,
+        "columnNumber": 625
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.37.10-pm-300x293.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 166,
+        "columnNumber": 579
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://mitchell-productions.com/wp-content/uploads/2016/03/XBM-ColorMeaningChart-big2.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 186,
+        "columnNumber": 324
+      },
+      "status": null,
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 395,
+        "columnNumber": 106
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 396,
+        "columnNumber": 104
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 401,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 402,
+        "columnNumber": 87
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 403,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 404,
+        "columnNumber": 120
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 405,
+        "columnNumber": 111
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 406,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 407,
+        "columnNumber": 121
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 408,
+        "columnNumber": 100
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 409,
+        "columnNumber": 106
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 410,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 412,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 395,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 395,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 395,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 395,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+        "lineNumber": 395,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/2019/01/17/guest-post-the-importance-of-colors-to-your-brand/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 21,
+        "columnNumber": 141
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 22,
+        "columnNumber": 148
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 23,
+        "columnNumber": 141
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 24,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 25,
+        "columnNumber": 125
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 26,
+        "columnNumber": 135
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 27,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 28,
+        "columnNumber": 137
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 29,
+        "columnNumber": 122
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 30,
+        "columnNumber": 119
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 32,
+        "columnNumber": 101
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 33,
+        "columnNumber": 85
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 34,
+        "columnNumber": 96
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 35,
+        "columnNumber": 89
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 36,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 69,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/01/pexels-photo-2679814-1-683x1024.jpeg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 126,
+        "columnNumber": 132
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2016/09/spotlight.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 149,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/images/placeholder.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 172,
+        "columnNumber": 124
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2014/08/greg-circle-300x300-1.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 195,
+        "columnNumber": 121
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2015/05/ddp_logo.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 241,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 94
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1121,
+        "columnNumber": 92
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1126,
+        "columnNumber": 85
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1127,
+        "columnNumber": 75
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1128,
+        "columnNumber": 86
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1129,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1130,
+        "columnNumber": 99
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1131,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1132,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1133,
+        "columnNumber": 88
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1134,
+        "columnNumber": 94
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1135,
+        "columnNumber": 116
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1137,
+        "columnNumber": 96
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/images/breadcrum.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2023/04/Daisy_Jones_and_the_Six_poster.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2022/07/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpeg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2022/05/Screen-Shot-2022-05-15-at-3.13.31-PM.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/HUC2-018995_R-768x512.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/Shadow_in_the_Cloud.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2020/11/pawel-furman-jo21h-4lyfu-unsplash-scaled.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/The_Queens_Gambit_miniseries.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2020/09/screen-shot-2020-09-20-at-10.33.35-am-768x431.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/First-Frontier-Cover2-600x400-1.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/Screen-Shot-2021-02-02-at-11.53.32-PM.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/assets/vendor/lato/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/assets/vendor/lato/lato.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-regular-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/",
+        "lineNumber": 1120,
+        "columnNumber": 103
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/rochester/6ae-4KCqVa4Zy6Fif-UC2FHRFzAgoA.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/category/structure/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 22,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 23,
+        "columnNumber": 154
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 24,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 25,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 26,
+        "columnNumber": 131
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 27,
+        "columnNumber": 141
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 28,
+        "columnNumber": 134
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 29,
+        "columnNumber": 143
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 30,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 31,
+        "columnNumber": 125
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 33,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 34,
+        "columnNumber": 91
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 35,
+        "columnNumber": 102
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 36,
+        "columnNumber": 95
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 37,
+        "columnNumber": 114
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 70,
+        "columnNumber": 104
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 937,
+        "columnNumber": 100
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 943,
+        "columnNumber": 91
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 944,
+        "columnNumber": 81
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 945,
+        "columnNumber": 92
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 946,
+        "columnNumber": 114
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 947,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 948,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 949,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 950,
+        "columnNumber": 94
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 951,
+        "columnNumber": 100
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 952,
+        "columnNumber": 122
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 954,
+        "columnNumber": 102
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2023/04/Daisy_Jones_and_the_Six_poster.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/HUC2-018995_R-768x512.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/NottingHillRobertsGrant.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2014/08/greg-circle-300x300-1.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2017/08/225x225bb.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2017/05/176451-004-0848859c.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2017/05/starwarsmovieposter1977.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2017/04/a_dogs_purpose_film.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/01/pexels-photo-2132126-768x1151.jpeg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2016/02/06-the-white-room-6.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-regular-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/category/structure/",
+        "lineNumber": 938,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/category/structure/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/page/2/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 18,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 19,
+        "columnNumber": 154
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 20,
+        "columnNumber": 147
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 21,
+        "columnNumber": 153
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 22,
+        "columnNumber": 131
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 23,
+        "columnNumber": 141
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 24,
+        "columnNumber": 134
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 25,
+        "columnNumber": 143
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 26,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 27,
+        "columnNumber": 125
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 66,
+        "columnNumber": 107
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 67,
+        "columnNumber": 91
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 68,
+        "columnNumber": 102
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 69,
+        "columnNumber": 95
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 70,
+        "columnNumber": 114
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 370,
+        "columnNumber": 104
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/01/pexels-photo-2679814-1-683x1024.jpeg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 427,
+        "columnNumber": 138
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2015/12/pause.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 450,
+        "columnNumber": 111
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/images/placeholder.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 473,
+        "columnNumber": 130
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/First-Frontier-Cover2-600x400-1.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 496,
+        "columnNumber": 137
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 100
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1424,
+        "columnNumber": 98
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1429,
+        "columnNumber": 91
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1430,
+        "columnNumber": 81
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1431,
+        "columnNumber": 92
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1432,
+        "columnNumber": 114
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1433,
+        "columnNumber": 105
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1434,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1435,
+        "columnNumber": 115
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1436,
+        "columnNumber": 94
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1437,
+        "columnNumber": 100
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1438,
+        "columnNumber": 122
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1440,
+        "columnNumber": 102
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/images/breadcrum.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2020/04/experimenter_poster.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2019/11/image.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2019/09/65133-v1-245x.jpeg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2019/07/dg_0006-no-bad-dogs4-768x768.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/cropped-cropped-cropped-logo_AW-1.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2019/04/picture1.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2019/03/Screen-Shot-2021-02-02-at-11.58.50-PM.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2019/01/academy_award_trophy.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.43.56-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.37.10-pm.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/assets/vendor/lato/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/assets/vendor/lato/lato.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-regular-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/page/2/",
+        "lineNumber": 1423,
+        "columnNumber": 109
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/rochester/6ae-4KCqVa4Zy6Fif-UC2FHRFzAgoA.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/page/2/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/about/",
+      "type": "Document",
+      "initiator": {
+        "type": "other"
+      },
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=6.1.7.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 20,
+        "columnNumber": 144
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/plugins/survey-maker/public/css/survey-maker-public.css%3Fver=7.0.9.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 21,
+        "columnNumber": 151
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 22,
+        "columnNumber": 144
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 23,
+        "columnNumber": 150
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 24,
+        "columnNumber": 128
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/component.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 25,
+        "columnNumber": 138
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/style.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 26,
+        "columnNumber": 131
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/responsive.css%3Fver=1.0.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 27,
+        "columnNumber": 140
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 28,
+        "columnNumber": 125
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/style.css%3Fver=7.1.4.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 29,
+        "columnNumber": 122
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/assets/vendor/lato/lato.css",
+      "type": "Stylesheet",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 70,
+        "columnNumber": 104
+      },
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 71,
+        "columnNumber": 88
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 72,
+        "columnNumber": 99
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/omg-blog/script.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 73,
+        "columnNumber": 92
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 74,
+        "columnNumber": 111
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/logo_AW-bluesteel.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 109,
+        "columnNumber": 101
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2021/02/web_9425.jpg",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 154,
+        "columnNumber": 355
+      },
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/uploads/2014/08/greg-circle-300x300-1-150x150.png",
+      "type": "Image",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 158,
+        "columnNumber": 531
+      },
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/hooks.min.js%3Fver=f0f188028580e8dc1255.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 348,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/dist/i18n.min.js%3Fver=1dfe7db3940c23ea9216.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 349,
+        "columnNumber": 95
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/imagesloaded.min.js%3Fver=5.0.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 354,
+        "columnNumber": 88
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-includes/js/masonry.min.js%3Fver=4.2.2.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 355,
+        "columnNumber": 78
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/slick.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 356,
+        "columnNumber": 89
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.mousewheel.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 357,
+        "columnNumber": 111
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.inview.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 358,
+        "columnNumber": 102
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.slicknav.min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 359,
+        "columnNumber": 106
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/jquery.matchHeight-min.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 360,
+        "columnNumber": 112
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/swiper.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 361,
+        "columnNumber": 91
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/prognroll.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 362,
+        "columnNumber": 97
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/theia-sticky-sidebar.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 363,
+        "columnNumber": 119
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/js/custom.js%3Fver=1.0.js",
+      "type": "Script",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 365,
+        "columnNumber": 99
+      },
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 365,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/css/main.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RlV9Su1fah.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 365,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aXx-p7K4GLs.woff",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/about/",
+        "lineNumber": 365,
+        "columnNumber": 108
+      },
+      "status": 200,
+      "mimeType": "font/woff"
+    },
+    {
+      "page": "http://127.0.0.1:8014/about/",
+      "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "type": "Font",
+      "initiator": {
+        "type": "parser",
+        "url": "http://127.0.0.1:8014/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css%3Fver=1.0.css"
+      },
+      "status": 200,
+      "mimeType": "font/woff2"
+    }
+  ]
+}

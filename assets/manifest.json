@@ -1,0 +1,154 @@
+{
+  "assets": [
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap",
+      "path": "vendor/lato/lato.css",
+      "expected_types": [
+        "text/css"
+      ],
+      "approved": true,
+      "purpose": "Lato stylesheet used by captured site",
+      "license": "Google Fonts CSS; links to SIL OFL Lato font files",
+      "content_type": "text/css",
+      "sha256": "dbbe2b6e7bc10c5cdaae09b05981cecd3a96ec4945330fea64a4a3d371b2a4b7",
+      "retrieved_at": "2026-10-30T02:10:56.969884+00:00"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/OFL.txt",
+      "path": "vendor/lato/OFL.txt",
+      "expected_types": [
+        "text/plain"
+      ],
+      "approved": true,
+      "purpose": "Lato copyright and license notice",
+      "license": "SIL Open Font License 1.1",
+      "content_type": "text/plain",
+      "sha256": "74ba064d03f1f1c4a952da936c3eb71866c34404916734de3cae73b34357e59e",
+      "retrieved_at": "2026-10-30T02:10:57.030978+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh7USSwaPGQ3q5d0N7w.woff2",
+      "path": "vendor/lato/S6u9w4BMUTPHh7USSwaPGQ3q5d0N7w.woff2",
+      "expected_types": [
+        "font/woff2",
+        "application/font-woff2"
+      ],
+      "approved": true,
+      "purpose": "Lato 300 latin-ext",
+      "license": "SIL Open Font License 1.1",
+      "content_type": "font/woff2",
+      "sha256": "f74c0a0ebbe359255553a5445ccf2a75973d9c70807452ca12820b7bcfc9bbb9",
+      "retrieved_at": "2026-10-30T02:10:57.079388+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2",
+      "path": "vendor/lato/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2",
+      "expected_types": [
+        "font/woff2",
+        "application/font-woff2"
+      ],
+      "approved": true,
+      "purpose": "Lato 300 latin",
+      "license": "SIL Open Font License 1.1",
+      "content_type": "font/woff2",
+      "sha256": "7bb29c58eadc0f0c7b704f5fce2490d10cb62efa55797a09c9b8f91b3b54cb34",
+      "retrieved_at": "2026-10-30T02:10:57.115181+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2",
+      "path": "vendor/lato/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2",
+      "expected_types": [
+        "font/woff2",
+        "application/font-woff2"
+      ],
+      "approved": true,
+      "purpose": "Lato 400 latin-ext",
+      "license": "SIL Open Font License 1.1",
+      "content_type": "font/woff2",
+      "sha256": "b85c84c655bcbba3bd628b2c1fea0fbdb5b158a9022281a2f910e82fd6da5098",
+      "retrieved_at": "2026-10-30T02:10:57.148759+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
+      "path": "vendor/lato/S6uyw4BMUTPHjx4wXiWtFCc.woff2",
+      "expected_types": [
+        "font/woff2",
+        "application/font-woff2"
+      ],
+      "approved": true,
+      "purpose": "Lato 400 latin",
+      "license": "SIL Open Font License 1.1",
+      "content_type": "font/woff2",
+      "sha256": "d4ae5188a65370ecfe28f42293bbee8297cfd5712c6aadfdb270d48f2bcd88b0",
+      "retrieved_at": "2026-10-30T02:10:57.187022+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2",
+      "path": "vendor/lato/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2",
+      "expected_types": [
+        "font/woff2",
+        "application/font-woff2"
+      ],
+      "approved": true,
+      "purpose": "Lato 700 latin-ext",
+      "license": "SIL Open Font License 1.1",
+      "content_type": "font/woff2",
+      "sha256": "78e850d569834892d3f4bdfd2084c7a7c0dc64ae4226f3231af30dae706400e2",
+      "retrieved_at": "2026-10-30T02:10:57.221719+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+      "path": "vendor/lato/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2",
+      "expected_types": [
+        "font/woff2",
+        "application/font-woff2"
+      ],
+      "approved": true,
+      "purpose": "Lato 700 latin",
+      "license": "SIL Open Font License 1.1",
+      "content_type": "font/woff2",
+      "sha256": "7a7ce1a34f3e9944fe88fc61abbc93b6db383afa2b90815fd7ccea456fbce4e5",
+      "retrieved_at": "2026-10-30T02:10:57.261819+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh50XSwaPGQ3q5d0N7w.woff2",
+      "path": "vendor/lato/S6u9w4BMUTPHh50XSwaPGQ3q5d0N7w.woff2",
+      "expected_types": [
+        "font/woff2",
+        "application/font-woff2"
+      ],
+      "approved": true,
+      "purpose": "Lato 900 latin-ext",
+      "license": "SIL Open Font License 1.1",
+      "content_type": "font/woff2",
+      "sha256": "5aaafef33d89a4e866f1837d27e8cf465479efd9ef2ef53ac9bedd7c8103dc03",
+      "retrieved_at": "2026-10-30T02:10:57.297804+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh50XSwiPGQ3q5d0.woff2",
+      "path": "vendor/lato/S6u9w4BMUTPHh50XSwiPGQ3q5d0.woff2",
+      "expected_types": [
+        "font/woff2",
+        "application/font-woff2"
+      ],
+      "approved": true,
+      "purpose": "Lato 900 latin",
+      "license": "SIL Open Font License 1.1",
+      "content_type": "font/woff2",
+      "sha256": "bd9a6192274f8f2f3ce31cd3d2cae5ebe32e2fa86fc7c4f60a3c28556e496d56",
+      "retrieved_at": "2026-10-30T02:10:57.337684+00:00"
+    }
+  ],
+  "pending_review": [
+    {
+      "url": "https://mitchell-productions.com/wp-content/uploads/2016/03/XBM-ColorMeaningChart-big2.jpg",
+      "purpose": "Guest article image",
+      "reason": "Third-party copyright and redistribution permission not established"
+    },
+    {
+      "url": "https://agilewriters.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "purpose": "WordPress emoji loader",
+      "reason": "Plan step 3 will test removal or local replacement"
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "matched": {
+    "http://theagilewriter.com/wp-content/uploads/2014/08/greg-circle-300x300-1-150x150.png": {
+      "path": "wp-content/uploads/2014/08/greg-circle-300x300-1-150x150.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "about/index.html",
+        "index.html?p=14.html",
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ]
+    },
+    "http://theagilewriter.com/wp-content/uploads/2014/08/h-logo-big-300x226.png": {
+      "path": "wp-content/uploads/2014/08/h-logo-big-300x226.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ]
+    },
+    "http://theagilewriter.com/wp-content/uploads/2021/02/LogoBlueGold-150x150.png": {
+      "path": "wp-content/uploads/2021/02/LogoBlueGold-150x150.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "index.html?p=31.html",
+        "related-sites/index.html"
+      ]
+    },
+    "http://theagilewriter.com/wp-content/uploads/2021/02/agilewritermethod-28-1.png": {
+      "path": "wp-content/uploads/2021/02/agilewritermethod-28-1.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "agile-writer-method-book/index.html",
+        "index.html?p=17.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2014/08/agilewritermethod.png?w=130": {
+      "path": "wp-content/uploads/2014/08/agilewritermethod.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2015/10/13/you-bring-the-passion/index.html",
+        "index.html?p=178.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2014/11/barrymanilow.jpg?w=199": {
+      "path": "wp-content/uploads/2014/11/barrymanilow-199x300.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2014/11/03/the-heros-journey-in-a-song/index.html",
+        "index.html?p=65.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2015/05/literary-vs-genre1.jpg?w=300": {
+      "path": "wp-content/uploads/2015/05/literary-vs-genre1-300x111.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2015/05/27/genre-fiction-vs-literary-fiction-do-i-have-to-choose/index.html",
+        "index.html?p=105.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2015/06/magnifier-keyboard-25318648.jpg?w=300": {
+      "path": "wp-content/uploads/2015/06/magnifier-keyboard-25318648-300x200.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2015/06/24/writing-to-discover-what-we-know/index.html",
+        "index.html?p=134.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2015/06/writers-block-01.jpg": {
+      "path": "wp-content/uploads/2015/06/writers-block-01.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2015/06/15/writers-block/index.html",
+        "index.html?p=132.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2015/08/large_read_like_a_writer.png?w=300": {
+      "path": "wp-content/uploads/2015/08/large_read_like_a_writer-300x245.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2015/08/19/learning-to-read-like-a-writer/index.html",
+        "index.html?p=159.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2015/09/freegreatpicture-com-26108-holding-blank-card.jpg?w=183": {
+      "path": "wp-content/uploads/2015/09/freegreatpicture-com-26108-holding-blank-card-183x300.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2015/09/23/holding-the-whole-thing/index.html",
+        "index.html?p=172.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2015/12/pause.jpg?w=300": {
+      "path": "wp-content/uploads/2015/12/pause-300x259.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2015/12/23/the-peril-of-the-pause/index.html",
+        "index.html?p=198.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2016/01/merging-lanes-ahead.jpg?w=247": {
+      "path": "wp-content/uploads/2016/01/merging-lanes-ahead-247x300.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2016/01/25/the-split-climax/index.html",
+        "index.html?p=204.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2016/02/06-the-white-room-6.jpg?w=300": {
+      "path": "wp-content/uploads/2016/02/06-the-white-room-6-300x183.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2016/02/10/leaving-space-for-the-reader/index.html",
+        "index.html?p=207.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2016/03/timetowrite1.jpg?w=255": {
+      "path": "wp-content/uploads/2016/03/timetowrite1-255x300.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2016/03/16/time-to-write/index.html",
+        "index.html?p=215.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2016/04/aw-logo-bw.png": {
+      "path": "wp-content/uploads/2016/04/aw-logo-bw.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2016/04/08/announcing-the-launch-of-agile-rewriters/index.html",
+        "index.html?p=220.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2016/08/untitled-design11.jpg": {
+      "path": "wp-content/uploads/2016/08/untitled-design11.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2016/08/05/not-just-hump-day/index.html",
+        "index.html?p=229.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2016/10/cat.jpg?w=279": {
+      "path": "wp-content/uploads/2016/10/cat-279x300.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2016/10/05/first-draft-finishers/index.html",
+        "index.html?p=261.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2016/10/christine.jpg?w=300": {
+      "path": "wp-content/uploads/2016/10/christine-300x300.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2016/10/05/first-draft-finishers/index.html",
+        "index.html?p=261.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2017/03/images.jpeg": {
+      "path": "wp-content/uploads/2017/03/images.jpeg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2017/03/26/avatars-know-your-audience/index.html",
+        "index.html?p=315.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2017/04/a_dogs_purpose_film.jpg?w=190": {
+      "path": "wp-content/uploads/2017/04/a_dogs_purpose_film-190x300.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2017/04/22/non-standard-plots-a-dogs-purpose/index.html",
+        "index.html?p=383.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2017/05/176451-004-0848859c.jpg": {
+      "path": "wp-content/uploads/2017/05/176451-004-0848859c.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2017/05/29/the-idiot-in-the-room/index.html",
+        "index.html?p=442.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2017/05/starwarsmovieposter1977.jpg": {
+      "path": "wp-content/uploads/2017/05/starwarsmovieposter1977.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2017/05/20/the-problem-with-star-wars/index.html",
+        "index.html?p=389.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2017/06/fail-fast-and-carry-on.png?w=300": {
+      "path": "wp-content/uploads/2017/06/fail-fast-and-carry-on-300x188.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2017/06/24/fail-fast/index.html",
+        "index.html?p=465.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2017/07/61sulmtgnl.jpg?w=200": {
+      "path": "wp-content/uploads/2017/07/61sulmtgnl-200x300.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2017/07/02/agile-writer-keith-van-allen-releases-new-novel/index.html",
+        "index.html?p=474.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2017/07/img_0001.jpg?w=200": {
+      "path": "wp-content/uploads/2017/07/img_0001-200x300.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2017/07/10/agile-writer-featured-on-local-show/index.html",
+        "index.html?p=479.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2017/08/1500571188789.jpeg?w=300": {
+      "path": "wp-content/uploads/2017/08/1500571188789-300x300.jpeg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2017/08/26/greg-smith-featured-on-the-heros-forge-podcast/index.html",
+        "index.html?p=498.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2017/08/images-2.jpeg?w=167": {
+      "path": "wp-content/uploads/2017/08/images-2-167x300.jpeg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2017/08/25/the-bar-is-set-low-very-low/index.html",
+        "index.html?p=486.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2017/08/images-3.jpeg?w=200": {
+      "path": "wp-content/uploads/2017/08/images-3-200x300.jpeg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2017/08/25/the-bar-is-set-low-very-low/index.html",
+        "index.html?p=486.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2018/06/34908807_10156002254400379_1342226981361549312_o.jpg": {
+      "path": "wp-content/uploads/2018/06/34908807_10156002254400379_1342226981361549312_o.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2018/06/13/publishing/index.html",
+        "index.html?p=506.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2018/06/55230-1.jpg?w=300": {
+      "path": "wp-content/uploads/2018/06/55230-1-300x152.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2018/06/21/bn-losing-in-2018q2/index.html",
+        "index.html?p=511.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2018/07/dghtgkwxkam1id1.jpg": {
+      "path": "wp-content/uploads/2018/07/dghtgkwxkam1id1.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2018/07/27/a-12-year-old-boy-who-cant-speak-wrote-a-book-with-his-eyes/index.html",
+        "index.html?p=573.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2018/09/hunters-1st.jpg": {
+      "path": "wp-content/uploads/2018/09/hunters-1st.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2018/09/10/agile-writer-jackie-hunter-in-boomer-magazine/index.html",
+        "index.html?p=597.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2018/09/screen-shot-2018-09-05-at-7-26-56-pm.png": {
+      "path": "wp-content/uploads/2018/09/screen-shot-2018-09-05-at-7-26-56-pm.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2018/09/05/agile-writer-starts-alopecia-blog-vlog/index.html",
+        "index.html?p=595.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2018/10/screen-shot-2018-10-08-at-9-53-22-pm.png": {
+      "path": "wp-content/uploads/2018/10/screen-shot-2018-10-08-at-9-53-22-pm.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2018/10/09/our-own-jackie-hunter-featured-on-wtvr-virginia-in-the-morning/index.html",
+        "index.html?p=607.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/01/11432430_s.jpg?w=300": {
+      "path": "wp-content/uploads/2019/01/11432430_s-300x229.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html",
+        "index.html?p=629.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/01/academy_award_trophy.jpg": {
+      "path": "wp-content/uploads/2019/01/academy_award_trophy.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/01/certified-fresh.png": {
+      "path": "wp-content/uploads/2019/01/certified-fresh.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/01/26/on-awards-shows/index.html",
+        "index.html?p=649.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-7.54.02-pm.png?w=300": {
+      "path": "wp-content/uploads/2019/01/screen-shot-2019-01-16-at-7.54.02-pm-300x223.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+        "index.html?p=612.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-8.03.46-pm.png?w=300": {
+      "path": "wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.03.46-pm-300x292.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+        "index.html?p=618.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-8.18.32-pm.png?w=300": {
+      "path": "wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.18.32-pm-300x269.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/01/17/guest-post-understanding-psychopathy/index.html",
+        "index.html?p=624.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-8.28.56-pm.png?w=300": {
+      "path": "wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.28.56-pm-300x265.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/01/17/guest-post-your-content-needs-a-solid-foundation/index.html",
+        "index.html?p=629.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-8.37.10-pm.png?w=300": {
+      "path": "wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.37.10-pm-300x293.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+        "index.html?p=637.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/01/screen-shot-2019-01-16-at-8.43.56-pm.png?w=296": {
+      "path": "wp-content/uploads/2019/01/screen-shot-2019-01-16-at-8.43.56-pm-296x300.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/01/17/guest-post-build-your-email-list-with-4-specific-facebook-ad-strategies/index.html",
+        "index.html?p=640.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/07/dg_0006-no-bad-dogs4.jpg?w=300": {
+      "path": "wp-content/uploads/2019/07/dg_0006-no-bad-dogs4-300x300.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/07/08/good-vs-bad-book-dont-judge/index.html",
+        "index.html?p=683.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/09/65133-v1-245x.jpeg": {
+      "path": "wp-content/uploads/2019/09/65133-v1-245x.jpeg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/09/08/public-library-shuns-writer/index.html",
+        "index.html?p=689.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2019/11/image.png?w=200": {
+      "path": "wp-content/uploads/2019/11/image-200x300.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2019/11/26/agile-writer-ken-hubona-does-it-again-shades-released/index.html",
+        "index.html?p=697.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2020/04/experimenter_poster.jpg": {
+      "path": "wp-content/uploads/2020/04/experimenter_poster.jpg",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2020/04/15/experimenter-2015/index.html",
+        "index.html?p=704.html"
+      ]
+    },
+    "https://agilewriter.files.wordpress.com/2020/09/screen-shot-2020-09-20-at-10.33.35-am.png": {
+      "path": "wp-content/uploads/2020/09/screen-shot-2020-09-20-at-10.33.35-am.png",
+      "evidence": "same image srcset and matching filename",
+      "pages": [
+        "2020/09/20/star-trektos-my-worst-to-best-episodes/index.html",
+        "index.html?p=727.html"
+      ]
+    }
+  },
+  "unmatched": {
+    "http://agilewriter.files.wordpress.com/2014/08/buyonamazon.png?w=300": [
+      "agile-writer-method-book/index.html",
+      "index.html?p=17.html"
+    ],
+    "http://greg-smith.com/wp-content/uploads/2014/12/Night_at_the_Museum_Secret_of_the_Tomb_poster-202x300.jpg": [
+      "2014/12/20/storyboard-night-at-the-museum-3/index.html",
+      "index.html?p=75.html"
+    ],
+    "http://inkwellbookcompany.com/wp-content/uploads/2017/08/Picture1.png": [
+      "2019/01/17/guest-post-how-to-start-a-writing-career-with-no-experience/index.html",
+      "index.html?p=618.html"
+    ],
+    "http://mitchell-productions.com/wp-content/uploads/2016/03/XBM-ColorMeaningChart-big2.jpg": [
+      "2019/01/17/guest-post-the-importance-of-colors-to-your-brand/index.html",
+      "index.html?p=637.html"
+    ],
+    "http://publishtothrive.com/wp-content/uploads/2018/10/Avoid-Writers-Block-Crunchedyllw.png": [
+      "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+      "index.html?p=612.html"
+    ],
+    "http://publishtothrive.com/wp-content/uploads/2018/10/Writers-Block-Still-Got-You-Stuck.png": [
+      "2019/01/17/guest-post-avoid-writers-block-with-the-candy-crunched-method/index.html",
+      "index.html?p=612.html"
+    ],
+    "http://rogerpacker.com/wp-content/uploads/dawsonmark1-300x299.jpg": [
+      "2018/07/08/hollywood-comes-calling-for-self-published-authors/index.html",
+      "index.html?p=543.html"
+    ],
+    "http://theagilewriter.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-08-at-2.34.47-AM.png": [
+      "index.html?p=31.html",
+      "related-sites/index.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2012/01/greg-circle-300x300.png": [
+      "2016/09/14/agile-writers-spotlight/index.html",
+      "index.html?p=245.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/01/ddp_logo.jpg": [
+      "2015/05/06/a-dragon-named-publishing/index.html",
+      "index.html?p=96.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/04/5174.jpg?w=300": [
+      "2015/05/19/taking-notes-on-life/index.html",
+      "index.html?p=94.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/04/index.jpg": [
+      "2015/04/16/turning-the-dial-learning-to-quiet-the-chatter-of-our-minds-through-the-accountability-of-a-writing-community/index.html",
+      "index.html?p=89.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/04/pen-name-tag.jpg?w=300": [
+      "2015/04/30/whats-in-a-pen-name/index.html",
+      "index.html?p=92.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/06/audience.jpg?w=300": [
+      "2015/07/01/an-audience-of-one/index.html",
+      "index.html?p=141.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/06/awdesk.gif": [
+      "2015/06/03/drafting-1-2-3/index.html",
+      "index.html?p=103.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/06/group-people-silhouette.jpg": [
+      "2015/06/10/developing-secondary-characters/index.html",
+      "index.html?p=122.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/07/imageedit_2_8335958346.jpg": [
+      "2015/07/24/tracking-changes/index.html",
+      "index.html?p=145.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/07/unknown.jpg": [
+      "2015/07/31/when/index.html",
+      "index.html?p=151.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/07/where_large.jpg": [
+      "2015/08/12/and-where/index.html",
+      "index.html?p=153.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/08/brand-storyteller.png?w=300": [
+      "2015/09/07/what-does-it-mean-to-be-a-storyteller/index.html",
+      "index.html?p=167.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/10/free-clipart-gavel-judge-gavel-pictures-clipart-best-pictures.gif?w=300": [
+      "2015/10/21/we-are-not-the-best-judge-of-our-own-work/index.html",
+      "index.html?p=182.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/10/images.jpg": [
+      "2015/12/02/authorpreneur/index.html",
+      "index.html?p=180.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2015/11/dt9x9e89c.jpg?w=300": [
+      "2016/03/03/plumbing-the-depths-of-your-own-life/index.html",
+      "index.html?p=187.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2016/09/spotlight.jpg": [
+      "2016/09/14/agile-writers-spotlight/index.html",
+      "index.html?p=245.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2016/10/drama-clipart.jpg": [
+      "2016/10/20/query-tips-from-an-agent/index.html",
+      "index.html?p=274.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2016/10/jim.jpg": [
+      "2016/10/05/first-draft-finishers/index.html",
+      "index.html?p=261.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2016/10/research-clip-art.jpg": [
+      "2016/10/20/query-tips-from-an-agent/index.html",
+      "index.html?p=274.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2016/10/sell-clip-art.jpg": [
+      "2016/10/20/query-tips-from-an-agent/index.html",
+      "index.html?p=274.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2017/06/images-e1499184964851.jpeg": [
+      "2017/06/26/the-art-of-incubation/index.html",
+      "index.html?p=470.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2017/08/225x225bb.jpg": [
+      "2017/08/25/the-bar-is-set-low-very-low/index.html",
+      "index.html?p=486.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2018/09/go-set-a-watchman_harper-lee-199x300.jpg": [
+      "2018/09/16/used-bookstores-are-swimming-in-these/index.html",
+      "index.html?p=603.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2019/01/golden_globe_trophy.jpg": [
+      "2019/01/26/on-awards-shows/index.html",
+      "index.html?p=649.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2019/04/picture1.png": [
+      "2019/04/08/agile-writer-ken-hubona-publishes-first-novel-brewing-justice/index.html",
+      "index.html?p=659.html"
+    ],
+    "https://agilewriter.files.wordpress.com/2020/11/pawel-furman-jo21h-4lyfu-unsplash.jpg?w=1024": [
+      "2020/11/23/the-kings-english-in-america/index.html",
+      "index.html?p=769.html"
+    ],
+    "https://teanstrumpets.files.wordpress.com/2014/03/brain1.jpg?w=300&h=285": [
+      "2019/01/17/guest-post-understanding-psychopathy/index.html",
+      "index.html?p=624.html"
+    ],
+    "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/056/56441-v2-197x.JPG": [
+      "2018/08/25/walmart-fights-kindle-with-kobo/index.html",
+      "index.html?p=589.html"
+    ]
+  },
+  "comparison_checks": [
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/01/ddp_logo.jpg",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/01/ddp_logo.jpg"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/04/5174.jpg?w=300",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/04/5174.jpg?w=300"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/04/index.jpg",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/04/index.jpg"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/04/pen-name-tag.jpg?w=300",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/04/pen-name-tag.jpg?w=300"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/06/awdesk.gif",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/06/awdesk.gif"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/06/group-people-silhouette.jpg",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/06/group-people-silhouette.jpg"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/07/imageedit_2_8335958346.jpg",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/07/imageedit_2_8335958346.jpg"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/07/unknown.jpg",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/07/unknown.jpg"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/07/where_large.jpg",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/07/where_large.jpg"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/08/brand-storyteller.png?w=300",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/08/brand-storyteller.png?w=300"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/10/images.jpg",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/10/images.jpg"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2015/11/dt9x9e89c.jpg?w=300",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2015/11/dt9x9e89c.jpg?w=300"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2016/09/spotlight.jpg",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2016/09/spotlight.jpg"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2016/10/drama-clipart.jpg",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2016/10/drama-clipart.jpg"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2017/06/images-e1499184964851.jpeg",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2017/06/images-e1499184964851.jpeg"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2017/08/225x225bb.jpg",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2017/08/225x225bb.jpg"
+    },
+    {
+      "url": "https://agilewriter.files.wordpress.com/2019/04/picture1.png",
+      "error": "Unexpected redirect destination: https://agilewriter.wordpress.com/wp-content/uploads/2019/04/picture1.png"
+    }
+  ]
+}
